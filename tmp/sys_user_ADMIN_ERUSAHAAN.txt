@@ -1,0 +1,14 @@
+2	2	3	adminkdl	1	3	1
+3	3	4	adminke	1	3	1
+4	4	5	adminkhi	1	3	1
+5	5	6	adminkiec	1	3	1
+6	6	7	adminkit	1	3	1
+7	7	8	adminkm	1	3	1
+8	8	9	adminknr	1	3	1
+9	9	10	adminks	1	3	1
+10	10	11	adminkbs	1	3	1
+11	11	12	adminkti	1	3	1
+12	12	13	adminkw	1	3	1
+13	13	14	adminmjis	1	3	1
+14	14	15	admindpks	1	3	1
+15	15	16	adminypks	1	3	1

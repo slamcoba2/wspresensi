@@ -1,0 +1,2462 @@
+sa	SUPERADMIN	9999	Super Admin	KS	1					2013-11-25 04:40:52		1
+1	Admin KS	111001	DIREKTORAT UTAMA	KS	1	2112209	admin@silatbegal.com			2013-09-12 11:20:43		90338
+5965	SITA EVITA DEWI	111001	Assistant to Direktur Utama	KS	1							
+5971	RADEN GUNAWAN	111001	Assistant to Direktur Utama	KS	1							
+6275	HADIPURNOMO	111001	Assistant to Direktur Utama	KS	1							
+6457	SUHARDIYANTO	111001	Assistant to Direktur Utama	KS	1							
+7004	SUYOTO	111001	Assistant to Direktur Utama	KS	1							
+7804	HOFMAN TAMBUNAN	111001	Assistant to Direktur Utama	KS	1							
+8653	SONNY WITJAKSONO ISKANDAR	111001	Assistant to Direktur Utama	KS	1							
+KS001	IRVAN K HAKIM	111001	DIREKTORAT UTAMA	KS	1				2013-09-18 06:33:57		KS001	
+10188A	KONTEA KUSTIANA	111001	SPI	KS	1				2013-09-19 06:09:24		10188A	
+90338	Mas Wahyu	111001	Programer KIT	KS	1	085287257777	wahyou@gmail.com		2013-09-30 07:42:07		90338	
+3500	RACHMAWATI	111101	Secretary of Director	KS	1							
+4465	SARIDJO	111101	Specialist Document Active	KS	1							
+5390	IRA HURAIRAH	111101	Specialist Document In Active	KS	1							
+5521	KENNY KAMELIA KAMAL	111101	Secretary Of Director	KS	1							
+5548	DUDUNG SUKMANA	111101	Staf Cor Sec Setingkat Foreman	KS	1							
+6727	FIRMAN NUR HIDAYAT	111101	Chief Specialist Corporate Relation	KS	1							
+7058	PAULUS DWIYONO PRASOJO	111101	Staf Cor Sec Setingkat Superintendent	KS	1							
+7062	ENDANG SETYATI LESTARINI	111101	Secretary of Director	KS	1							
+7248	YUNI WIDYA NINGSIH	111101	Secretary Of Director	KS	1							
+7666	DEDI MUHDI	111101	Specialist Document Executive	KS	1							
+8083	YADIN	111101	Officer Document In Active	KS	1							
+8648	RATMI NURANI	111101	Secretary of Director	KS	1							
+8741	AHMAD JUPRI	111101	Administrator Pemeliharaan SMKS	KS	1							
+8833	JAHURI	111101	Officer Document Active	KS	1							
+8981	ANDI AHMAD SUYUDI	111101	Superintendent Document Mgt	KS	1							
+9495	DENY ANWAR	111101	Officer Penilaian Document In Aktiv	KS	1							
+9623	ANDI FIRDAUS	111101	Corporate Secretary	KS	1							
+9753	TINI SUMARTINI	111101	Secretary of President Director	KS	1							
+10146	MUHAMAD APRI PARAYOGI	111101	Staf Cor Sec Setingkat Superintendent	KS	1							
+10155	ROHANAH	111101	Secretary of President Director	KS	1							
+10170	HARY WIDYANTO	111101	Staf Cor Sec Setingkat Supervisor	KS	1							
+10713	IIP ARIEF BUDIMAN	111101	Staf Cor Sec Setingkat Manager	KS	1							
+10719	ARIE PUDYANTI SRI S.	111101	Staf Cor Sec Setingkat Supervisor	KS	1							
+11727	YUNI ARDIANTI	111101	Officer Penilaian Document Aktiv (Ors)	KS	1							
+93001395	ADITYA ARI NUGROHO	111101	Staf Specialist Institut Relation (PKWT)	KS	1							
+U123	Unit GCG	111101	Key Unit	KS	1	999	gcg@yahoo.com		2013-08-27 03:46:38	2013-08-27 03:54:13	U123	1
+5620	RISMA PANJAITAN	111103	Para Legal**	KS	1							
+9347	SIMON PETRUS LAPIAN	111103	Sr Corporate Lawyer	KS	1							
+10053	NANO DARSONO	111103	Legal Counsel	KS	1							
+10162	SITI NURHASANAH	111103	Para Legal	KS	1							
+10716	PRIA UTAMA	111103	Manager Legal Office	KS	1							
+10717	NUR DAMAYANTI	111103	Corporate Lawyer	KS	1							
+10718	DIDA NUGRAHA	111103	Sr Corporate Lawyer	KS	1							
+10720	RACHMAN HIDAYAT	111103	Sr Corporate Lawyer	KS	1							
+11721	YUDISTIRA AFFANDI	111103	Corporate Lawyer (Ors)	KS	1							
+11793	SHAUFY RAHMI	111103	Corporate Lawyer (Ors)	KS	1							
+6001	DIDI BUDI PERMADI	111109	Specialist Risk Management	KS	1							
+7634	MUHAMAD ARIEF YUSCANDAR	111109	Sr Specialist GCG	KS	1							
+7990	SUMARDI	111109	Specialist Risk Management	KS	1							
+10075	AMDANI	111109	Sr Specialist GCG	KS	1							
+10207	SARAH ANGGIA POHAN	111109	Specialist GCG	KS	1							
+10317	SURIADI ARIF	111109	Manager GCG & Risk Management	KS	1							
+3870	A. HUMAEDI	111110	Officer Protocolaire	KS	1							
+4779	BABAY MASRUROH	111110	Sr Specialist External Communication	KS	1							
+5295	R. BAMBANG SULISTIONO	111110	Officer Internal Communication	KS	1							
+5388	RT. ERI ZAIRINA	111110	Specialist Protocolaire	KS	1							
+6626	SRI BUDI RESPATI	111110	Officer Internal Communication	KS	1							
+6655	EKO DUMADI	111110	Superintendent Protocolaire	KS	1							
+6759	IMAM SUGIARTO	111110	Specialist Protocolaire	KS	1							
+6863	MASWARMAN	111110	Sr Specialist Internal Communication**	KS	1							
+8600	MOHAMMAD TOHA	111110	Sr Specialist Internal Communication	KS	1							
+9833	IWAN NURYADI	111110	Specialist Corporate Event Mgt	KS	1							
+10240	WISNU KUNCARA	111110	Manager Corporate Communication	KS	1							
+10285	EDY CAHYONO	111110	Sr Specialist External Communication	KS	1							
+10361	EDI YUZWARDI	111110	Sr Specialist Corporate Event Mgt	KS	1							
+10368	FIRMAN TAUFIQ	111110	Specialist Corporate Event Mgt	KS	1							
+11467	DINA MEGANINGTYAS	111110	Officer Corporate Event Management	KS	1							
+11720	VICKY MUHAMMAD ROSYAD F	111110	Specialist External Communication (Ors)	KS	1							
+11787	DERY ALDY	111110	Specialist Internal Communication (Ors)	KS	1							
+11830	FRANKY PAKPAHAN	111110	Specialist Internal Communication (Ors)	KS	1							
+5562	JONSA ADENAN	111403	Superintendent Project Administration	KS	1							
+6219	HERY HARYADI	111403	Officer Project Reporting	KS	1							
+6667	EDWIN FAUZI	111403	Specialist Project Inspector	KS	1							
+7398	MANSYUR	111403	Officer Project Administration	KS	1							
+10127	MOHAMAD JAMIL	111403	Specialist Project Resources Planning	KS	1							
+10256	GERSANG TARIGAN	111403	Manager Project Management	KS	1							
+10626	DIAN HERDIANSYAH	111403	Officer Project Administration	KS	1							
+10684	TB FERRY FIRDAUS	111403	Superintendent Project Eva & Reporting	KS	1							
+11812	BAYU FRILYAN WAHDIAT	111403	Specialist Project Inspector (Ors)	KS	1							
+11828	SYIFA QONITA	111403	Specialist Project Administration (Ors)	KS	1							
+2575	WARSITO	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+3339	MOHHAMAD SALEH ASIKIN	111501	Staf Non Aktif (Setingkat Foreman)	KS	1							
+3683	DIEN SYAMSUDIN	111501	Manager Administrasi & Umum	KS	1							
+3723	TATANG MUCHTAR	111501	Sr Specialist Corporate Culture Dev	KS	1							
+4275	H.S. PARJIYANTORO	111501	Pet Arsip Medis	KS	1							
+4308	SAPNGATUN	111501	Kabag Akuntansi & Faktur Rawat Jalan	KS	1							
+4454	DJASMIRI	111501	Pet Loundry & Linen	KS	1							
+4670	FARAH MENTIKAI	111501	Staf setingkat Superintendent	KS	1							
+4674	MARLENI	111501	Kanit Medical Check Up	KS	1							
+4708	ABDULLAH HUSEIN	111501	Staf setingkat General Manager	KS	1							
+4867	MAMAN ROCHMANUDIN	111501	Sr System Programmer	KS	1							
+4873	MOHAMMAD SOLEH	111501	Kadiv Cargo Handling	KS	1							
+4890	SUTARMAN	111501	Pet Teknik Sipil	KS	1							
+4917	HERMANSYAH	111501	Kadis Ekspedisi Cilegon	KS	1							
+4944	ALITORO	111501	Staf setingkat Superintendent	KS	1							
+5027	SUHEDI	111501	Staf PT PSB	KS	1							
+5044	CICIH JUARSIH	111501	Bidan Klinik Pratama	KS	1							
+5052	BAMBANG PURNOMO	111501	Staf Setingkat General Manager	KS	1							
+5062	EDI NUSIRWAN	111501	Kadiv Pelayanan PTKS	KS	1							
+5063	MURNIATI MUNIR	111501	Perawat Klinik Utama	KS	1							
+5076	HALSONO	111501	Perawat Klinik Utama	KS	1							
+5077	IHSAN TOHA	111501	Perawat Klinik Utama	KS	1							
+5080	IBRAHIM	111501	Perawat Klinik Pratama	KS	1							
+5081	KARNAJAYA DP	111501	Perawat Klinik Utama	KS	1							
+5082	SUPRIYATNA	111501	Perawat Klinik Utama	KS	1							
+5086	SUHENDI	111501	Perawat Klinik Utama	KS	1							
+5088	ANI SETIANINGSIH	111501	Perawat Klinik Utama	KS	1							
+5141	PONTI FARI LARASATI	111501	Asisten Kepala Instalasi Laboratorium	KS	1							
+5147	KOESDI RIANTI	111501	Bidan Klinik Utama	KS	1							
+5148	SUPARMAN	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+5152	MIMI KUSMAYANI	111501	Perawat Klinik Utama	KS	1							
+5158	DEDE SYAEFUDIN AZIZ	111501	Tekniker Gigi	KS	1							
+5160	AWAL SANTOSO	111501	Assistant to Direktur SDM & Umum	KS	1							
+5161	MUJI PRAYITNO	111501	Kadiv Sistem Informasi Dana Pensiun	KS	1							
+5164	MOHAMAD RUSYDI	111501	Direktur	KS	1							
+5173	DESRI MULYATI	111501	Analis Kesehatan Pratama	KS	1							
+5232	SUTISNA	111501	Asst Manager Akuntansi & SI	KS	1							
+5270	JOJO JOWAHIR	111501	Manager Akuntansi & SI	KS	1							
+5301	MULYADI	111501	Direktur Keuangan	KS	1							
+5344	ALI MUNIF	111501	Staf Setingkat Superintendent	KS	1							
+5384	TITIN RUSTINI	111501	Staf Setingkat Supervisor	KS	1							
+5385	ARIS SANTOSO BUDHI	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+5399	SETYO BUDHI SASONO	111501	Analis Akuntansi Persd & Aktiva Tetap	KS	1							
+5407	MARTI YUERNI	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+5427	TETTY SUGIHARTATY	111501	Analis Akuntansi & Faktur Rawat Inap	KS	1							
+5435	NOVIAL	111501	Staf setingkat General Manager	KS	1							
+5436	SUCIPTO	111501	Staf Setingkat Manager	KS	1							
+5449	NIZAR ACHMAD	111501	Staf Setingkat General Manager	KS	1							
+5456	TONNO SAPOETRO	111501	Direktur Pengembangan Usaha	KS	1							
+5491	ALOYSIUS SUNARNO	111501	Staf setingkat Manager	KS	1							
+5538	AGUNG WIBOWO	111501	Staf setingkat General Manager	KS	1							
+5545	PRIYO PRAPTONO	111501	Pet Arsip Medis	KS	1							
+5625	NASRUDIN	111501	Direktur Keuangan & Administrasi	KS	1							
+5632	ANDI SOKO SETIABUDI	111501	Staf setingkat General Manager	KS	1							
+5640	TATI NURHAYATI	111501	Staf setingkat Superintendent	KS	1							
+5646	NURCHAMDAN	111501	Staf setingkat Manager	KS	1							
+5647	LUTFI AMRAN	111501	Staf Setingkat Supervisor	KS	1							
+5743	AAN SUPRIANA	111501	Staf Setingkat Superintendent	KS	1							
+5746	EKA KARTIKA	111501	Staf Non Aktif(Setingkat Superintendent)	KS	1							
+5918	MUKHRIZAL	111501	AP Pemeriksaan Operasional	KS	1							
+5927	HERY SULISTIONO	111501	Staf Setingkat Superintendent	KS	1							
+5957	DIDI IRIAWAN	111501	Staf Setingkat General Manager	KS	1							
+5978	YUDO WIDIYO	111501	Asst Manager Pengembangan Dana	KS	1							
+5983	HERMAN HUSODO	111501	Staf Bapelkes setingkat General Manager	KS	1							
+5985	SURYADI	111501	Staf Setingkat Foreman	KS	1							
+6243	MUHAMMAD	111501	Staf Setingkat General Manager	KS	1							
+6274	DWI SOEHARDJO	111501	Direktur Keuangan & SDM	KS	1							
+6281	HARDIWINARNA PUJISETIAWAN	111501	Staf Setingkat Superintendent	KS	1							
+6318	ACHMAD TAUFIK	111501	Staf setingkat Manager	KS	1							
+6378	PASTI GINTING	111501	Staf setingkat Manager	KS	1							
+6409	RAENI RATNANINGSIH	111501	Kabag Akuntansi & Faktur Rawat Inap	KS	1							
+6442	ALI GHULBAH	111501	Staf setingkat Supervisor	KS	1							
+6529	WISAPTONO	111501	Staf Bapelkes setingkat Superintendent	KS	1							
+6534	IRWANDI BOER YACOUB	111501	Business Analyst	KS	1							
+6556	RISTU TRIHERU WIDYATMADJI	111501	Staf Setingkat Superintendent	KS	1							
+6641	SAID M NOOR	111501	Staf Setingkat Supervisor	KS	1							
+6653	DUDI FACHREZI	111501	Specialist Corporate Culture Development	KS	1							
+6654	HERI EDY HARYANTO	111501	System Analyst	KS	1							
+6675	ACHMAD NASSER	111501	Staf setingkat Manager	KS	1							
+6722	MOHAMMAD NAJIB	111501	Assistant to Direktur SDM & Umum	KS	1							
+6758	SUTOYO	111501	Koordiantor Peng Bongkar Muat	KS	1							
+6763	YUSDEKA PUTRA	111501	Staf Setingkat General Manager	KS	1							
+6766	MAUDIN TUA SIMARMATA	111501	Staf Setingkat Manager	KS	1							
+6776	ZURAIDAH	111501	Business Analyst	KS	1							
+6777	ANWAR MANURUNG	111501	System Analyst	KS	1							
+6854	TIRTA DJAJA	111501	Staf Setingkat General Manager	KS	1							
+6855	HARRY PURNOMO	111501	Staf Setingkat General Manager	KS	1							
+6856	WAYAH GIRI ISCHAK	111501	Staf Setingkat General Manager	KS	1							
+6870	KOESNOHADI	111501	Staf Setingkat General Manager	KS	1							
+6885	YUHELVIA	111501	Dietisien Utama	KS	1							
+6888	WISNU KUNCORO	111501	Direktur Utama	KS	1							
+6910	ARMIN	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+6911	ACIH YUNIARSIH	111501	Kanit Melati (Perawatan II)	KS	1							
+6912	UBAIDIYAH	111501	Perawat Klinik Pratama	KS	1							
+6915	YETTY MULYATI	111501	Perawat Klinik Pratama	KS	1							
+6916	AL HIKMAH	111501	Direktur Keuangan & SDM	KS	1							
+6918	SOFYAN AMIN	111501	Staf Setingkat General Manager	KS	1							
+6929	WAWAN HERNAWAN	111501	Staf Setingkat Manager	KS	1							
+6931	IMAN SUPANGAT	111501	Staf setingkat Superintendent	KS	1							
+6948	KAMARUL HAJAR	111501	Assistant to Direktur SDM & Umum	KS	1							
+6953	AGUS MUHAMMAD SATRIYO	111501	Direktur Pengembangan	KS	1							
+7002	MUHAMMAD YUSUF MARHABAN	111501	Staf Setingkat Manager	KS	1							
+7003	BAMBANG EDI SAPTONO	111501	Staf setingkat Manager	KS	1							
+7010	AHMAD SOBANDI	111501	Staf setingkat Manager	KS	1							
+7032	ERWIN	111501	Direktur Keuangan & Umum	KS	1							
+7040	AGUS FAUZI	111501	Analis Akuntansi & Faktur Rawat Inap	KS	1							
+7054	MUNTAHA	111501	Pet Persediaan Obat & Alkes Rawat Inap	KS	1							
+7055	SUKIRNO	111501	Pet Kasir Sentral	KS	1							
+7057	ATING SUTISNA	111501	Pet Administrasi Rekam Medis	KS	1							
+7060	ENNY UTAYA	111501	Staf Medis Fungsional Spesialistik	KS	1							
+7065	DUDUNG DEDI SUTANTO	111501	Kadiv Shiping	KS	1							
+7204	MOHAMMAD NAZIRWAN	111501	Staf Setingkat Foreman	KS	1							
+7221	PRELLY YUSTIANA	111501	Staf Bapelkes setingkat Supervisor	KS	1							
+7222	MUNAWAR	111501	Sr System Analyst	KS	1							
+7231	TJOKI HIDAYAT	111501	Direktur Utama	KS	1							
+7233	DARIAHMAN MANALU	111501	Staf setingkat Superintendent	KS	1							
+7351	RADEN PURDIYANTO	111501	Staf Setingkat Superintendent	KS	1							
+7379	RAMADHI	111501	Database Administrator	KS	1							
+7394	JUMARO	111501	Staf setingkat Superintendent	KS	1							
+7655	DESI SURYANI	111501	Perawat Gigi Pratama	KS	1							
+7669	EDI SISWANTO	111501	Sr System Analyst	KS	1							
+7743	PRABOWO HENDRO WASISTO	111501	Staf Setingkat Manager	KS	1							
+7747	HARTOYO	111501	Staf Setingkat Superintendent	KS	1							
+7795	WIRATMA	111501	Sr System Engineer	KS	1							
+7848	TOTO WARTONO	111501	Staf Marketing & Customer Service	KS	1							
+7849	ABUBAKAR ZAINI	111501	Direktur Keuangan & SDM	KS	1							
+7896	DODI MOCH. FACHRODJI	111501	Staf Setingkat Foreman	KS	1							
+7975	ROODY PURWAREJA	111501	Staf setingkat Superintendent	KS	1							
+8011	KRISNADI WIDIARTO	111501	Sr System Analyst	KS	1							
+8018	DEWI HANDAYANI	111501	Staf Setingkat Manager	KS	1							
+8028	NI SAYU KETUT SUARTINI	111501	Perawat Klinik Pratama	KS	1							
+8029	YETI RUSMIATI	111501	Analis Kesehatan Pratama	KS	1							
+8059	MULHADI	111501	Staf Setingkat Superintendent	KS	1							
+8063	ADITYAS NIRMALA	111501	Staf Setingkat General Manager	KS	1							
+8067	ABDULLAH IDRUS	111501	Staf setingkat Manager	KS	1							
+8085	TOSSY AMITAS HARISENO	111501	GM Pemasaran & Operasi	KS	1							
+8086	FAHERY	111501	Staf Setingkat Supervisor	KS	1							
+8087	DANI CHANIFAN	111501	Staff Setingkat Superintendent	KS	1							
+8089	DODI DRAJAT	111501	Staf Bapelkes setingkat Superintendent	KS	1							
+8114	PARULIAN SINAGA	111501	Staf Setingkat Manager	KS	1							
+8115	ANUGRAH RAHARDJO	111501	Staf Setingkat Superintendent	KS	1							
+8117	SULISTYADI	111501	Staf Setingkat Manager	KS	1							
+8126	SUHERMAN	111501	Staf setingkat Superintendent	KS	1							
+8134	INDRA GUNAWAN	111501	Staf Setingkat Superintendent	KS	1							
+8135	ALWAN	111501	Staf Setingkat Superintendent	KS	1							
+8138	ARIEF SUHARTOMO	111501	Staf setingkat Manager	KS	1							
+8141	NANANG SURYANA	111501	Staf setingkat Manager	KS	1							
+8143	ACHWAN EFFENDI	111501	Staf Setingkat General Manager	KS	1							
+8149	ZAENAL MUNTHOHA	111501	Staf Setingkat Superintendent	KS	1							
+8150	BAMBANG SETYAWAN	111501	Staf Setingkat Manager	KS	1							
+8164	RUDI ACHMID	111501	Staf Bapelkes setingkat Superintendent	KS	1							
+8189	SUYANTO	111501	Communication Engineer	KS	1							
+8190	SULAEMAN	111501	System Engineer	KS	1							
+8238	HERY SUSANTO	111501	Staf Setingkat Manager	KS	1							
+8267	HIFNI SYARIFUDDIN	111501	Sr Communication Engineer	KS	1							
+8274	DUDU ABDULLAH	111501	Kadiv Keuangan & SDM	KS	1							
+8279	NURJAMAN	111501	Group Leader Corporate Culture Develop	KS	1							
+8337	BANGUN PRIBADI	111501	Staf Setingkat Supervisor	KS	1							
+8342	UJANG MULYANA	111501	Staf setingkat Foreman	KS	1							
+8445	HANDRITO IRIAN BHARATA	111501	Staf Setingkat Manager	KS	1							
+8446	TUTUT PRASETYA	111501	Staf Setingkat Superintendent	KS	1							
+8449	EDI PRIYANTO	111501	Staf setingkat Manager	KS	1							
+8460	RADEN MAS HARTADI	111501	Staf setingkat Superintendent	KS	1							
+8502	RONNE HENDRAJAYA	111501	Staf setingkat Manager	KS	1							
+8504	EDI CAWARMAN	111501	Kanit Sterilisasi Sentral & Gas Medis	KS	1							
+8510	SUGENG WAHYONO	111501	System Analyst	KS	1							
+8511	THIO TAN FUNG	111501	System Analyst	KS	1							
+8526	ALUGORO MULYOWAHYUDI	111501	Staf setingkat General Manager	KS	1							
+8555	SONY WIDODO	111501	Staf Setingkat Manager	KS	1							
+8559	M BANAMPERA	111501	Staf Setingkat Manager	KS	1							
+8560	MOHAMMAD VIP HIDAYAT	111501	Staf Setingkat Superintendent	KS	1							
+8573	CHUSNU FARIDA	111501	Staf Setingkat Manager	KS	1							
+8580	BAMBANG NUGROHO	111501	System Engineer Specialist	KS	1							
+8585	M MUCHLISH	111501	Staf setingkat Superintendent	KS	1							
+8588	ZUSVELDI DALIMO	111501	Staf setingkat Superintendent	KS	1							
+8589	HEDI SULYANTIADI	111501	Sr System Analyst	KS	1							
+8591	PRAYOGA	111501	Staf setingkat Manager	KS	1							
+8599	ZAINAL MUTTAQIEN	111501	Staf setingkat Manager	KS	1							
+8617	ALI KHUMAIDI	111501	Staf setingkat Pelaksana	KS	1							
+8642	ASA TANI	111501	Staf setingkat Manager	KS	1							
+8680	NANA SURYANA	111501	Staf Setingkat Foreman	KS	1							
+8795	IWAN PRIADARMAWAN	111501	Staf Setingkat Manager	KS	1							
+9051	A. TONY HARSO PRAMONO	111501	Staf setingkat Manager	KS	1							
+9083	BAMBANG NUR ALAM	111501	Kadis Pendanaan	KS	1							
+9122	EDI SISWANTO	111501	Staf Non Aktif (Setingkat Pelaksana)	KS	1							
+9169	L. REKSO SOENARYO	111501	Kabid Sistem Informasi	KS	1							
+9181	MAULANA RUSLI	111501	Staf Setingkat Superintendent	KS	1							
+9361	DIKDIK TRIYADI	111501	Staf setingkat Superintendent	KS	1							
+9364	ZULSAFRIN INDRA	111501	Staf Setingkat Superintendent	KS	1							
+9409	PURWONO WIDODO	111501	Direktur Utama	KS	1							
+9418	MOCHAMMAD ANAS	111501	Staf Setingkat Foreman	KS	1							
+9435	TB DONY SUGIHMUKTI	111501	Direktur Pengembangan Usaha	KS	1							
+9494	RAMLIA KABAN	111501	Staf Setingkat Manager	KS	1							
+9580	ARI HADI MULYADI	111501	Staf setingkat Supervisor	KS	1							
+9622	DARU PRAMONO	111501	Sr System Analyst	KS	1							
+9631	AHMAD ZARKASYI	111501	Staf Setingkat Superintendent	KS	1							
+9635	SOPAR RINOF PURBA	111501	Staf setingkat Superintendent	KS	1							
+9645	GUSTAF MUDA OLOAN	111501	Staf Setingkat Superintendent	KS	1							
+9694	AIDUN DUDUNG HERIANTO	111501	Staf setingkat Superintendent	KS	1							
+9696	AKMALUDIN	111501	Direktur Perencanaan & Niaga	KS	1							
+9709	IMAM PRASODJO	111501	Kadiv Competence Center KHS	KS	1							
+9712	ARIF SUGIYONO	111501	Staf Setingkat Superintendent	KS	1							
+9715	SLAMET GUNAWAN	111501	Direktur Keuangan & Umum	KS	1							
+9769	SUGIANTO	111501	Perawat Klinik Utama	KS	1							
+9790	KOMAR BENYAMIN	111501	Staf setingkat Manager	KS	1							
+9856	SUHARDI SLAMET	111501	Staf Dept SDM & Umum	KS	1							
+9890	ANNA MAULANA	111501	Staf setingkat Superintendent	KS	1							
+9909	DIDIT ARYADI SIGIT	111501	Staf setingkat Manager	KS	1							
+9930	FELLA RAFAEL	111501	Staf setingkat Superintendent	KS	1							
+9937	HARINI TRIYANTARI	111501	Staf Bapelkes setingkat Manager	KS	1							
+9957	CHRISTIAN SADHONO PUTRO	111501	Staf setingkat Manager	KS	1							
+9976	TONNY SIAHAAN	111501	Perawat Klinik Utama	KS	1							
+9982	PRIANDOKO	111501	Staf setingkat Manager	KS	1							
+9983	RADEN AJENG DIAH PERTIWI	111501	Staf Medis Fungsional Spesialistik	KS	1							
+9984	DWI MURDIJANTO SUTOPO	111501	Staf Setingkat Manager	KS	1							
+9986	SARWONO	111501	Staf setingkat Superintendent	KS	1							
+9992	MIEKE LYDIA TARCK	111501	Staf setingkat Superintendent	KS	1							
+9995	FERRY KURNIANTO	111501	Direktur Keuangan & Administrasi	KS	1							
+10000	WURTJAHJO	111501	Staf setingkat Manager	KS	1							
+10006	TJANDRA BUDIMAN	111501	Staf Setingkat General Manager	KS	1							
+10010	KUNDOYO	111501	System Engineer	KS	1							
+10031	MULYADI	111501	Sr System Analyst	KS	1							
+10061	JOKO HARDIANTO	111501	Group Head	KS	1							
+10078	MA'RUF SJIVA HIDAYAT	111501	Staf Setingkat Foreman	KS	1							
+10085	HERIANTO	111501	Staf setingkat Superintendent	KS	1							
+10109	MAKMUN	111501	Staf setingkat Manager	KS	1							
+10136	NAZRUL RAMADHANSYAH	111501	Sr System Analyst	KS	1							
+10137	ROSUL HAJI	111501	Sr System Analyst	KS	1							
+10138	EDIE PRASETYA	111501	Sr System Programmer	KS	1							
+10139	SUPRIYADI	111501	Pemeriksa Madya	KS	1							
+10142	YUSUF WIBISANA	111501	Staf Setingkat Supervisor	KS	1							
+10147	WIJANARKO	111501	Asisten Kepala Instalasi radiologi	KS	1							
+10165	EKO BUDI SETIYANTO	111501	Staf Bapelkes setingkat General Manager	KS	1							
+10166	BAMBANG WAHYUAGUNG	111501	Staf setingkat Manager	KS	1							
+10186	AGUS SUTAN KAHARUDIN	111501	Staf setingkat Superintendent	KS	1							
+10192	HERU SWASONO	111501	Staf setingkat Superintendent	KS	1							
+10214	GUNAWAN SETYADI	111501	Staf Setingkat Manager	KS	1							
+10216	MURTYASTANTO	111501	Staf Setingkat Manager	KS	1							
+10224	SUARDI	111501	Staf setingkat Manager	KS	1							
+10227	WAWAN SETIAWAN	111501	Staf Setingkat Superintendent	KS	1							
+10237	SAMSUL HADI HANAFI	111501	Staf Setingkat Superintendent	KS	1							
+10238	ANTON FIRDAUS	111501	Staf Setingkat General Manager	KS	1							
+10249	PUTU WISASTRA	111501	Staf Setingkat Superintendent	KS	1							
+10253	IRZAN R DJAFAR	111501	Staf Setingkat Superintendent	KS	1							
+10265	ARIEF NUGRAHA	111501	Staf setingkat Superintendent	KS	1							
+10268	RR NIVO NARULITA YUNINDA	111501	Assistant to Direktur SDM & Umum	KS	1							
+10271	DESRIYANTO	111501	Staf setingkat Superintendent	KS	1							
+10282	ARIEF TIASLAKSONO	111501	Staf Setingkat Superintendent	KS	1							
+10286	IWG  DARMAYADI	111501	Staf Setingkat Superintendent	KS	1							
+10292	EKA SYUHADA	111501	Staf setingkat Manager	KS	1							
+10293	TAUFIK	111501	Staf setingkat Manager	KS	1							
+10296	MITA HIMAWATI	111501	Staff Setingkat Manager	KS	1							
+10297	MUHAMMAD RIDJAL	111501	Assistant to Direktur SDM & Umum	KS	1							
+10301	DWI RAHARDJO	111501	Staf Setingkat Supervisor	KS	1							
+10303	R NANDANG SUKANDAR	111501	Staf setingkat Manager	KS	1							
+10311	ANANG SYA'RONI	111501	Staf Setingkat Manager	KS	1							
+10316	EDJIE DJAUHARI	111501	Staf setingkat Manager	KS	1							
+10328	DHENY SUSETYA	111501	Staf setingkat Manager	KS	1							
+10329	TRIONO	111501	Staf Bapelkes setingkat Superintendent	KS	1							
+10332	ALFA ENERSI	111501	Staf Setingkat Superintendent	KS	1							
+10340	HARIS NASUKHA	111501	Staf setingkat Superintendent	KS	1							
+10346	BUDI HARYOKO	111501	Staf Setingkat Superintendent	KS	1							
+10348	NOOR FUAD	111501	Staf setingkat Manager	KS	1							
+10350	YANHANDRI	111501	Staf setingkat Superintendent	KS	1							
+10352	IRVAN MUHSON JAUHARI	111501	Staf Setingkat Superintendent	KS	1							
+10354	RIDWAN	111501	Staf Setingkat Superintendent	KS	1							
+10382	ASEP TAUFIKULLOH	111501	Staf Setingkat Foreman	KS	1							
+10621	DWI PRAWOTO	111501	Staf Setingkat Foreman	KS	1							
+10638	YUDI PERMANADI KUSUMAH	111501	Staf setingkat Pelaksana	KS	1							
+10694	KUNTO RADJOSO	111501	Staf Setingkat Superintendent	KS	1							
+10702	HAPPY SAEFUL RAHMAN	111501	Staf setingkat Superintendent	KS	1							
+10710	ASEP AHMAD SOLIHUDIN	111501	Staf Setingkat Superintendent	KS	1							
+10721	NOVITA YUSNIATY	111501	Staf setingkat Superintendent	KS	1							
+10740	DEIDIN AGUNG SAPTA NOVIAWAN	111501	Staf setingkat Superintendent	KS	1							
+10743	RANY ANGGRAINY	111501	Staf setingkat Superintendent	KS	1							
+10759	FABIAN IMANASA AZOF	111501	Staf setingkat Supervisor	KS	1							
+10913	VIDI ZULFIKAR	111501	Staf Setingkat Pelaksana	KS	1							
+10921	ADE DESI SAFRIYANTI	111501	Staf Bapelkes setingkat Foreman	KS	1							
+10922	SYAMSUL MAARIF	111501	Staf Bapelkes setingkat Foreman	KS	1							
+10923	AHMAD KURNIAWAN	111501	Staf Bapelkes setingkat Foreman	KS	1							
+10924	ANDI ARIEF SURAHMAT	111501	Staf Bapelkes setingkat Foreman	KS	1							
+11087	LUCKY AULIYA	111501	Staf Non Aktif (Setingkat Pelaksana)	KS	1							
+11320	BARMAWI	111501	Staf Non Aktif (Setingkat Pelaksana)	KS	1							
+11719	IRVIN FERDIANSYAH BUJANG	111501	Staf Setingkat Supervisor (Ors)	KS	1							
+4728	WIDIE HARTINAH	111502	Staf HC Adm & GA Setingkat Foreman	KS	1							
+4769	MAD ISHAK	111502	Administrator Pemeliharaan SMKS	KS	1							
+4954	DEDY MULYADI	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+4971	PATAYASIN	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+5308	DEDI RUSTANDI	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+5334	BAMBANG SUCAHYO	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+6259	ASEP SASTRAMIHARJA	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+6260	ADANG SUHERMAN	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+6286	ASIAH	111502	Staf HC Adm & GA Setingkat Foreman	KS	1							
+6880	BAMBANG WIDIYATMOKO	111502	Staf HC Adm& GA Setingkat Superintendent	KS	1							
+8080	AAN ASNAWATI	111502	Staf HC Adm & GA Setingkat Foreman	KS	1							
+8110	JUMIATUN	111502	Staf HC Adm & GA Setingkat Supervisor	KS	1							
+9106	BENNY NASRULLAH B	111502	Staf HC Adm& GA Setingkat Superintendent	KS	1							
+10295	AGUS NIZAR VIDIANSYAH	111502	General Manager HC Adm & General Affair	KS	1							
+10566	UJANG SAEFULLAH	111502	Staf HC Adm& GA Setingkat  Petugas	KS	1							
+3653	HERY MUDJI SARWONO	111511	Sr Specialist Organization Design	KS	1							
+4928	DADANG MULYANA	111511	Sr Specialist Organization Design	KS	1							
+5017	PARYANTO	111511	Specialist Organization Design	KS	1							
+5054	I KETUT RUASTIKA	111511	Manager Organization Design & HCP	KS	1							
+8229	ERWIN SUTEJA KUSUMA	111511	Sr Specialist Organization Design	KS	1							
+8655	YONGKI YUSUF BRATADIREJA	111511	Specialist Human Capital Planning	KS	1							
+9845	ABD RAGIB RASYID	111511	Specialist Management Outsourcing	KS	1							
+10248	SUDIYETNO	111511	Superintendent Human Capital Planning	KS	1							
+10542	AMIRUDIN	111511	Officer Human Capital Planning	KS	1							
+10961	UCU SAADAH	111511	Specialist Human Capital Planning	KS	1							
+10972	ILHAM BASHIRUDIN	111511	Specialist Organization Design	KS	1							
+11489	ANDRI	111511	Specialist Organization Design (Ors)	KS	1							
+11752	ENDAH FAJARWATI ADAWIYAH	111511	Officer Organization Design (Ors)	KS	1							
+4293	MOH. ARIEF CHANAFI	111521	Sr Specialist HC Integration & Adm	KS	1							
+4577	ALI ARIFIN	111521	Superintendent Ind Relation& Integration	KS	1							
+5225	NINA SUMARNI	111521	Officer Health Care Prom & Prov Control	KS	1							
+5395	UJANG HIBAR	111521	Supervisor Intergoverment & Ind Relation	KS	1							
+6354	HADI SUBAGIO	111521	Specialist HC Communication & Counseling	KS	1							
+6937	ENGKOS KOSASIH	111521	Superintendent Personnel Services	KS	1							
+6981	ANANG SURYANA	111521	Supervisor Time Management & Services II	KS	1							
+7013	YULIAS NUGROHOWATI	111521	Supervisor Welfare Administration	KS	1							
+7226	SUGIYAMTO	111521	Supervisor Personnel Data Master Mtc	KS	1							
+7439	SUHAIDI	111521	Specialist HC Communication & Counseling	KS	1							
+7452	NURUDIN	111521	Officer Time Management & Services III	KS	1							
+7555	PARWAN	111521	Officer Time Management & Services III	KS	1							
+7658	BUDI RAHMAT	111521	Manager Human Capital Integration & Adm	KS	1							
+8001	SUWITO	111521	Officer Payroll	KS	1							
+8025	RATU ETY SUHARTINY	111521	Officer Health Care Administration	KS	1							
+8199	DARYANTO	111521	Supervisor Health Care Prom & Prov Contr	KS	1							
+8277	R. BAMBANG SISWANTO	111521	Supervisor Time Management& Services III	KS	1							
+8328	HARYONO	111521	Superintendent HC Adm & Data Master	KS	1							
+8382	IRIAMAN	111521	Specialist HC Communication & Counseling	KS	1							
+8633	RUSTONO	111521	Supervisor HC Document Administration	KS	1							
+8693	MADNOH	111521	Officer Time Management & Services I	KS	1							
+8742	SUDJADI	111521	Specialist Insurance Analysis	KS	1							
+8752	NURDIN	111521	Officer Intergoverment & Ind Relation	KS	1							
+8910	WIDODO	111521	Superintendent Payroll & Insurance	KS	1							
+9266	MUHAIRIN	111521	Officer Welfare Administration	KS	1							
+9386	ABAS	111521	Officer Health Care Administration	KS	1							
+9444	SUYANTO	111521	Supervisor Health Care Administration	KS	1							
+9517	ZULKARNAIN	111521	Officer Time Evaluation & Travel Mgt	KS	1							
+9663	WARSONO	111521	Superintendent Health Care & Welfare	KS	1							
+9803	JULYANA WAKKARY	111521	Specialist Visa & Passport Arragement	KS	1							
+9824	RUSDI	111521	Officer Time Evaluation & Travel Mgt	KS	1							
+9843	ANTHONY BASTIAN T.	111521	Supervisor Time & Travel Mgt Jkt Office	KS	1							
+9899	SUDARSONO	111521	Supervisor Time Management & Services I	KS	1							
+10366	RIDWAN	111521	Supervisor Human Capital Monitoring	KS	1							
+10404	SUNARTO	111521	Officer Time Management & Services II	KS	1							
+10457	NANIK MULYATI	111521	Officer Time Management & Services III	KS	1							
+10502	JAYADI	111521	Supervisor Time Evaluation & Travel Mgt	KS	1							
+10544	AGUS MUNAWAR FUADI	111521	Officer Time Management & Services II	KS	1							
+10560	MOCHAMAD THOHA	111521	Supervisor Allowance & Incentive	KS	1							
+10611	SULAEMAN	111521	Supervisor Payroll	KS	1							
+10613	DADANG MAKHPUDDIN	111521	Officer Payroll	KS	1							
+10618	SULAEMAN	111521	Officer Time Management & Services III	KS	1							
+10683	TETY SUDIYATI	111521	Officer Time & Travel Mgt Jkt Office	KS	1							
+11722	GITA DEMALA SARI	111521	Officer Allowance & Inscentive (Ors)	KS	1							
+11725	RAHMADHANY TRIASTANTO	111521	Officer Time Mngment & Services I (Ors)	KS	1							
+11731	MUHAMMAD IQBAL	111521	Officer Time Mngment & Servics II (Ors)	KS	1							
+11765	ATI PANGARIBOWO	111521	Officer HC Document Admin (Ors)	KS	1							
+11777	NENA RESTIANA	111521	Officer Personnel Data Master Mtc (Ors)	KS	1							
+11789	SHALINY ADELESTARI	111521	Specialist HC Integration & Adm (Ors)	KS	1							
+4765	SLAMET SUDARSONO	111522	Sr Specialist Human Capital Development	KS	1							
+5249	CATUR TOTOK AGUNG	111522	Sr Specialist Human Capital Development	KS	1							
+5626	LILY ROHILI	111522	Specialist Competency Assessment	KS	1							
+5751	WASKITO SUWIGNYO	111522	Manager Human Capital Development	KS	1							
+6019	CECEP SUHERMAN	111522	Officer Career Development	KS	1							
+7078	SISWATI	111522	Specialist Career Development	KS	1							
+7457	HARUN SOHAR	111522	Specialist Career Development	KS	1							
+7646	ARSUDIN	111522	Sr Specialist Human Capital Development	KS	1							
+8251	DEDE AMIR HAMZAH	111522	Superintendent Competency Assessment	KS	1							
+8456	HERI YUHARNA	111522	Sr Specialist Human Capital Development	KS	1							
+8598	FARIZI	111522	Superintendent Career Development	KS	1							
+9661	AGUS WAHIDIN	111522	Specialist Human Capital Development	KS	1							
+10022	TATANG HIDAYAT	111522	Specialist Human Capital Development	KS	1							
+10184	DIKDIK SYAMSUL MA'ARIF	111522	Sr Specialist Human Capital Development	KS	1							
+10971	KRESTINA PUSPASARI	111522	Specialist Human Capital Development	KS	1							
+11421	TITO REAGEN GORBACEV	111522	Officer Competency Assessment	KS	1							
+3631	DARUSWEL BAICHIN	111523	Sr Specialist Performance & Improv Mgt	KS	1							
+6196	ABDUL HALIM	111523	Sr Specialist Performance & Improv Mgt	KS	1							
+6615	TB. SUDJOKO	111523	Specialist Performance & Improv Mgt	KS	1							
+6945	TOTOK SUBIYAKTO	111523	Sr Specialist Performance & Improv Mgt	KS	1							
+7053	YAYAH SUHAIRIYAH	111523	Administrator SMKS	KS	1							
+8200	ZULHERI ZAENUL	111523	Sr Specialist Compensation Management	KS	1							
+8309	BINSAR MARUHUM TAMBUNAN	111523	Specialist Performance & Improv Mgt	KS	1							
+8933	PUTUT SUJIANTO	111523	Specialist Performance & Improv Mgt	KS	1							
+9343	MASDUKI	111523	Specialist Performance & Improv Mgt	KS	1							
+10242	NYOMAN SEDANA	111523	Sr Specialist Performance & Improv Mgt	KS	1							
+10254	MOH KOHIR AMAN	111523	Manager Performance Mgt & Compensation	KS	1							
+10571	DIDIK EKA SURYA	111523	Specialist Compensation Management	KS	1							
+11821	PAULINA SIHDEWI PURNANDARI	111523	Specialist Compensation Management (Ors)	KS	1							
+4329	SUPANDI	111554	Officer Pengelolaan Kendaraan Utility	KS	1							
+4482	UJANG KOMARUDIN	111554	Specialist Perc.Prwt.Perktran,Perum&Link	KS	1							
+4778	AGRID	111554	Officer Prwt Instalasi Air & Listrik	KS	1							
+5126	WILMANSYAH	111554	Supervisor Adm Perum & Peralatan Kantor	KS	1							
+5184	HAERIYAH	111554	Officer Adm Perumahan	KS	1							
+5641	ADE DWI ADEDI	111554	Superintendent Land Asset Management	KS	1							
+5973	SUNU BARYONO	111554	Superintendent Vehicle & Document Mgt	KS	1							
+6129	HERMAN RIYONO	111554	Spesialis Tata Ruang Kawasan & Perkant	KS	1							
+6652	ENAH SUHAENAH	111554	Specialist Manajemen Asset Pertanahan	KS	1							
+6751	ABDURAKHMAN	111554	Supervisor Pengelolaan Kend Utility	KS	1							
+7017	DALIMAN	111554	Officer Prwt Perum, Perkantoran & Link	KS	1							
+7173	SLAMET PRIYONO	111554	Specialist Perc.Prwt.Perktran,Perum&Link	KS	1							
+7644	SLAMET SUGIARTO	111554	Officer Adm Peralatan Kantor & AC	KS	1							
+7652	MASRI	111554	Officer Pengelolaan Kendaraan Utility	KS	1							
+8327	SOMADI	111554	Officer Pengelolaan Kendaraan Utility	KS	1							
+8492	WAWAN JUHANSAH	111554	Supervisor Prwt Perumahan & Perkantoran	KS	1							
+8592	NOOR YUDONO	111554	Manager General Affair	KS	1							
+8603	MAWARDI	111554	Supervisor Perkantoran & Telkom Jkt	KS	1							
+9506	SUGIYONO	111554	Officer Prwt Perum, Perkantoran & Link	KS	1							
+9535	TJUTJUK WIDIANTO	111554	Superintendent Office & Housing Mgt	KS	1							
+9828	EDISON	111554	Superintendent Planning Maint. OH & Env	KS	1							
+10154	SUPARTO	111554	Specialist Manajemen Asset Pertanahan	KS	1							
+10520	SONNY PERADE MARTIN	111554	Officer Perenc Prwt Perkantoran & ATK	KS	1							
+10670	LUKMAN HAKIM	111554	Officer Prwt Instalasi Air & Listrik	KS	1							
+10932	ANDRIAN NOVRIATAMA	111554	Specialist Manajemen Asset Pertanahan	KS	1							
+11037	IIM FIRMANSYAH	111554	Specialist Manajemen Asset Pertanahan	KS	1							
+11460	ANDIKA BRANIDEL	111554	Officer Perc.Prwt.Perkntran,P&L	KS	1							
+11468	DWI SUTANTO	111554	Officer Perc.Prwt.Perkntran,P&L	KS	1							
+11487	YOGA GUSTIMAN NALENDRA	111554	Officer Manajemen Asset Pertanahan	KS	1							
+11917	M MAWARDI SULENDRA	111554	Officer Manajemen Asset Pertanahan (Ors)	KS	1							
+4632	TITI TAHERAWATI	111558	Specialist Bina Lingkungan	KS	1							
+4967	WIDADI	111558	Officer Kemitraan Usaha Kecil	KS	1							
+5241	ZARKASI	111558	Officer Kemitraan Usaha Kecil	KS	1							
+5310	ARIS SANTOSA	111558	Specialist Keuangan PKBL	KS	1							
+5984	BURHANUDIN	111558	Specialist Kemitraan Usaha Kecil	KS	1							
+6386	HASAN BASRI	111558	Superintendent Social Responsibility	KS	1							
+6994	ASEP HERMAWAN	111558	Officer Bina Lingkungan	KS	1							
+7236	DEDI JUANDA	111558	Superintendent Community Development	KS	1							
+7390	HENDRIA SAKTI	111558	Specialist Kemitraan Usaha Kecil	KS	1							
+7735	RUDI PURWANTO	111558	Specialist Kemitraan Usaha Kecil	KS	1							
+8070	HARTANTO	111558	Superintendent Community Dev Finance	KS	1							
+8075	MUCHARAM	111558	Officer Kemitraan Usaha Kecil	KS	1							
+8169	ADRIANA PERIS	111558	Manager Community Development	KS	1							
+10077	IFAT BAYU FATHONAH	111558	Spesialist Community Development	KS	1							
+10151	ANAZMUDIN	111558	Specialist Kemitraan Usaha Kecil	KS	1							
+10409	FIRDAUS	111558	Officer Bina Lingkungan	KS	1							
+10448	ALKAFFALTATIONIS	111558	Specialist Evaluator &Monitoring Lembaga	KS	1							
+10530	JAMAL ABDUL NASIR	111558	Specialist Bina Lingkungan	KS	1							
+11466	DEWI RATIH KEMALA	111558	Officer Keuangan PKBL	KS	1							
+2291	DEDE SOMADI SUKARMAN	111562	Staf Transfer Knowledge	KS	1							
+2365	NANA TARSANA	111562	Staf Transfer Knowledge	KS	1							
+2567	SOLICHIN SYA'RONI	111562	Staf Transfer Knowledge	KS	1							
+2670	BUDI SANTOSO	111562	Staf HCP & Dev Setingkat Superintendent	KS	1							
+2748	SUKAMTO SASTROSUMARTO	111562	Staf Transfer Knowledge	KS	1							
+2796	HOTMAN JAUHARI	111562	Staf Transfer Knowledge	KS	1							
+2807	ABENG TRISPONO	111562	Staf Transfer Knowledge	KS	1							
+2809	AGUS SETIAWAN	111562	Staf Transfer Knowledge	KS	1							
+2926	ATANG NURYADI	111562	Staf Transfer Knowledge	KS	1							
+2928	MAT AMIN	111562	Staf Transfer Knowledge	KS	1							
+2980	MUHAMMAD YUSUF	111562	Staf Transfer Knowledge	KS	1							
+3020	SUHUPI	111562	Staf Transfer Knowledge	KS	1							
+3114	KASIMIN RIYANTO	111562	Staf Transfer Knowledge	KS	1							
+3192	AFRIZAL	111562	Staf Transfer Knowledge	KS	1							
+3221	A RACHMAN	111562	Staf Transfer Knowledge	KS	1							
+3245	SLAMET SUMEDI	111562	Staf Transfer Knowledge	KS	1							
+3266	SACHRIL DARMAWANSYAH	111562	Staf Transfer Knowledge	KS	1							
+3284	JOKO SUTARTO	111562	Staf Transfer Knowledge	KS	1							
+3293	SALEH KAMSARY	111562	Staf Transfer Knowledge	KS	1							
+3294	NANA DJUNUDIN	111562	Staf Transfer Knowledge	KS	1							
+3329	PRASTITO	111562	Staf Transfer Knowledge	KS	1							
+3330	DJULIAN EFENDI S.	111562	Staf Transfer Knowledge	KS	1							
+3335	ARWAN MURYANTORO	111562	Staf Transfer Knowledge	KS	1							
+3338	EDY SUDARMANTO	111562	Staf Transfer Knowledge	KS	1							
+3354	DEDI WASITA	111562	Staf Transfer Knowledge	KS	1							
+3363	SURAJI	111562	Staf Transfer Knowledge	KS	1							
+3367	JAMIN	111562	Staf Transfer Knowledge	KS	1							
+3488	DADANG WAHYUDIN	111562	Staf Transfer Knowledge	KS	1							
+3523	ENDANG SUPRIYADI	111562	Staf Transfer Knowledge	KS	1							
+3540	ROCHMANI	111562	Staf Transfer Knowledge	KS	1							
+3586	MOHAMAD OMI MASKUR	111562	Staf Transfer Knowledge	KS	1							
+3621	SAMANI	111562	Staf Transfer Knowledge	KS	1							
+3654	SUKIRNO	111562	Staf Transfer Knowledge	KS	1							
+3728	SUWARKO	111562	Staf Transfer Knowledge	KS	1							
+3752	ERWIN BUSTAMAN	111562	Staf Transfer Knowledge	KS	1							
+3800	SUYADI	111562	Staf Transfer Knowledge	KS	1							
+3821	WIDYATMOKO	111562	Staf Transfer Knowledge	KS	1							
+3881	HANANI	111562	Staf Transfer Knowledge	KS	1							
+3885	SODERI	111562	Staf Transfer Knowledge	KS	1							
+3895	EFFENDI PANJAITAN	111562	Staf Transfer Knowledge	KS	1							
+3989	TAUFIK RACHMAN	111562	Staf Transfer Knowledge	KS	1							
+4078	EFLIANTO MASHUR	111562	Staf Transfer Knowledge	KS	1							
+4209	NANA SUARNA	111562	Staf Transfer Knowledge	KS	1							
+4211	PURWITO	111562	Staf Transfer Knowledge	KS	1							
+4317	TASIMAN	111562	Staf Transfer Knowledge	KS	1							
+4327	SUWONDO	111562	Staf Transfer Knowledge	KS	1							
+4378	TARCICIUS SUMARNO	111562	Staf Transfer Knowledge	KS	1							
+4509	SLAMET RUSLI	111562	Staf Transfer Knowledge	KS	1							
+4883	YAYAT PRIYATNA	111562	Staf Transfer Knowledge	KS	1							
+4912	SURKAM JON SUJOWO	111562	Staf Transfer Knowledge	KS	1							
+4929	DWI ATMADI	111562	Staf Transfer Knowledge	KS	1							
+5012	CHUMAIRI	111562	Staf Transfer Knowledge	KS	1							
+5024	HARSONO	111562	Staf Transfer Knowledge	KS	1							
+5190	NASRUM	111562	Staf Transfer Knowledge	KS	1							
+5539	MURSIDA BAHARUDDIN	111562	Staf Transfer Knowledge	KS	1							
+5555	ROMMY	111562	Staf Transfer Knowledge	KS	1							
+5752	SUTISNO	111562	Staf Transfer Knowledge	KS	1							
+6167	SUDIRIN	111562	Staf Transfer Knowledge	KS	1							
+6169	SURYA JATNIKA	111562	Staf Transfer Knowledge	KS	1							
+6236	SURADI	111562	Staf Transfer Knowledge	KS	1							
+6264	RONALD TUMPAL H PANGGABEAN	111562	Staf Transfer Knowledge	KS	1							
+6353	TARUNO WIJAYANTO	111562	Staf Transfer Knowledge	KS	1							
+6394	SIHAR MALAU	111562	Staf Transfer Knowledge	KS	1							
+6415	MUARA SITANGGANG	111562	Staf Transfer Knowledge	KS	1							
+6424	RIDHWAN GAZALY	111562	Staf Transfer Knowledge	KS	1							
+6721	MAMAN NUROCHMAN	111562	Staf Transfer Knowledge	KS	1							
+6868	SUPRAMU	111562	Staf Transfer Knowledge	KS	1							
+6944	SYARIFUDDIN	111562	Staf Transfer Knowledge	KS	1							
+7046	DIDI KUSNADI	111562	Staf Transfer Knowledge	KS	1							
+7401	SYAMSUDIN	111562	Staf Transfer Knowledge	KS	1							
+7593	SUAPRI B JUHRI	111562	Staf Transfer Knowledge	KS	1							
+8142	MUJIONO KATAM	111562	General Manager HC Planning & Develop	KS	1							
+8459	BETHY BUDHYARTI SIDHARTA	111562	Staf Transfer Knowledge	KS	1							
+8698	SUWADJI	111562	Staf Transfer Knowledge	KS	1							
+8711	SYOUFINO BOY	111562	Staf Transfer Knowledge	KS	1							
+8719	PRIAMBODO	111562	Staf Transfer Knowledge	KS	1							
+8905	TAMTOMO YUDHO	111562	Staf HCP & Dev Setingkat Supervisor	KS	1							
+8952	ZULHAM LUBIS	111562	Staf Transfer Knowledge	KS	1							
+9440	SUGITO	111562	Staf Transfer Knowledge	KS	1							
+9741	JASMIN BUANG	111562	Staf Transfer Knowledge	KS	1							
+9789	RIDO HUTAGALUNG	111562	Staf Transfer Knowledge	KS	1							
+9868	SUSANTO	111562	Staf Transfer Knowledge	KS	1							
+10287	HASRI SURYANI	111562	Chief Specialist HCP & Development	KS	1							
+99000556	AAN SUBHAN	111562	Apprentice	KS	1							
+99000558	ABDUL RAHMAN	111562	Apprentice	KS	1							
+99000559	ABDUL WAHAB FAUZI	111562	Apprentice	KS	1							
+99000565	ADHI PURNA IRAWAN	111562	Apprentice	KS	1							
+99000566	ADHITYA SRI MUSTOFA	111562	Apprentice	KS	1							
+99000567	ADI ARIA NUGROHO	111562	Apprentice	KS	1							
+99000571	ADITIA BAGUS P.	111562	Apprentice	KS	1							
+99000573	AFITRAH RIANTO	111562	Apprentice	KS	1							
+99000575	AGUNG ARIFIYANTO	111562	Apprentice	KS	1							
+99000576	AGUNG CAHYADI	111562	Apprentice	KS	1							
+99000582	AHMAD MIZHAR AMALI	111562	Apprentice	KS	1							
+99000583	AHMAD MUNASHIR	111562	Apprentice	KS	1							
+99000585	AHMAD SAEFUDIN	111562	Apprentice	KS	1							
+99000587	AHMAD SUBHAN	111562	Apprentice	KS	1							
+99000588	AKBAR ABDUL AZIZ	111562	Apprentice	KS	1							
+99000590	AL BANENDRO SUTO C.	111562	Apprentice	KS	1							
+99000591	ALDA SANJAYA	111562	Apprentice	KS	1							
+99000592	ALDI MAULANA	111562	Apprentice	KS	1							
+99000593	ALDIZAL NUR	111562	Apprentice	KS	1							
+99000594	ALFADIO MADA M.	111562	Apprentice	KS	1							
+99000597	ANGGA ALAM SYAH	111562	Apprentice	KS	1							
+99000598	ANGGILANG	111562	Apprentice	KS	1							
+99000603	ARIEF MAULANA	111562	Apprentice	KS	1							
+99000604	ARIEF RACHMAN	111562	Apprentice	KS	1							
+99000606	ARIS	111562	Apprentice	KS	1							
+99000609	AVANDIKA IMANTARA	111562	Apprentice	KS	1							
+99000612	BAYU ISTIYANTO	111562	Apprentice	KS	1							
+99000613	BAYU PURNOMO	111562	Apprentice	KS	1							
+99000617	BURHANUDIN	111562	Apprentice	KS	1							
+99000618	BUYUNG AJI SANTOSO	111562	Apprentice	KS	1							
+99000620	CECEP KURNIAWAN	111562	Apprentice	KS	1							
+99000621	CEPI SULESNA	111562	Apprentice	KS	1							
+99000624	DANANG NUGROHO	111562	Apprentice	KS	1							
+99000625	DAVID MUCH HARDIANTO	111562	Apprentice	KS	1							
+99000632	DODI ROSADI	111562	Apprentice	KS	1							
+99000633	DONI ERIC AULINA	111562	Apprentice	KS	1							
+99000635	DWI ANGGIT PRANOTO	111562	Apprentice	KS	1							
+99000636	DWI CAHYO KURNIAWAN	111562	Apprentice	KS	1							
+99000637	EDI PURWANTO	111562	Apprentice	KS	1							
+99000638	EDI SUHAEDI	111562	Apprentice	KS	1							
+99000639	EGIH HANGGARA PRIMA	111562	Apprentice	KS	1							
+99000643	ERFIN RIZKY KUSTIAWAN	111562	Apprentice	KS	1							
+99000644	ERLANGGA	111562	Apprentice	KS	1							
+99000646	FAISAL NURIKHSAN	111562	Apprentice	KS	1							
+99000652	FAQIH FERDIANSYAH	111562	Apprentice	KS	1							
+99000656	FATHUR ROFI	111562	Apprentice	KS	1							
+99000657	FELIX ANDI PRADHITAMA	111562	Apprentice	KS	1							
+99000658	FERDIAN OCTAVIANA	111562	Apprentice	KS	1							
+99000660	FERY DWI RAMADHAN	111562	Apprentice	KS	1							
+99000661	FERY PRASETYA	111562	Apprentice	KS	1							
+99000662	FILAN DANU PANGESTU	111562	Apprentice	KS	1							
+99000663	FREDI LESMANA	111562	Apprentice	KS	1							
+99000664	GALIH AGUNG WICAKSONO	111562	Apprentice	KS	1							
+99000668	HAFIDZ FAUZAN	111562	Apprentice	KS	1							
+99000669	HAIKAL FIKRI	111562	Apprentice	KS	1							
+99000670	HAYKE PRATAMA ANUGROHO	111562	Apprentice	KS	1							
+99000673	HERIE HERIADIE	111562	Apprentice	KS	1							
+99000674	HERUDI	111562	Apprentice	KS	1							
+99000675	HERY AFZAR SUWARGI	111562	Apprentice	KS	1							
+99000676	HILMI ATTAMAMI	111562	Apprentice	KS	1							
+99000679	I MADE ENDRA KARTIKA	111562	Apprentice	KS	1							
+99000681	IKHWAN PANDU SATRIO	111562	Apprentice	KS	1							
+99000682	ILHAM MULYANA	111562	Apprentice	KS	1							
+99000683	IMRON ROSYADI	111562	Apprentice	KS	1							
+99000685	INDRA LESMANA	111562	Apprentice	KS	1							
+99000686	IPUNG ANDI RATMANTO	111562	Apprentice	KS	1							
+99000687	IRAWAN RUSTANTYO	111562	Apprentice	KS	1							
+99000689	ISMAIL SUKANDAR	111562	Apprentice	KS	1							
+99000690	KEVIN ADI PRAGAWA	111562	Apprentice	KS	1							
+99000691	KHAIRIL ANAM	111562	Apprentice	KS	1							
+99000694	KHRISNA INDA MUHAMMAD	111562	Apprentice	KS	1							
+99000695	KRISNA SETIA	111562	Apprentice	KS	1							
+99000698	LUKKY ARTO D.	111562	Apprentice	KS	1							
+99000699	LUSEP FITRIANA BISTON	111562	Apprentice	KS	1							
+99000701	M. AGUNG ZULFIQAR	111562	Apprentice	KS	1							
+99000704	M. RIZAL ROCHMATULLAH	111562	Apprentice	KS	1							
+99000706	M. ZOLDI ADZANI JABBAR	111562	Apprentice	KS	1							
+99000707	MAHFUD HIDAYAT	111562	Apprentice	KS	1							
+99000708	MAMAN SULAEMAN	111562	Apprentice	KS	1							
+99000709	MOHAMAD RENDI R.	111562	Apprentice	KS	1							
+99000711	MUHAMAD EDO PRATAMA SAPUTRA	111562	Apprentice	KS	1							
+99000712	MUHAMAD IQBAL	111562	Apprentice	KS	1							
+99000713	MUHAMAD JUNAIDI	111562	Apprentice	KS	1							
+99000714	MUHAMAD MAFTUH ABDUL AZIZ	111562	Apprentice	KS	1							
+99000717	MUHAMMAD ANDRI ARIFIN	111562	Apprentice	KS	1							
+99000720	MUHAMMAD RIKZA	111562	Apprentice	KS	1							
+99000721	MUSTAKIM	111562	Apprentice	KS	1							
+99000722	NANANG KOSASIH	111562	Apprentice	KS	1							
+99000728	RACHMAT KISWOYO	111562	Apprentice	KS	1							
+99000732	RENDY PRATAMA	111562	Apprentice	KS	1							
+99000735	RIDWAN FIRMANSYAH	111562	Apprentice	KS	1							
+99000738	RISMAN TEJA KUMBARA	111562	Apprentice	KS	1							
+99000740	RIZAL AFANDI	111562	Apprentice	KS	1							
+99000741	RIZKI JAKA MAULANA	111562	Apprentice	KS	1							
+99000742	RIZKI TIRTA DIPOERA	111562	Apprentice	KS	1							
+99000743	RIZKO AJI SAMPUTRA	111562	Apprentice	KS	1							
+99000744	ROBERT ANTONI LMB RAJA	111562	Apprentice	KS	1							
+99000745	ROKHIMANTO	111562	Apprentice	KS	1							
+99000746	ROMY KURNIAWAN	111562	Apprentice	KS	1							
+99000749	RUDY HARYANTO	111562	Apprentice	KS	1							
+99000751	SAMSUL ARIFIN	111562	Apprentice	KS	1							
+99000752	SANDI NUGRAHA	111562	Apprentice	KS	1							
+99000755	SANTUS ANGGORO M.	111562	Apprentice	KS	1							
+99000756	SARDI	111562	Apprentice	KS	1							
+99000757	SASONGKO PUJAN	111562	Apprentice	KS	1							
+99000758	SATRIA DWI HARIAWAN	111562	Apprentice	KS	1							
+99000760	SETYANTO CAHYO B.	111562	Apprentice	KS	1							
+99000763	SITO SESTYADI	111562	Apprentice	KS	1							
+99000765	SUGI NOURI YANDI	111562	Apprentice	KS	1							
+99000768	SUPRAPTO	111562	Apprentice	KS	1							
+99000770	SYAHRUL ALI GUSTOMI	111562	Apprentice	KS	1							
+99000772	SYARIF ROMDHONI	111562	Apprentice	KS	1							
+99000775	TB DEDEN SUPRIYATNA	111562	Apprentice	KS	1							
+99000776	TEGUH ARIFIANTO	111562	Apprentice	KS	1							
+99000777	TEGUH SATYA PRIBADI	111562	Apprentice	KS	1							
+99000778	THORIQ SAJIDARIANTO	111562	Apprentice	KS	1							
+99000779	TIO AFRIZAL	111562	Apprentice	KS	1							
+99000780	TRIYANA EKA PUTRA	111562	Apprentice	KS	1							
+99000783	UMAR ZANDY P.	111562	Apprentice	KS	1							
+99000784	WAHYU EKA PERDANA	111562	Apprentice	KS	1							
+99000785	WANUR KHOLBI	111562	Apprentice	KS	1							
+99000793	YUKO BUDIMAN	111562	Apprentice	KS	1							
+99000798	ZAPAR SIDIK	111562	Apprentice	KS	1							
+99000799	ANDREAS YUNI PRASTIANTO	111562	Apprentice	KS	1							
+99000802	MUHAMAD NUR PRASETYO	111562	Apprentice	KS	1							
+99000807	ADE SUPRIADI	111562	Apprentice	KS	1							
+99000808	ERHANS JULIANTO	111562	Apprentice	KS	1							
+99000809	A MUH KHAEDIR A AZIZ	111562	Apprentice	KS	1							
+99000810	ALI FATMA	111562	Apprentice	KS	1							
+99000811	AMIN YULIANTO	111562	Apprentice	KS	1							
+99000812	ANGGA ADITYA PUTRA	111562	Apprentice	KS	1							
+99000813	ANGGI ARISTIAWAN	111562	Apprentice	KS	1							
+99000814	ARAFIK	111562	Apprentice	KS	1							
+99000815	BAYU NOPRIYANTO	111562	Apprentice	KS	1							
+99000816	DEDY MELKY WATTIMENA	111562	Apprentice	KS	1							
+99000817	DENI HINDRIYATNA	111562	Apprentice	KS	1							
+99000818	DENI ROYANI	111562	Apprentice	KS	1							
+99000819	EDI SUDERAJAT	111562	Apprentice	KS	1							
+99000820	ERDIAN	111562	Apprentice	KS	1							
+99000821	ERIK JAJULI	111562	Apprentice	KS	1							
+99000822	FEBRIANSYAH	111562	Apprentice	KS	1							
+99000823	FERRY IRWANSYAH	111562	Apprentice	KS	1							
+99000824	FRENGKY GAINU KOSNAN	111562	Apprentice	KS	1							
+99000825	GHENI MEDHA ARDHANI	111562	Apprentice	KS	1							
+99000826	GORBI RUSTIAWAN	111562	Apprentice	KS	1							
+99000827	ILHAM	111562	Apprentice	KS	1							
+99000828	IMA SEPU HIDAYATULLAH	111562	Apprentice	KS	1							
+99000829	JAFARON	111562	Apprentice	KS	1							
+99000830	JEVRI HARDIAN	111562	Apprentice	KS	1							
+99000831	JHACHA TRIE INDRATNA	111562	Apprentice	KS	1							
+99000832	MUHAMAD ABILLAH	111562	Apprentice	KS	1							
+99000833	MUHAMAD ADAM BAEHAQI	111562	Apprentice	KS	1							
+99000834	MUHAMAD MARZUKI	111562	Apprentice	KS	1							
+99000835	MUHAMAD NURUL AZMI	111562	Apprentice	KS	1							
+99000836	MUHAMAD REZA AL HABSYI	111562	Apprentice	KS	1							
+99000837	MUHAMMAD RASYID RIDHO	111562	Apprentice	KS	1							
+99000838	MUHAMMAD REZA REONALDI	111562	Apprentice	KS	1							
+99000839	MUHAMMAD SOFYAN	111562	Apprentice	KS	1							
+99000840	MURSIB	111562	Apprentice	KS	1							
+99000841	NANA SUPRIYATNA	111562	Apprentice	KS	1							
+99000842	NURUL MUSTOFA	111562	Apprentice	KS	1							
+99000843	OBAY BAEHAKI	111562	Apprentice	KS	1							
+99000844	RIAN ZUANDI	111562	Apprentice	KS	1							
+99000845	RIDO AMANZAN	111562	Apprentice	KS	1							
+99000846	RIO JAKA APRYIAN	111562	Apprentice	KS	1							
+99000847	RIZKI RAHMAT NUGRAHA	111562	Apprentice	KS	1							
+99000848	ROMLI HIDAYAT	111562	Apprentice	KS	1							
+99000849	RUDINI KOTO	111562	Apprentice	KS	1							
+99000850	RULLY MAULANA	111562	Apprentice	KS	1							
+99000851	SAIFUL ARIF	111562	Apprentice	KS	1							
+99000852	SEPTIAN SETIA GUNANSYAH	111562	Apprentice	KS	1							
+99000853	SOFIULLAH	111562	Apprentice	KS	1							
+99000854	SUPRIADI	111562	Apprentice	KS	1							
+99000855	TB FIRDAUS	111562	Apprentice	KS	1							
+99000856	TB RESTA ARSENA	111562	Apprentice	KS	1							
+99000857	TIAN FADILAH	111562	Apprentice	KS	1							
+99000858	TOMI AFRIZAL	111562	Apprentice	KS	1							
+99000859	TRIADI WIDYARAMA	111562	Apprentice	KS	1							
+99000860	TRIO PAMUNGKAS	111562	Apprentice	KS	1							
+99000861	YANUAR HAFID NURAIDIN	111562	Apprentice	KS	1							
+99000862	YUNATAN DANANG WICAKSONO	111562	Apprentice	KS	1							
+10287A	HASRI SURYANI	111562		KS	1	7.2802			2013-09-20 06:33:26		10287A	
+8655A	YONGKI YUSUF BRATADIREJA	111562		KS	1				2013-10-09 09:28:15		8655A	
+2461	RACHMAT	111563	Danton Security Area B	KS	1							
+3141	PARYONO	111563	Sr Instructor	KS	1							
+3157	ABU KOSIM SYAFEI	111563	Sr Instructor	KS	1							
+3581	MULYANTO	111563	Sr Instructor	KS	1							
+3633	BAKAT TYA MAYA YOGHA	111563	Sr Specialist Planning & Eva.Training	KS	1							
+4098	AHMAD INSAN ABDILLAH	111563	Specialist Knowledge Management	KS	1							
+4397	DJOKO SUBALI	111563	Sr Instructor	KS	1							
+4484	HAMIM	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+4521	UDIN SYAMSUDIN	111563	Superintendent Edu. Adm & Resources Mgt.	KS	1							
+4624	SRI MULIA GUSTINA	111563	Specialist Planning & Eva.Training	KS	1							
+4672	SARJAN	111563	Supervisor Perijinan & Vis Mgt	KS	1							
+4759	ADE YAYAT	111563	Danton Security Area F	KS	1							
+4879	SUNAEDI	111563	Officer Perijinan & Vis Mgt	KS	1							
+4948	MUSLIH	111563	Danton Security Area B	KS	1							
+4949	MARIMIN	111563	Danton Security Area A	KS	1							
+4955	TB. FATWAN	111563	Supervisor Security	KS	1							
+4958	HASAN BASRI	111563	Danton Security Area F	KS	1							
+4959	ENDANG SOFIAN	111563	Supervisor Security	KS	1							
+4960	SALURI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+4961	TARYANA	111563	Superintendent PUSDALPAM	KS	1							
+4962	ISMAIL	111563	Danton Security Area C	KS	1							
+4965	SUGENG CHANDRA	111563	Specialist Liaison Officer	KS	1							
+4969	SUBARI	111563	Specialist Liaison Officer	KS	1							
+4972	ALHAQ	111563	Danton Security Area F	KS	1							
+4973	MASHUDI	111563	Danton Security Area F	KS	1							
+4974	ROYANI	111563	Officer Perijinan & Vis Mgt	KS	1							
+4975	HUDRANI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+4976	TAHLIS	111563	Danton Security Area E	KS	1							
+4977	YUYUN MAKMUN	111563	Danton Security Area C	KS	1							
+4979	ODANG PRAWIRA	111563	Superintendent Security	KS	1							
+4980	TONIJOYO	111563	Danton Security Area B	KS	1							
+4983	MAHDUM	111563	Officer Penyelidikan & Penggalangan	KS	1							
+4987	SELAMET	111563	Danton Security Area C	KS	1							
+4989	BUNYAMIN	111563	Danton Security Area D	KS	1							
+4990	MISBAH	111563	Danton Security Area C	KS	1							
+5100	SUHARDI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+5115	NUNUNG RIDWAN	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+5246	SUBHI	111563	Danton Security Area F	KS	1							
+5281	SARNAJA	111563	Danton Security Area D	KS	1							
+5294	KUSPRIYONO	111563	Sr Specialist Design & Org Training	KS	1							
+5307	SADIKUN	111563	Danton Security Area A	KS	1							
+5311	AJI WISNU WARDOYO	111563	Danton Security Area A	KS	1							
+5312	ABDUL FATAH	111563	Danton Security Area F	KS	1							
+5314	SUNTORO	111563	Danton Security Area C	KS	1							
+5316	HASAN BASRI	111563	Danton Unit Tangkal Cepat & Patroli	KS	1							
+5317	HUSIN	111563	Specialist Liaison Officer	KS	1							
+5318	SAIFUDIN	111563	Danton Security Area B	KS	1							
+5319	HAMDANI	111563	Danton Security Area A	KS	1							
+5322	SUWIRYO	111563	Danton Security Area C	KS	1							
+5327	SUHERLI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+5332	EDY SURYADI	111563	Danton Security Area A	KS	1							
+5333	MOH SACHJULI	111563	Danton Security Area B	KS	1							
+5336	BUDI YOGASARA FY.	111563	Danton Security Area D	KS	1							
+5433	YUSNIATI	111563	Officer KM Website	KS	1							
+5734	DADANG SUDIRMAN	111563	Specialist Liaison Officer	KS	1							
+5865	DEDY SURYADI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+5960	OMA ROMANSYAH	111563	Specialist Planning & Eva.Training	KS	1							
+5991	SUHERI	111563	Danton Security Area B	KS	1							
+6047	IGNATIUS WIYONO	111563	Specialist Liaison Officer	KS	1							
+6131	ASMARIAH	111563	Sr Specialist Design & Org Training	KS	1							
+6207	MARSUDI SLAMET	111563	Danton Security Area E	KS	1							
+6212	SUPRIYADI	111563	Danton Unit Tangkal Cepat & Patroli	KS	1							
+6213	JUHARI	111563	Danton Security Area A	KS	1							
+6215	ANTONI MANURUNG	111563	Supervisor Security	KS	1							
+6217	MAMAT RACHMAT	111563	Danton Security Area A	KS	1							
+6221	A. FURKON	111563	Danton Security Area C	KS	1							
+6224	MAMAN SUHADI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+6505	DRAJAT	111563	Danton Security Area B	KS	1							
+6671	MARIANA MARPAUNG	111563	Specialist Planning & Eva.Training	KS	1							
+6714	SUWIRO	111563	Sr Specialist Planning & Eva.Training	KS	1							
+6734	ACHMAD SARBINI	111563	Danton Unit Tangkal Cepat & Patroli	KS	1							
+6741	ALI TAFRIJI	111563	Specialist Training & Edu. Budget Ctrl.	KS	1							
+6902	ZAENAL ARIFIN	111563	Sr Specialist Design & Org Training	KS	1							
+6930	DANAN DJOJO	111563	Sr Instructor	KS	1							
+6995	UJANG SURYANA	111563	Danton Security Area E	KS	1							
+7023	KATEMIN	111563	Officer Training & Edu. Room & Misc.	KS	1							
+7034	AGUS BUDIYONO	111563	Danton Security Area E	KS	1							
+7189	MAHZUMI	111563	Supervisor Apprenticeship & Voc.Training	KS	1							
+7320	UBUN MUH SUBUR	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+7357	SUWIYARDI	111563	Specialist Knowledge Management	KS	1							
+7492	USMAN GUMANTI	111563	Supervisor Penyelidikan & Penggalangan	KS	1							
+7667	ALFRED HUTAJULU	111563	Specialist Knowledge Management	KS	1							
+7677	HAMDI	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+7801	ERNA MARLIA	111563	Officer Pelayanan PKL, Riset & Database	KS	1							
+7835	SUPENO	111563	Supervisor Knowledge Mgt & M Media	KS	1							
+8016	MARLETA DIAN ARELA	111563	Supervisor Training & Edu.Resources Mgt.	KS	1							
+8082	HENDRI FAIZAL	111563	Danton Unit Tangkal Cepat & Patroli	KS	1							
+8198	ASEP YANNA SURJANA	111563	Specialist Knowledge Management	KS	1							
+8250	USEP SUHAENDI	111563	Sr Instructor **	KS	1							
+8431	ADI SAHRIJA	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+8432	SUGIARTO	111563	Petugas Unit Tangkal Cepat & Patroli	KS	1							
+8439	AZIS	111563	Sr Specialist Planning & Eva.Training	KS	1							
+8451	DIDIK SUGENG KUNARIADI	111563	Manager HC Training & Education Centre	KS	1							
+8518	ENCENG SUTRISNA	111563	Specialist Planning & Eva.Training	KS	1							
+8519	SUDARMA HAMIM	111563	Sr Instructor	KS	1							
+8553	ANGGORO	111563	Sr Instructor	KS	1							
+8616	SUNARTO	111563	Specialist Knowledge Management	KS	1							
+8745	HILMAN SIMATUPANG	111563	Supervisor Security	KS	1							
+8761	SUPRIATNA	111563	Sr Instructor	KS	1							
+8835	ODIN HIDAYAT	111563	Officer Penyelidikan & Penggalangan	KS	1							
+9907	AGUS MULYADI	111563	Sr Instructor	KS	1							
+10160	ENI INDRIYATI	111563	Specialist Training & Education Adm.	KS	1							
+10185	SLAMET RIYANTO	111563	Sr Instructor	KS	1							
+10449	AGUSTIAR	111563	Specialist Liaison Officer	KS	1							
+10521	ROUFIMALY	111563	Specialist Planning & Eva.Training **	KS	1							
+10600	MUHTADI	111563	Officer Penyelidikan & Penggalangan	KS	1							
+10628	SABIHIS	111563	Superintendent Knowledge Management	KS	1							
+11265	AJAT SUDRAJAT	111563	Pet Apprenticeship & Voc. Training	KS	1							
+11266	ROHANI ARIF SUDRAJAT	111563	Officer Training & Education Workshop	KS	1							
+11392	HULAIDA	111563	Librarian	KS	1							
+11488	CERRI AMANDA NOOR	111563	Specialist Planning& Eva.Training(Ors)	KS	1							
+93001398	ASEP MUHSIN JAELANI	111563	Manager Security (PKWT)	KS	1							
+10325	ARMAN BENNY	111601	Assistant to Direktur Keuangan	KS	1							
+KS005	SUKANDAR	111601	DIREKTORAT KEUANGAN	KS	1				2013-09-18 06:37:15		KS005	
+5185	ITJE DJUNARIAH	111602	Staf Setingkat Officer	KS	1							
+6278	SUTIKNO	111602	Chief Akuntan	KS	1							
+8088	AANG BURHANUDIN	111602	Staf Akuntan Setingkat Superintendent	KS	1							
+9872	BAMBANG HARJOKO	111602	Staf Akuntan setingkat Supervisor	KS	1							
+10052	FIRMAN ISTHIADY	111602	General Manager Accounting	KS	1							
+10073	RUDI HERMANTRI	111602	Staf Akuntan Setingkat Superintendent	KS	1							
+10326	ARIEF SANTOSA	111602	Sr Akuntan	KS	1							
+4076	MUHAMMAD SYAEFUDIN	111603	Administrator Pemeliharaan SMKS	KS	1							
+9641	ANIE SRIWIYANTI HANDAYANI	111603	General Manager Corporate Finance	KS	1							
+6242A	TRI HARJANA	111603		KS	1	7.2321			2013-09-20 06:14:52		6242A	
+6634	HARIS SETIJOSASONO	111604	General Manager Subsidiaries Company	KS	1							
+10355A	LIENA MARIAH	111604		KS	1	7.2332			2013-10-25 03:03:13		10355A	
+5474	SUGIAT	111605	Administration & Data Support	KS	1							
+6927	ROBBY TD JANIS	111605	Head Of Investor Relation	KS	1							
+8569	WIDITA ANDAKA	111605	Chief Specialist Investor Relation	KS	1							
+9397	QOMAR KUNTADI	111605	Officer Administration & Data Support	KS	1							
+11172	DHANNY ADITYA	111605	Administration & Data Support	KS	1							
+3975	SHOLEH BIN MACHMUD	111621	Akuntan Verif Fisik Persed Pab Penger	KS	1							
+4000	ABDUL KADIR	111621	Superintendent Verif Fisik Persed & AT	KS	1							
+5387	ERIS MUNADI	111621	Akuntan Verif Fisik Persed Pab Penger	KS	1							
+5389	SURYADI	111621	Akuntan Persediaan Produk NC & Diklat	KS	1							
+5392	SUPRAPTO	111621	Akuntan Persediaan Billet Baja	KS	1							
+5394	ROY ACHMAD SUJAI	111621	Akuntan Verif Fisik Persed Mat Beng & Ut	KS	1							
+5400	TRIYANTO	111621	Akuntan BP Pabrik Gas Industri	KS	1							
+5477	SUGIYANTO	111621	Akuntan Verifikasi Fisik Aktiva Tetap	KS	1							
+5489	BUNANTO	111621	Akuntan Biaya Produksi PBB	KS	1							
+5506	DWI TJAHYO WIDODO	111621	Akuntan Biaya Produksi Pabrik BK	KS	1							
+5518	UJANG RUSLAN SUPIANDI	111621	Akuntan Persediaan SC	KS	1							
+5633	NUROKHMAN	111621	Akuntan Verif Fisik Persed Pab Penger	KS	1							
+5741	HERBERT	111621	Akuntan Verif Fisik Persed Pab Pengol	KS	1							
+6462	YETTY SRI HESTI	111621	Officer Akt Verif Fisik Aktiva Tetap	KS	1							
+7243	SRI HARYATI	111621	Sr Akuntan Pengemb Sistem PCS & SAP	KS	1							
+7687	ASEP SARIPUDIN	111621	Akuntan Verif Fisik Persed Mat Beng & Ut	KS	1							
+8021	TARMUZI	111621	Akuntan Persediaan NSC	KS	1							
+8090	TOMY SUHARNO	111621	Superintendent Akt BP Prasarana & BK	KS	1							
+8228	R. AJAT SUDRAJAT	111621	Superintendent Akt BP Pab Pengolahan	KS	1							
+9662	SUKAMSI	111621	Akuntan Persediaan BLD	KS	1							
+9795	MASYADI	111621	Akuntan Persediaan Batang Kawat	KS	1							
+9924	RUSLAN SISWANTONO	111621	Akuntan BP Work Shop	KS	1							
+10019	BUDI SLAMET	111621	Akuntan Persediaan NSC	KS	1							
+10049	DAHLAN MIHARDJA	111621	Superintendent Akt Mat & Non Core	KS	1							
+10074	TEGUH HERMAWAN	111621	Akuntan Verif Fisik Persed Mat Beng & Ut	KS	1							
+10144	YAYAN MULYANA	111621	Superintendent Akt BP Pab Pengerolan	KS	1							
+10206	BASUKI WITJAHYO	111621	Sr Akuntan Pengemb Sistem PCS & SAP	KS	1							
+10324	DAZUL HERMAN	111621	Manager Akuntansi Pabrik	KS	1							
+10402	DIAN MARDI MIANTORO	111621	Akuntan Persediaan Besi Spons	KS	1							
+10689	DADANG SUHERMAN	111621	Akuntan Verif Fisik Persed Pab Pengol	KS	1							
+10724	DIAN EKA PUTRI	111621	Akuntan Persediaan Slab Baja	KS	1							
+10926	IMAM AZHAR	111621	Akuntan Persediaan BLP	KS	1							
+10930	NINIK WERDININGSIH	111621	Akuntan BP Pabrik Kapur	KS	1							
+10955	LISTIEN WALUDIANTI	111621	Akuntan Biaya Produksi PBS	KS	1							
+11455	TALLY GUSTIANTO	111621	Akuntan Laporan Biaya Prod & Pers	KS	1							
+11476	LISTIANA KURNIA ARUM	111621	Officer Persediaan BLP	KS	1							
+11478	RECHI IRAWAN	111621	Officer Akuntansi Persediaan SC	KS	1							
+11757	TOPAN NURUL HUDA	111621	Officer Akt Ver Fis Pers Pab Pengo(Ors)	KS	1							
+11794	AHMAD IRSYADI NUR	111621	Akuntan Sistem Inf & Harga Transfer(Ors)	KS	1							
+11800	HENDRIYANA	111621	Akuntan Biaya Produksi PSB (Ors)	KS	1							
+11823	RODEANO AGASTA	111621	Akuntan Biaya Produksi Pabrik BLD (Ors)	KS	1							
+5273	SRI UMIYATI	111622	Superintendent Verifikasi Pembayaran II	KS	1							
+5406	ADANG RACHMAT	111622	Akuntan Hutang,Pajak & Overhead Cost	KS	1							
+5408	ATIK SRI SUSILOWATI	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+5472	M. HUSEN SIRAD	111622	Supervisor Verifikasi Pembayaran I/I	KS	1							
+5499	DADIK RADIYA BRATA	111622	Supervisor Verifikasi Pembayaran I/II	KS	1							
+6018	AMARUDIN	111622	Akuntan Keuangan & Sistem Informasi	KS	1							
+6061	DADANG SOLEH MARJUK	111622	Officer Verifikasi Pembayaran I/I	KS	1							
+6084	PUJIATI	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+6307	USUP	111622	Akuntan Konstruksi	KS	1							
+6375	IPIN ARIFIN	111622	Akuntan Hutang,Pajak & Overhead Cost	KS	1							
+6640	ROMUALDUS SITUMEANG	111622	Akuntan Fixed Assets	KS	1							
+6642	ERLINA NEFOSIA	111622	Officer Verifikasi Pembayaran II/I	KS	1							
+6643	SULAMI	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+6892	NUR FAIDAH	111622	Supervisor Verifikasi Pembayaran II/II	KS	1							
+8058	AEP TAVIP SAPUTRA	111622	Akuntan Fixed Assets	KS	1							
+8463	BUDI WAHYU	111622	Supervisor Verifikasi Pembayaran II/I	KS	1							
+8911	TEGUH WIYONO	111622	Sr Akuntan Proses Laporan Keuangan	KS	1							
+9447	SAEPUDIN	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+9450	SUGENG PRATONDO	111622	Akuntan Keuangan & Sistem Informasi	KS	1							
+9464	IWAN SYACHRI	111622	Officer Verifikasi Pembayaran II/I	KS	1							
+9831	AGUSMAN RAJAGUKGUK	111622	Akuntan Proses Laporan Keuangan	KS	1							
+9869	DADANG MUSLIH	111622	Superintendent Akuntansi Umum	KS	1							
+10012	RETNO GIARTO	111622	Superintendent Verifikasi Pembayaran I	KS	1							
+10335	NANDANG HARIANA	111622	Manager Akuntansi Keuangan	KS	1							
+10356	MUHAMMAD AMINUDIN AZIS	111622	Superintendent Akuntansi Konstruksi & AT	KS	1							
+10691	WALUYO	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+10692	SRI NARWATI TRINURAINI	111622	Officer Verifikasi Pembayaran I/II	KS	1							
+10693	BAMBANG CATUR SUPRIYADI	111622	Supervisor Pembiayaan Konst & FA	KS	1							
+10744	ERI HENDRAWAN AGUSTIONO WAHYU UTOMO	111622	Superintendent Laporan Keuangan	KS	1							
+10935	YUNITA PUSPITASARI	111622	Akuntan Proses Laporan Keuangan	KS	1							
+10969	ADITYA CHANDRA WIRAWAN	111622	Sr Akuntan Proses Laporan Keuangan	KS	1							
+11439	JANUAR ISHAQ	111622	Akuntan Hutang, Pajak & Overhead Cost	KS	1							
+11442	LUKI MALIKUL MALIK	111622	Akuntan Piutang,Bank & Investasi	KS	1							
+11462	ARIEF DWIYANTO	111622	Officer Verifikasi Pembayaran II/II	KS	1							
+11475	LARISSA ANDITHA GESTARIANA	111622	Officer Verifikasi Pembayaran I/I	KS	1							
+11485	WAHYU SASONGKO	111622	Officer Verifikasi Pembayaran II/II	KS	1							
+11733	DINAR PRATIWI	111622	Officer Verifikasi Pembayaran II/II(Ors)	KS	1							
+11738	DYAH MAULIDYAH	111622	Officer Verifikasi Pembayaran I/II (Ors)	KS	1							
+11740	ISLAMY JULIGA DAFINCI	111622	Officer Verifikasi Pembayaran I/II (Ors)	KS	1							
+11754	MUHAMMAD RIZKY FIRMANSYAH	111622	Officer Pembiayaan Konstruksi & FA (Ors)	KS	1							
+11788	MIRA PUTRI PRATIWI	111622	Akuntan Piutang,Bank & Investasi (Ors)	KS	1							
+11802	RAHARDIAN MALIK MUGHNI GANI	111622	Akuntan Konstruksi (Ors)	KS	1							
+4259	OSBAYER S	111623	Supervisor Anggaran & Biaya	KS	1							
+6128	CANDRA SEKAR	111623	Sr Akuntan Perenc & Pengend Anggaran	KS	1							
+7974	RIDWAN	111623	Sr Akuntan Perenc & Pengend Anggaran	KS	1							
+8595	KOESMA SOEMANTRI	111623	Manager Akuntansi Manajemen	KS	1							
+9871	SETYA WARDHANA	111623	Superintendent Anggaran	KS	1							
+10140	ARIS SUBRANTA	111623	Sr Akuntan Perenc & Pengend Anggaran	KS	1							
+10194	HILMAN SETIAWAN	111623	Sr Akuntan Perenc & Pengend Anggaran	KS	1							
+10739	DANEKA ANDARI UTTAMAHITA	111623	Sr Akuntan Perenc & Pengend Anggaran	KS	1							
+10925	TRIA MUHARIFA RACHMAN	111623	Supervisor Anggaran BM & Pembangunan	KS	1							
+11456	TOMMY ISNAENI DWI KURNIAWAN	111623	Akuntan Perenc & Pengend Anggaran	KS	1							
+11766	SINGGIH WIDIGDYA	111623	Officer Anggaran BM & Pembangunan (Ors)	KS	1							
+11808	RONI SUHENDI	111623	Akuntan Perenc & Pengend Anggaran (Ors)	KS	1							
+5439	MUCHLIS	111631	Officer Pembayaran II	KS	1							
+5473	ANI YUSTIANI	111631	Supervisor Pembayaran II	KS	1							
+5492	LUKMAN GUNAWAN	111631	Officer Pendanaan Import	KS	1							
+5643	NGABAS BIN HARDJO	111631	Kasir Kepala	KS	1							
+6263	ALING BUDIMANINGSIH	111631	Officer Bank Garansi	KS	1							
+6623	MUSTAKIM	111631	Supervisor Pembayaran I	KS	1							
+7215	MOH.HARYONO	111631	Superintendent Pengendalian Kas	KS	1							
+7245	FATURACHMAN	111631	Officer L/C	KS	1							
+7656	MARUDUT	111631	Officer Penerimaan	KS	1							
+7845	SITI ROYATI NAPISAH	111631	Manager Operasi Pendanaan	KS	1							
+7865	HARLISMAN	111631	Officer Pembayaran II	KS	1							
+8007	IMANUDIN	111631	Superintendent Pembayaran Import	KS	1							
+8634	OOS KOSWARA	111631	Supervisor Pengendalian Import	KS	1							
+9451	TINGGAL	111631	Officer Penerimaan	KS	1							
+9999	IKHWAN TAUFIQ	111631	Officer Pembayaran II	KS	1							
+10934	NITA AINIA	111631	Supervisor Adm Import	KS	1							
+10940	KASNING PURWANI	111631	Supervisor Laporan & Kliring	KS	1							
+11481	RIFALDHY ANDARU	111631	Officer Kliring	KS	1							
+5398	CECEP JAMIL	111632	Officer Faktur BLD	KS	1							
+5414	BAMBANG SUGIARTO	111632	Supervisor PPN	KS	1							
+5440	HEDAR	111632	Superintendent Faktur Produk Utama	KS	1							
+5475	AMAT MUNAWIR	111632	Officer Faktur BLD	KS	1							
+5494	MASDUKI MAFHUM	111632	Supervisor Faktur Baja Batangan	KS	1							
+5502	ARTIAH	111632	Officer Pengendalian Faktur	KS	1							
+5503	EDIT ROSENDI	111632	Officer Pengendalian Faktur	KS	1							
+5519	GALUNG WIDI ANTORO	111632	Officer PPH & Pajak Daerah	KS	1							
+5642	SUHARMAN	111632	Supervisor Faktur Non Produk	KS	1							
+5750	ABDULLAH	111632	Supervisor Asuransi	KS	1							
+6250	SURYATI	111632	Officer Faktur BLP	KS	1							
+6305	MUHYIDIN	111632	Officer Faktur Non Produk	KS	1							
+6309	RIMSON MARNABAS	111632	Officer Laporan Faktur	KS	1							
+6461	DONO RUS INDARTO	111632	Supervisor Bea Impor	KS	1							
+6533	AGUS RIDWAN	111632	Superintendent Asuransi & Bea Import	KS	1							
+6552	TEDDY SUTRISNO	111632	Superintendent Faktur Non Prod & Penunj	KS	1							
+6590	WAWAN SETIAWAN	111632	Officer Asuransi Kerugian	KS	1							
+6639	AMINING SRI REDJEKI	111632	Supervisor PPH & Pajak Daerah	KS	1							
+6670	ACHMAD FAUZI	111632	Officer Faktur BLP	KS	1							
+6874	RAMLI AZIZ	111632	Officer PPN	KS	1							
+7397	AMRAN	111632	Supervisor Faktur BLP	KS	1							
+7978	SUHARYONO	111632	Administrator Uang Muka & Klaim Faktur	KS	1							
+8276	YAYAT ALIF RUHIYAT	111632	Supervisor Laporan & Pengend Faktur	KS	1							
+9651	ROSIHAN ANWAR	111632	Supervisor Faktur BLD	KS	1							
+10070	DEKRIT PRATIKTO	111632	Manager Pajak, Asuransi & Faktur	KS	1							
+10159	IIS HAERANI	111632	Officer Faktur Baja Batangan	KS	1							
+10687	ASEP NURUDIN AYUB	111632	Officer Bea Impor	KS	1							
+10688	AHMAD FURQON	111632	Superintendent Perpajakan	KS	1							
+10937	RACHMADI BIN SLAMET	111632	Officer Faktur Baja Batangan	KS	1							
+11464	ASTRY RUSFITASARY	111632	Officer PPH & Pajak Daerah	KS	1							
+11469	DYAH AYU FEBRIANITA	111632	Officer Laporan & Rekons Pajak	KS	1							
+11474	INDRA PRAMANA DWI PUTRA	111632	Officer PPN	KS	1							
+11732	ALIANA ADALIAN	111632	Officer Penutupan & Klaim Asuransi (Ors)	KS	1							
+11810	YADI SUPRIADI	111632	Supervisor Lap &Rekonsiliasi Pajak (Ors)	KS	1							
+5454	NANANG KUSMANA	111633	Specialist Collector Traiding	KS	1							
+5500	ADIMAN	111633	Supervisor Collector Non Product	KS	1							
+5921	TRI SUSILOWATI	111633	Officer Collector Non Product	KS	1							
+6242	TRIHARJANA	111633	Manager Credit & Collection	KS	1							
+6891	ROSYID AMIN	111633	Supervisor Collector CRC	KS	1							
+6932	SUWANDOYO	111633	Specialist Collector Traiding	KS	1							
+7021	ISNAINI	111633	Supervisor Collector HRC	KS	1							
+7039	EKA SASTRA	111633	Specialist Report & System	KS	1							
+8984	UDIN	111633	Officer Sales Payment&Guarantee Contr NF	KS	1							
+9867	MARITA KUSUMASTUTI	111633	Officer Collector CRC	KS	1							
+10018	MIFTAHOL MI'RADJ	111633	Specialist Credit Analyst	KS	1							
+10072	ROSNIAR	111633	Supervisor Collector WR & Export	KS	1							
+10163	SRI WAHYUNI	111633	Specialist Sales Payment&Guar Contr Flat	KS	1							
+10191	YULIS CAHYARANI	111633	Specialist Report & System	KS	1							
+10202	DIAN WILIS KRISTANTRI	111633	Superintendent Collection HRC & CRC	KS	1							
+10338	NEILA VIDA	111633	Superintendent Sales Payment& Guar contr	KS	1							
+10339	MUZAKIR	111633	Sr Specialist Credit Analyst	KS	1							
+10979	AYU NOVIASARI	111633	Specialist Sales Payment&Guar Contr NF	KS	1							
+11734	JELITA KAESARA	111633	Officer Collector Wire Rod (Ors)	KS	1							
+11739	GITA MELODIANA	111633	Officer Sales Payment&Guarant CF (Ors)	KS	1							
+11768	FITRIA RAMADHANIA SUSANTO	111633	Officer Collector HRC (Ors)	KS	1							
+6893	NANA SUMARNA	111634	Sr Specialist Money Market	KS	1							
+7662	ALOYSIUS HIMAWAN	111634	Officer Administration Support	KS	1							
+10195	SUSY WULAN SARI	111634	Sr Specialist Money Market	KS	1							
+10201	SULISTYAWATI	111634	Sr Specialist Money Market	KS	1							
+10342	ROSITAWATI	111634	Manager Funding Strategy	KS	1							
+10353	ROSALIYA DEWI SETIYORINI	111634	Sr Specialist Foreign Exchange	KS	1							
+11805	SORAYA RIZFATHANTY	111634	Specialist Funding Strategy (Ors)	KS	1							
+5271	BAMBANG SISWOYO	111635	Manager Perwakilan Keuangan Jakarta	KS	1							
+7064	ARIEF RACHMAN TUKAN	111635	Supervisor Perbendaharaan	KS	1							
+8030	UJANG SUKMA RAHAYU	111635	Supervisor Akuntansi	KS	1							
+9998	RACHMAT PRIADI	111635	Sr Akuntan Keuangan Jakarta	KS	1							
+10156	AGUS BUDI SANTOSO	111635	Kasir	KS	1							
+11753	IDHAM HAMIDI	111635	Officer Verifikasi (Ors)	KS	1							
+5423	AGUS ROHANI	111637	Specialist Project Finance	KS	1							
+6427	THONY OCTAVIANANTO	111637	Sr Specialist Project Finance	KS	1							
+10351	WILDAN ARIEF	111637	Group Leader Project Finance	KS	1							
+11425	ABDU ROBBI	111637	Specialist Project Finance	KS	1							
+11831	YOGI FIRMANSYAH	111637	Specilaist Project Finance (Ors)	KS	1							
+11833	DORI AL QADRI	111637	Specilaist Project Finance (Ors)	KS	1							
+5483	SUPRIYADI	111641	Sr Spesialis Analisis Bisnis & Fin APBJ	KS	1							
+6279	EKASWARA RAMADHI	111641	Manager Mjn Bisnis AP&PP Bidang Jasa	KS	1							
+10336	EVINDA DEMIYETRI	111641	Sr Spesialis Analisis Bisnis & Fin APBJ	KS	1							
+10742	EMIRDA EKA DEANITA	111641	Sr Spesialis Analisis Bisnis & Fin APBJ	KS	1							
+10980	SITTI MARYAM	111641	Administrator Bisnis & Finansial APBJ	KS	1							
+8162	DWI HARTONO	111642	Sr Spesialis Analisis Bisnis & Fin APBM	KS	1							
+10333	SRI ANDAYANI	111642	Sr Spesialis Analisis Bisnis & Fin APBM	KS	1							
+10334	WIDDI ARIEF HERMAWAN	111642	Manager Mjn Bisnis AP&PP Bidang Manufakt	KS	1							
+10355	LIENA MARIAH	111642	Sr Spesialis Analisis Bisnis & Fin APBM	KS	1							
+8091	ASEP MULYANA	111643	Sr Specialist Bus Sinergy &Inv Portfolio	KS	1							
+9249	NOVRIL AZHARI	111643	Sr Specialist Bus Sinergy &Inv Portfolio	KS	1							
+10104	ADRI MULUK	111643	Manager Business Sinergy&Inves Portfolio	KS	1							
+10737	YOSSI SASTRIANI	111643	Sr Specialist Bus Sinergy &Inv Portfolio	KS	1							
+10939	BAGAS SUDRAJAT WICAKSONO	111643	Specialist Bus Sinergy & Inv Portfolio	KS	1							
+10143B	RADEN OVI YUSUF	111643		KS	1	7.1441			2013-10-09 03:44:09		10143B	
+5970	FARJUMZAL	111801	Assistant to Direktur Logistik	KS	1							
+6089	AGUS PRAMONO	111801	Assistant to Direktur Logistik	KS	1							
+KS002	IMAM PURWANTO	111801	IMAM PURWANTO	KS	1				2013-09-18 06:34:22		KS002	
+3962	DASEP HOERUMAN	111802	Staf Perenc & Pengend Logistik	KS	1							
+6231	ALFIN MARNUDIN	111802	Staf Logistik Planning Setingkat Petugas	KS	1							
+6679	PAIDI	111802	Staf Perencanaan Logistik	KS	1							
+7797	TATANG KUSMARA	111802	General Manager Logistic Planning	KS	1							
+9079	ROYKE BIXBY WOODY MONINGKA	111802	Administrator SMKS	KS	1							
+9860	SLAMET RIADI	111802	Officer Adm Perencanaan Logistik	KS	1							
+10084	HARY CAHYONO	111802	Sr Specialist Logistic Planning	KS	1							
+93001397	SUGIANTO	111802	Staf Logistic Planning Stngkt For (PKWT)	KS	1							
+7036	SHOLAHUDIN	111803	Sr Specialist Market & Proc Strategy	KS	1							
+9863	ANDI RUSTANDI LEMAN	111803	General Manager Procurement	KS	1							
+3648	SUHERMAN	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+4515	DAYAT HIDAYAT	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+4545	BARNAS	111813	Specialist Spare Part Cataloging	KS	1							
+5214	GANEFO CAHYONO	111813	Specialist Common Spare Planning	KS	1							
+5279	DANA JUANDA	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+5600	SUNOTO	111813	Superintendent Common Spare Planning	KS	1							
+6251	TATI MURNIATI	111813	Specialist Common Spare Planning	KS	1							
+6468	AAN SUWIATNA	111813	Specialist Spare Part Cataloging	KS	1							
+7195	DEDI SUARDI	111813	Specialist Spare Part Performance Report	KS	1							
+7346	PUGI PULISTIYO	111813	Officer Common Spare Planning	KS	1							
+7356	HERU SASMITA	111813	Specialist Spare Part Price Estimation	KS	1							
+7839	KUSNANTO	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+7898	EDI SARWONO	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+7904	SURYA ATMAJA	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+8038	HAMAMI	111813	Officer Mtce Services Cat,PE &Planning	KS	1							
+8136	FIRMANSYAH BUJANG	111813	Manager Maintenance Planning	KS	1							
+8340	GUNADI NUGRAHA	111813	Officer Mtce Services Cat,PE &Planning	KS	1							
+8346	EDY SULISTYO	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+8435	EMIL SALIM	111813	Superintendent Mtc Services Planning	KS	1							
+8615	NURMANSYAH	111813	Specialist Common Spare Planning	KS	1							
+8839	SUGENG PRAWOTO	111813	Specialist Spare Part Price Estimation	KS	1							
+9561	ADNAN	111813	Specialist Mtce Servic Cat,PE&Planning	KS	1							
+9837	ACHMAD NUROFIK	111813	Specialist Spare Part Price Estimation	KS	1							
+10057	ADJI NUGROHO	111813	Superintendent Spare Part Cat & PE	KS	1							
+10378	SETYANTO UTOMO	111813	Specialist Common Spare Planning	KS	1							
+10625	SULISTIO	111813	Officer Mtce Services Cat,PE &Planning	KS	1							
+10729	MULYA MAUDUDY	111813	Officer Mtce Services Cat,PE &Planning	KS	1							
+11418	REDY AULIYA ROIS	111813	Officer Common Spare Planning	KS	1							
+11446	MERLY PASTALOZI	111813	Specialist Spare Part Cataloging	KS	1							
+11483	RULI TRIAS PRASETIA	111813	Officer Mtce Servic Cat,PE &Plan	KS	1							
+4095	SARDJONO	111815	Evaluator Material Price Standard	KS	1							
+4571	MOCHAMAD SUPARDAN	111815	Evaluator Services Cataloging &Price Std	KS	1							
+5759	ADE SAPRUDIN	111815	Evaluator Material Cataloging	KS	1							
+6624	RIZA FAHLEVI	111815	Evaluator Material Price Standard	KS	1							
+6862	REFDIAMON	111815	Evaluator Material Price Standard	KS	1							
+7636	MUHAMMAD MUFTI KAMIL	111815	Evaluator Material Cataloging	KS	1							
+8035	MAMAT HIDAYAT	111815	Evaluator Services Cataloging &Price Std	KS	1							
+8157	HERU BUDIANTO	111815	Evaluator Material Cataloging	KS	1							
+8281	MASRIK	111815	Evaluator Material Cataloging	KS	1							
+9014	DJUMARI	111815	Superintendent Material Price Standard	KS	1							
+9621	NURHIDAYAT	111815	Sr Specialist Sourcing Mgt	KS	1							
+9639	SUNARYANTO	111815	Superintendent Material Cataloging	KS	1							
+9838	DHENI MULYANTO	111815	Evaluator Material Cataloging	KS	1							
+9897	SLAMET SUGIANTO	111815	Sr Specialist Sourcing Mgt	KS	1							
+10015	KURDI	111815	Evaluator Material Price Standard	KS	1							
+10260	FATHURRAHMI DASRIL	111815	Manager Cataloging & Sourcing Management	KS	1							
+11447	MUHAMMAD NASRUDIN	111815	Evaluator Services Cataloging & PS	KS	1							
+11814	I NYOMAN BAHWANA SANTIKA	111815	Evaluator Material Cataloging (Ors)	KS	1							
+2832	AGUS SUDRADJAT	111816	Officer Receiving Material	KS	1							
+2907	EDDY JUNAEDI	111816	Inspector	KS	1							
+3646	ENGKOS KOSASIH	111816	Officer Receiving Material	KS	1							
+3822	SURADI	111816	Superintendent Receiving &Inspection Mat	KS	1							
+3843	M. ALI USMAN	111816	Officer Spare Part Warehouse II	KS	1							
+3844	SUNARDI B MASELAN	111816	Officer Operating Supplies Warehouse III	KS	1							
+4411	MAUN ACHMAD QUNUT	111816	Officer Operating Supplies Warehouse I	KS	1							
+4553	MIZARUDIN	111816	Officer Receiving Material	KS	1							
+4646	DEDE RUKMANA	111816	Supervisor Spare Part Warehouse I	KS	1							
+4710	FATUROCHMAN	111816	Officer Pengelolaan Barang Limbah	KS	1							
+5116	SARMAN	111816	Supervisor Receiving Material	KS	1							
+5476	BAMBANG SUGENG	111816	Officer Entreport Warehouse	KS	1							
+5606	ENDANG SUPRIATNA	111816	Supervisor Oprt Supplies Warehouse III	KS	1							
+5789	ANDA ASMARA	111816	Officer Receiving Material	KS	1							
+6090	MEI SUDARTO	111816	Manager Warehousing Management	KS	1							
+6355	RAHMATULLAH	111816	Officer Operating Supplies Warehouse III	KS	1							
+6637	BUDI RUDIANSYAH	111816	Officer Receiving Material	KS	1							
+6649	FRIDA NURWANTI	111816	Sekretaris	KS	1							
+6703	AGUS SAPUTRA	111816	Supervisor Oprt Supplies Warehouse I	KS	1							
+6750	DUMYATIE	111816	Officer Pengelolaan Barang Limbah	KS	1							
+6985	MOHAMAD ASNAWI	111816	Officer Receiving Material	KS	1							
+6992	RADEN SUPARMAN	111816	Officer Spare Part Warehouse II	KS	1							
+7035	ARIEF USMAN	111816	Officer Operating Supplies Warehouse I	KS	1							
+7425	SUYITNO	111816	Officer Spare Part Warehouse I	KS	1							
+7705	SUDIRMAN	111816	Officer Timbangan	KS	1							
+8270	OMAN HERLIMAN	111816	Supervisor Spare Part Warehouse II	KS	1							
+8273	PANJI OKTAPRIATNO	111816	Officer Entreport Warehouse	KS	1							
+8384	SUPARMAN	111816	Officer Operating Supplies Warehouse I	KS	1							
+8428	RIBUT SUHARTONO	111816	Supervisor Oprt Supplies Warehouse II	KS	1							
+8625	ATENG GARNADI	111816	Officer Operating Supplies Warehouse I	KS	1							
+8641	MUKSIN	111816	Officer Spare Part Warehouse I	KS	1							
+8915	YACOBUS RIYANTO	111816	Officer Operating Supplies Warehouse II	KS	1							
+9053	NYARSIMAN	111816	Inspector	KS	1							
+9058	BUDI SUTRISNO	111816	Inspector	KS	1							
+9566	SIDI CAHYONO	111816	Superintendent Spare Part Warehouse	KS	1							
+9654	HARDEKMAN	111816	Superintendent Oprt Supplies Warehouse	KS	1							
+9836	BUDI SIRAJUDIN	111816	Inspector	KS	1							
+9920	MUMU MUIZ	111816	Inspector	KS	1							
+10102	RUSJANA	111816	Officer Timbangan	KS	1							
+11778	ROCHMAT SAWALUDIN	111816	Officer Receiving Material (Ors)	KS	1							
+11813	DANI UKASAH	111816	Specialist Warehousing Management (Ors)	KS	1							
+2288	MUCHADI YUNUS	111821	Buyer Spare Part I	KS	1							
+3846	SURADI	111821	Buyer Spare Part II	KS	1							
+5375	JAENUL WAHYUDIN	111821	Buyer Spare Part II	KS	1							
+6258	CHARLES SIANTURI	111821	Buyer Spare Part II	KS	1							
+6757	KHAERUSSALAM	111821	Buyer Spare Part I	KS	1							
+6800	SUGIONO	111821	Buyer Spare Part II	KS	1							
+6858	FATHONI	111821	Buyer Spare Part I	KS	1							
+7494	AGUS USMAN	111821	Buyer Spare Part I	KS	1							
+8280	YANI WANTI	111821	Buyer Spare Part I	KS	1							
+8700	SUDIYO	111821	Buyer Spare Part II	KS	1							
+8940	DENNY PRASETYA T	111821	Superintendent Spare Part Procurement II	KS	1							
+8942	YAHUZA	111821	Manager Spare Part Procurement	KS	1							
+9628	BUDIANTO WINATA	111821	Superintendent Spare Part Procurement I	KS	1							
+9857	MARDIONO	111821	Buyer Spare Part I	KS	1							
+9994	ENAN SETYADI	111821	Buyer Spare Part II	KS	1							
+11824	RR. AJENG KUSHARYENI PRATIWI	111821	Buyer Spare Part II (Ors)	KS	1							
+3052	SUPRAPTO	111822	Buyer Raw Material	KS	1							
+4643	SARNEN YAKUB	111822	Buyer Raw Material	KS	1							
+4645	HAMID	111822	Buyer Raw Material	KS	1							
+4776	ENI ROCHAENI	111822	Buyer Operating Supplies	KS	1							
+6210	TATA RUSTANDI	111822	Buyer Raw Material	KS	1							
+7037	LILIS ROCHANI	111822	Buyer Operating Supplies	KS	1							
+8019	HERI SUBIYAKTO	111822	Manager Raw Material Procurement	KS	1							
+8921	MUHAMAD ALI	111822	Buyer Operating Supplies	KS	1							
+9010	ENDANG SAMANI	111822	Specialist Raw Material Procurement	KS	1							
+9062	SUPRIYONO	111822	Buyer Operating Supplies	KS	1							
+9373	ROSBANI	111822	Buyer Raw Material	KS	1							
+9649	RADEN SUNARTO	111822	Buyer Operating Supplies	KS	1							
+10063	RUHIMAT	111822	Superintendent Oprt Supplies Procurement	KS	1							
+10179	SYARIF RAHMAN	111822	Superintendent Raw Material Procurement	KS	1							
+2777	UDIN SAUDIN	111823	Officer Document Distribution	KS	1							
+3918	ADI SULISTIO	111823	Superintendent Import Management	KS	1							
+3995	MORSID	111823	Officer Payment Certificate	KS	1							
+4361	ENDRO MARGONO	111823	Specialist Vendor Assesment	KS	1							
+4362	USMAN	111823	Officer Schedulling & Handling	KS	1							
+4964	POPON ISMAN	111823	Officer Service Entry/Service Acceptance	KS	1							
+4988	MOHAMMAD SATIBI	111823	Officer Service Entry/Service Acceptance	KS	1							
+5783	RADEN ACHMAD KOSIM	111823	Spesialis Vendor Assessment	KS	1							
+6958	DJOKO WARSONO	111823	Officer Schedulling & Handling	KS	1							
+7061	DEWA KETUT JIWA	111823	Officer Verification	KS	1							
+7075	HUZAEMAT	111823	Supervisor Import 2	KS	1							
+7255	DJOKO SASMITONO	111823	Spesialis Vendor Assessment	KS	1							
+7388	WAHID SUYOSO	111823	Supervisor Service Acceptance & Document	KS	1							
+7522	UUS KUSNADI	111823	Officer Schedulling & Handling	KS	1							
+8129	EFFENDI RIDWAN	111823	Superintendent Vendor Manajemen	KS	1							
+8271	ERWIN DARWIN	111823	Supervisor Import 1	KS	1							
+8515	AGUS EFENDI	111823	Evaluator Claims	KS	1							
+9449	MULYADI	111823	Evaluator Claims	KS	1							
+9840	HAMDAN	111823	Officer Claims Administration	KS	1							
+9910	YOSE ANDRINAL	111823	Manager Vendor & Import Management	KS	1							
+10177	FERDI SUFTIADI MAULANA	111823	Sr Specialist Vendor & Import Mgt	KS	1							
+10203	MAHMUD ROSIDI	111823	Superintendent Claims	KS	1							
+10936	ANTON PUJIYANTO NUGROHO	111823	Evaluator Claims	KS	1							
+11498	YUDYSTIRA PURNAMA RUSLIA	111823	Officer Vendor Registration (Ors)	KS	1							
+4647	EFFENDI	111824	Evaluator Non Maintenance Services Proc	KS	1							
+5033	ABDURACHMAN	111824	Superintendent Maintanance Services Proc	KS	1							
+5713	DODO SUPARMAN	111824	Evaluator Non Maintenance Services Proc	KS	1							
+5754	ROMLI HALANI	111824	Evaluator Non Maintenance Services Proc	KS	1							
+6255	ENTAT HARTATI	111824	Specialist Services Procurement	KS	1							
+6257	MIA RACHMIATI	111824	Evaluator Maintenance Services	KS	1							
+7945	GUSTIANSYAH	111824	Evaluator Maintenance Services	KS	1							
+8159	RAJUDIN	111824	Evaluator Maintenance Services	KS	1							
+8548	MEMED	111824	Evaluator Maintenance Services	KS	1							
+8651	SONNY DESANDER	111824	Superintendent Non Mtc Services Procur	KS	1							
+9532	DULATIP	111824	Evaluator Non Maintenance Services Proc	KS	1							
+9844	CUCUN SUMBAGDJA	111824	Evaluator Non Maintenance Services Proc	KS	1							
+9922	BUDIMAN SUBANDI	111824	Evaluator Maintenance Services	KS	1							
+10117	SAPEI	111824	Manager Services Procurement	KS	1							
+6268	BAMBANG IRIANTO	111901	Sr Specialist Institutional Relation	KS	1							
+6933	RUKMONO BUDI RAHARDJO	111901	Assistant to Direktur Pemasaran	KS	1							
+8084	EDIARTO BAMBANG NUGROHO	111901	Assistant to Direktur Pemasaran	KS	1							
+8254	AGUS PRIBADI	111901	Assistant to Direktur Pemasaran	KS	1							
+8654	EKA SURYA	111901	Assistant to Direktur Pemasaran	KS	1							
+9700	ALVIN WARDHANA SAANIN	111901	Assistant to Direktur Pemasaran	KS	1							
+10714	ROSA MEDINA RAFALDINI	111901	Chief Specialist Institutional Relation	KS	1							
+93001400	RACHMATULLAH PUTRA	111901	Staf Spesialis Hubungn Kelembagaan(PKWT)	KS	1							
+KS004	YERRY	111901	DIREKTORAT PEMASARAN	KS	1				2013-09-18 06:36:40		KS004	
+6919	MARSIDON SIMANUNGKALIT	111903	General Manager Sales I	KS	1							
+8256	ASEP SUHARA	111903	Staf Setingkat Superintendent	KS	1							
+8266	DEDEN RISNANDAR	111903	Staf Setingkat Superintendent	KS	1							
+8426	ABBAS	111903	SMKS Admistrator	KS	1							
+8814	HARI POERWANTO	111903	Staf Setingkat Superintendent	KS	1							
+6627	MASLINDA LIMBONG	111904	SMKS Administrator	KS	1							
+6955	SRI ROSANI DHARMAWATI	111904	Staf Setingkat Superintendent	KS	1							
+8163	ISKANDAR	111904	Staf Setingkat Superintendent	KS	1							
+8255	TEGUH SARWONO	111904	General Manager Sales II	KS	1							
+8258	MUWARDI	111904	Staf Setingkat Superintendent	KS	1							
+9363	ACHMAD DHANY	111904	Staf Setingkat Superintendent	KS	1							
+4927	SUPANDO	111905	Staf Setingkat Superintendent	KS	1							
+10345	DADAN SETIAWAN	111905	Staf Setingkat Supervisor	KS	1							
+6737A	COERNIA SARTONO	111905	Perbantuan Marketing	KS	1				2013-09-19 04:46:05		6737A	
+9951	PARIS AGUSTONO	111905		KS	1				2013-10-23 08:45:38	2013-10-23 08:55:15	9951	1
+8062a	DJOKO MULJONO	111905		KS	1				2013-10-25 09:26:53		8062a	
+4991	FRANSISKA LAURA PAATH	111913	Sr Strategic Account Rerolling	KS	1							
+8259	UNGGUL HARTONO	111913	Sr Strategic Account Pipe & Tube	KS	1							
+9642	BAMBANG SARONI SOMENG	111913	Chief Strategic Account Oil & Gas Pipe	KS	1							
+10745	TUTI RACHMAWATI	111913	Key Account Pipe & Tube	KS	1							
+10962	HANDRIO ERNAWAN	111913	Key Account Boiler & Pressure, Vessel	KS	1							
+8260A	SLAMET	111913		KS	1				2013-10-04 04:20:20		8260A	
+7660	WEMPY RICKY LOPULALAN	111914	Sr Strategic Account Galvanized Industri	KS	1							
+8263	DJENET HARDOKO HADI	111914	Sr Strategic Account HOA,HOE,HOF, Enamel	KS	1							
+8265	MULYADI	111914	Sr Strategic Account  Auto & Heavy Equip	KS	1							
+9931	SETIYONO MARYUDO	111914	Chief Strategic Acct Galvanized Industri	KS	1							
+10708	ARIS TEGUH WIBOWO	111914	MANAGER STRATEGIC ACCOUNT 3 CRC&AUTOMOTIV	KS	1					2013-11-07 09:07:54		1
+10731	YUNUS MARDIANTO	111914	Key Account Stockist & Others	KS	1							
+11443	MUHAMMAD ALDIANSYAH S.	111914	Key Acc Galvanized Industries (GIS)	KS	1							
+11450	R HANDA BAGUS PUTRA	111914	Key Account HOA, HOE, HOF, Enamel	KS	1							
+11918	SUGENG PANGRAKSA	111914	Key Account Automotive &Heavy Equip(Ors)	KS	1							
+4586	AGUS CHASIAT	111915	Specialist Sales by Product	KS	1							
+4764	SETIAJID JAKUNIAWAN	111915	Specialist Sales Industrial Services	KS	1							
+5629	BUDI PRAKOSO	111915	Group Leader  By Product &  Industrial	KS	1							
+6413	SUKOCO	111915	Specialist Sales by Product	KS	1							
+7009	HENDI ROHENDI	111915	Superintendent Sales Industrial Services	KS	1							
+7947	JOKO WURIANTO	111915	Key Account Hight Carbon & Nail	KS	1							
+8457	HERLAMBANG EKA SETYA	111915	MANAGER SA 4 LP,BP & IS, REG & PROJECT	KS	1					2013-10-23 09:39:52		1
+8547	CONTENG PULUNGAN	111915	Key Account By Prod. & Industrial Serv.	KS	1							
+8864	ASEP ERNAWAN	111915	Superintendent Sales by Product	KS	1							
+9545	EDI SANTO	111915	Officer Sales Industrial Services	KS	1							
+9830	YUS YUSLIZAR	111915	Sr Strategic Account Bolt, Nut & Nail	KS	1							
+9902	NANDANG AMIRUDIN	111915	Key Account Construction & Wire Mesh	KS	1							
+10124	PRIHANTO WIJATMAKA	111915	Specialist Sales by Product	KS	1							
+10455	JAI SUJAI	111915	Officer Sales Industrial Services	KS	1							
+10736	BAYU CIPTA SEPTIADI	111915	Sr Strategic Account Contruction & WM	KS	1							
+11507	RIDHO INDRA PERMANA	111915	Key Account Welded, Spring & BWR (Ors)	KS	1							
+11443A	MUHAMMAD ALDIANSYAH S.	111915	-	KS	1	-	-		2013-11-07 04:30:35		11443A	
+7015	SOUVENIR	111916	Sr Strategic Acct  Ship Building & Train	KS	1							
+8260	SLAMET	111916	Chief Strategic Account GST	KS	1							
+9618	HARAPATI	111916	Sr Strategic Account GST	KS	1							
+9697	EDY SUTIONO	111916	Sr Strategic Account GST	KS	1							
+10229	MUHAMMAD AZHAR	111916	Manager Strategic Acct 2 GST&Ship Build	KS	1							
+10728	MUHAMMAD RASYID RIDA	111916	Key Account General Structure (GST)	KS	1							
+11171	BARON UTAMA ARIF	111916	Key Account Ship Building	KS	1							
+11505	KRISHNA DWI SOEDARMO	111916	Key Account Ship Building (Ors)	KS	1							
+11795	AJI PRIAMBODO BUDI PRAKOSO	111916	Key Account General Structure (GST)(Ors)	KS	1							
+10222A	JATI SANTIONO	111916		KS	1				2013-11-11 06:30:46		10222A	
+6657	RAMON	111931	Specialist CR Product & Prof Analysis	KS	1							
+6737	COERNIA SARTONO	111931	Chief Spesialist Prod & Profit Analysis	KS	1							
+6742	SAMTO	111931	Sr Specialist WR&By Prod & Prof Analysis	KS	1							
+8324	SURIPNO	111931	Specialist CR Sales Performance Analysis	KS	1							
+9609	DADANG SUHENDAR	111931	Specialist WR & By Prod & Prof Analysis	KS	1							
+10349	BAMBANG TRI BASUKI	111931	Manager Product & Profitability Analysis	KS	1							
+10741	DWI PRASTUTI	111931	Sr Specialist HR Product & Prof Analysis	KS	1							
+10963	ADI KAMER PUTRA	111931	Specialist HR Sales Performance Analysis	KS	1							
+11506	GETRIA KASRA	111931	Specialist Price Market Analysis (Ors)	KS	1							
+9951A	PARIS AGUSTONO	111931		KS	1	636			2013-10-23 08:38:28		9951A	
+5998	MARWAN GUNAWAN	111933	Sr Engineer HRC Customer Tech Services	KS	1							
+7059	SUNAR SANGKA	111933	Engineer WR Customer Technical Services	KS	1							
+7194	YUDI BRATA WALUYA	111933	Engineer HRC Customer Technical Services	KS	1							
+9747	LEGOWO SUDARYANTO	111933	Sr Engineer HRC Customer Tech Services	KS	1							
+9886	DWI WARSO SOEYANTO	111933	Sr Engineer CRC Customer Tech Services	KS	1							
+10064	HERWANTO ONGKO	111933	Sr Engineer WR Customer Tech Services	KS	1							
+10556	ACHMAD IMANUDIN	111933	Engineer HRC Customer Technical Services	KS	1							
+10711	ALHADIS SYAMSUDDIN	111933	Manager Customer Technical Services	KS	1							
+6736	MUTHMAINNAH AMROES	111934	Superintendent SA 1 Sales Order Exce.	KS	1							
+7022	SUMINO	111934	Specialist SA 2&3 Sales Order Exce.	KS	1							
+7352	NINI MAHRANI	111934	Specialist SA 5 Sales Order Exec.	KS	1							
+7913	SUREDI	111934	Superintendent Sales Information Support	KS	1							
+7914	SUDIRMAN	111934	Specialist SA 4 Sales Order Exec.	KS	1							
+8262	ACHMAD KOESJOEDIONO	111934	Superintendent SA 2&3 Sales Order Exce.	KS	1							
+8264	RUSTINAH WARASTUTI	111934	Specialist SA 2&3 Sales Order Exce.	KS	1							
+8308	TRISWANTO	111934	Specialist Sales Information Support	KS	1							
+8461	DIAN LARASATI SUDARMADI	111934	Superintendent SA 4 Sales Order Exce.	KS	1							
+8604	HARYONO	111934	Specialist SA 4 Sales Order Exec.	KS	1							
+8629	LAWU BUDI HARSOYO	111934	Specialist SA 5 Sales Order Exec.	KS	1							
+9035	ABDULLAH SURYANINGRAT	111934	Specialist SA 1 Sales Order Excecution	KS	1							
+9414	SULAMI MACHMUD	111934	Specialist Sales Information Support	KS	1							
+9493	ADITIA YUNANDA	111934	Specialist SA 1 Sales Order Excecution	KS	1							
+9605	AGUS SANTOSA	111934	Specialist SA 5 Sales Order Exec.	KS	1							
+9652	DEDI SOFYAN	111934	Specialist SA 1 Sales Order Excecution	KS	1							
+9738	ANTO RAHMAT BUSONO	111934	Specialist Sales Information Support	KS	1							
+9834	BUDI SETIAWAN	111934	Superintendent SA 5 Sales Order Exec.	KS	1							
+9866	ERMAYA AGUNG SIGIT	111934	Specialist SA 1 Sales Order Excecution	KS	1							
+10171	LIZA MAINUR	111934	Officer SA 2&3 Sales Order Exce.	KS	1							
+10183	RADEN MAS EDY KARJANA	111934	Sr Specialist Marketing Inf. System	KS	1							
+10320	M NOOR SUDRADJAT	111934	Manager MIS & Sales Administration	KS	1							
+10406	HELMI YULIYANTORO	111934	Specialist SA 2&3 Sales Order Exce.	KS	1							
+11509	RINA ELINA	111934	Officer Sales Information Support (Ors)	KS	1							
+11764	MU'TIAUL FATHONI	111934	Officer SA 1 Sales Order Excecution(Ors)	KS	1							
+8004	MASNENI	111935	Administrator Market Information	KS	1							
+10169	BIMAKARSA WIJAYA	111935	Chief Specialist Market Research & Dev	KS	1							
+10281	ARIF WISAKSONO	111935	Sr Specialist Market Research	KS	1							
+10435	BAMBANG HADI PRANOTO	111935	Sr Specialist Market Research	KS	1							
+10758	RACHMA KUSUMASTUTI	111935	Sr Specialist Market Development	KS	1							
+11798	ENGLA SULISTIA	111935	Specialist Market Research (Ors)	KS	1							
+5935A	SIGIT SAROSO	111935		KS	1				2013-10-04 04:22:53	2013-11-11 06:34:18	5935A	7990
+2747	ADI KRISNANTO	112001	Staf Project BF Setingkat Superintendent	KS	1							
+2803	MAKMUR SYAFRUDIN	112001	Staf Project BF Setingkat Superintendent	KS	1							
+2813	SULAEMAN BIN SUTARDI	112001	Staf Project BF Setingkat Supervisor	KS	1							
+3060	SUKARDI MUNTAHAL	112001	Staf Project BF Setingkat Supervisor	KS	1							
+3144	CECE KARDIMAN	112001	Staf Project BF Setingkat Supervisor	KS	1							
+3209	SUGIYONO	112001	Staf Project BF Setingkat Foreman	KS	1							
+3464	KUSWANDA	112001	Staf Project BF Setingkat Foreman	KS	1							
+3532	SATMOKO DJATI WINANTYO	112001	Staf Project BF Setingkat Supervisor	KS	1							
+3925	ADRISWAN RISWAN	112001	Staf Project BF Setingkat Supervisor	KS	1							
+4063	DIDI AFIFI	112001	Staf Project BF Setingkat Supervisor	KS	1							
+4162	BAMBANG KRISNA	112001	Staf Project BF Setingkat Superintendent	KS	1							
+4277	WAWAN SETIAWAN	112001	Staf Project BF Setingkat Supervisor	KS	1							
+5005	DUDUNG ABD FATAH	112001	Staf Project BF Setingkat Supervisor	KS	1							
+5255	TATANG ROHENDRA	112001	Staf Project BF Setingkat Supervisor	KS	1							
+5352	YAYA SANJAYA	112001	Staf Project BF Setingkat Foreman	KS	1							
+5617	ATA SUPRIATA	112001	Staf Project BF Setingkat Foreman	KS	1							
+5624	MADE PASTIARSA	112001	Assistant to Direktur Teknologi & PU	KS	1							
+6202	FAURI	112001	Staf Project BF Setingkat Supervisor	KS	1							
+6561	ISMAIL	112001	Staf Project BF Setingkat Foreman	KS	1							
+6647	NAILA	112001	Staf Project BF Setingkat Superintendent	KS	1							
+6762	RADEN HERNANTO	112001	GM. BLAST FURNACE PROJECT	KS	1	7.2538				2013-10-07 06:32:14		1
+6999	ARFIN MURDISIA	112001	Staf Project Setingkat Manager	KS	1							
+7030	RAFEI BIN SOHARI	112001	Staf Project BF Setingkat Supervisor	KS	1							
+7047	FACHROJI ALI	112001	Staf Project BF Setingkat Superintendent	KS	1							
+7161	DUDUM DIMYATI	112001	Staf Project BF Setingkat Foreman	KS	1							
+7168	SABAR GUNTARTO	112001	Staf Project BF Setingkat Foreman	KS	1							
+7381	RACHMAT HIDAYAT	112001	Staf Project BF Setingkat Supervisor	KS	1							
+7850	ABDUL KADIR JAILANI	112001	Staf Project BF Setingkat Superintendent	KS	1							
+8022	ACHMAD MUNIF	112001	Staf Project BF Setingkat Supervisor	KS	1							
+8119	HARSOYO BASUKI	112001	Staf Project BF Setingkat Superintendent	KS	1							
+8120	MUFTI SYARIFUDDIN	112001	Staf Project BF Setingkat Superintendent	KS	1							
+8122	HARTONO	112001	General Manager Blast Furnace Project	KS	1							
+8153	FACHRUROZI	112001	Staf Project BF Setingkat Superintendent	KS	1							
+8452	HENDY TRIATMANTO	112001	Staf Project BF Setingkat Manager	KS	1							
+8523	DJOKO SUSANTO	112001	Staf Project BF Setingkat Superintendent	KS	1							
+8528	EDDY RUKMAN	112001	Staf Project Setingkat Manager	KS	1							
+8561	ISTAMAR	112001	Staf Project BF Setingkat Manager	KS	1							
+8582	HARYANTA	112001	Staf Project BF Setingkat Manager	KS	1							
+8586	HERRI SUPRAPTO	112001	Staf Project BF Setingkat Manager	KS	1							
+10100	MOHAMAD TAMZIL	112001	Staf Project BF Setingkat Foreman	KS	1							
+10259	WIDI HASTAWA	112001	Staf Project Setingkat Manager	KS	1							
+10261	HARYANTO	112001	Assistant to Direktur Teknologi & PU	KS	1							
+10302	THOMAS TUMANGGER	112001	Staf Project BF Setingkat Superintendent	KS	1							
+10344	CHATIM PRAMONO	112001	Staf Project BF Setingkat Superintendent	KS	1							
+10734	ARIEF BUDI ARTHA	112001	Staf Project BF Setingkat Supervisor	KS	1							
+10753	NITA ANGGREANI	112001	Staf Project BF Setingkat Supervisor	KS	1							
+10938	KURNIAWAN NOPRIADHI	112001	Staf Project BF Setingkat Foreman	KS	1							
+10968	DIYAN SURYA PUTRA	112001	Engineer Energy, Utility, MH WG	KS	1							
+10977	HENRY YOTAMA ARIFANDY	112001	Staf Project BF Setingkat Supervisor	KS	1							
+11379	ANDREY KUSUMA	112001	Engineer Process Blast Furnace	KS	1							
+11380	ZIKRI RIZKI PERDANA	112001	Engineer Process Blast Furnace	KS	1							
+11381	ABDULLAH	112001	Engineer Process Blast Furnace	KS	1							
+11384	MUHAMMAD REZA RINALDY	112001	Engineer Electric	KS	1							
+11386	ADAM SINA PUTRA	112001	Engineer Machine	KS	1							
+11432	EKA MANTI SAPUTRA	112001	Staf Project BF Setingkat Supervisor	KS	1							
+11440	JHON PIETER S.L.S. SINAGA	112001	Staf Project BF Setingkat Supervisor	KS	1							
+11728	MUHAMAD SERGAP JASWAN YUDAPRADJA	112001	Officer Coke Oven Plant WG (Ors)	KS	1							
+11735	ACHMAD LUKMAN HARUN MAHMUD	112001	Officer Electrical WG (Ors)	KS	1							
+11741	IVANT FERDANA	112001	Officer Mechanical & Civil WG (Ors)	KS	1							
+11743	MUHAMAD HAKIM	112001	Officer Mechanical & Civil WG (Ors)	KS	1							
+11744	MUHAMMAD YAMANI SUYAS	112001	Officer Sintering Plant WG (Ors)	KS	1							
+11745	PRASETYA EKA WARDHANA	112001	Officer Instrument & Control WG (Ors)	KS	1							
+11747	RIAN TRIANTO	112001	Officer Instrument & Control WG (Ors)	KS	1							
+11756	SAEFUDIN	112001	Officer Blast Furnace WG (Ors)	KS	1							
+11762	JOKO DEWANTO	112001	Officer Blast Furnace WG (Ors)	KS	1							
+11770	ANDRI SETYAWAN	112001	Officer Electrical WG (Ors)	KS	1							
+11771	ARRAHMAN SEPUTRA ASY'ARI	112001	Officer Electrical WG (Ors)	KS	1							
+11774	FARIS NUR FAUZI	112001	Officer Blast Furnace WG (Ors)	KS	1							
+11782	TAHTA AMRULLOH	112001	Engineer Electronica (Ors)	KS	1							
+11783	YUS DWI NOFIANTO	112001	Specialist Mechanical & Civil WG (Ors)	KS	1							
+11785	RIZKI SATRIA HIRASMAWAN	112001	Staf Project BF Setingkat Supv (Ors)	KS	1							
+11790	HENDRIAS BUDI SOESANTO	112001	Engineer Electric (Ors)	KS	1							
+11791	RIKKY RUSENO	112001	Specialist Blast Furnace WG (Ors)	KS	1							
+11796	ANDY RIVAI	112001	Specialist Blast Furnace WG (Ors)	KS	1							
+11806	ADE FAHMI NUGRAHA	112001	Specialist Electric Working Group (Ors)	KS	1							
+11807	RANGGA PRANACITRA	112001	Engineer Electronica  (Ors)	KS	1							
+11811	ARMADHANI JATI PRASETYA	112001	Specialist Mechanical & Civil WG (Ors)	KS	1							
+11815	SERA YUNARIZAL PRATAMA	112001	Specialist Blast Furnace WG (Ors)	KS	1							
+11827	DALI HARISWIJAYA	112001	Specialist Blast Furnace WG  (Ors)	KS	1							
+93001394	NADYA ANDYANA	112001	Secretary Tim Proj Blast Furnace (PKWT)	KS	1							
+98000013	ERICK CHANDRA	112001	Tenaga Ahli Bahasa Mandarin (PKWT)	KS	1							
+98000027	GANESHA AGNIPUTRA	112001	Tenaga Ahli Bahasa Mandarin (PKWT)	KS	1							
+6762A	RADEN HERNANTO	112001	GM. BLAST FURNACE PROJECT	KS	1	7.2538			2013-10-07 06:34:43	2013-10-07 06:35:33	6762A	1
+6593	M. IRFAN	112002	Staf Setingkat Petugas	KS	1							
+8112	AMUNG SOMANTRI	112002	General Manager Quality Assurance	KS	1							
+8009A	ANDRYANTO	112002		KS	1	7.1047			2013-09-27 07:25:17		8009A	
+4101	MUJAYIN	112005	Staf Setingkat Foreman	KS	1							
+7635	SETYO YULIANTO	112005	Staf Tender Commitee Setingkat Supv	KS	1							
+8565	DWI BAGOES ENDRIJANSJA	112005	General Manager Corp Planning & Buss Dev	KS	1							
+9596	EDWIN SUMIROZA	112005	Staf CPBD Setingkat Superintendent	KS	1							
+10685	ROHMATUL HAMIDAH	112005	SMKS Administrator	KS	1							
+8091A	ASEP MULYANA	112005	Perbantuan P dan B	KS	1	7.1234			2013-09-19 04:52:21		8091A	
+10143A	RADEN OVI YUSUF	112005		KS	1	7.1441			2013-10-09 03:43:06		10143A	
+6124	CIPTARASA	112007	Administrator R&D, SMKS & Trainig Coord	KS	1	7.1095	ciptarasa@krakatausteel.com			2013-10-07 10:22:04		0
+8113	I KETUT SUNARWA	112007	General Manager Research & Technology	KS	1							
+5060	BAKTI PRASETYO	112101	Sr Engineer Audit Energi	KS	1							
+6058	KANTO ADI HARSONO	112101	Teknisi PDC	KS	1							
+6577	UUS KUSMANA	112101	Engineer Manajemen Energi	KS	1							
+7423	NASLI	112101	Teknisi	KS	1							
+7824	SUKISMO KESDU	112101	Teknisi PDC	KS	1							
+8121	SISWAHYUDIARSO	112101	Sr Engineer Riset By Product	KS	1							
+9948	ANANG SANTOSO	112101	Sr Engineer Pengend & Optimalisasi Energ	KS	1							
+9958	ISKANDAR MUDA	112101	Chief Engineer Mjn Energi & Sumberdaya	KS	1							
+10060	ARIES SETIADI	112101	Engineer Audit Energi	KS	1							
+10218	MUSTAQIEM	112101	Sr Engineer Bahan Baku Utama	KS	1							
+10231	ZAENAL ARIFIN MUSLIM	112101	Manager Energy & Resources Development	KS	1							
+10305	ANDI SASONGKO	112101	Sr Engineer Konservasi Energi	KS	1							
+10363	SLAMET RIYADI	112101	Engineer Bahan Baku Utama	KS	1							
+10407	AGUNG BIANTARA	112101	Teknisi PDC	KS	1							
+10572	MUNAWAR	112101	Teknisi PDC	KS	1							
+11817	AGY YOGHA PRADANA	112101	Engineer Konservasi Energi (Ors)	KS	1							
+2550	DHANY SUTOYO	112102	Sr Engineer Material Development	KS	1							
+2585	DJOKO LUARSONO	112102	Sr Engineer Product Development	KS	1							
+5411	HERI SUKARNO	112102	Sr Engineer Product Development	KS	1							
+6434	SUMADI	112102	Sr Engineer Product Development	KS	1							
+6587	DEDENG ENDAWAN	112102	Sr Engineer Product Development	KS	1							
+7422	TUKIYANA	112102	Sr Engineer Product Development	KS	1							
+7606	KENTUT SUPRAPTIYO	112102	Teknisi Material Development	KS	1							
+7627	AMIR	112102	Sr Engineer Product Development	KS	1							
+8009	ANDRYANTO	112102	Engineer Product Development	KS	1							
+8118	SUGIANTO	112102	Sr Engineer Product Development	KS	1							
+8171	KUN PRABOWO	112102	Sr Engineer Material Development	KS	1							
+8442	BENO SUPRIYADI	112102	Manager Material & Product Development	KS	1							
+9620	ROJI BASUKI	112102	Sr Engineer Product Development	KS	1							
+9961	EDISON SITORUS	112102	Sr Engineer Material Development	KS	1							
+10234	AGUNG HIDAYAT	112102	Sr Engineer Product Development	KS	1							
+10300	SAFRIZAL	112102	Sr Engineer Product Development	KS	1							
+10393	VIVI SOPIAN	112102	Teknisi Product Development	KS	1							
+10398	WIDI PRABOWO	112102	Engineer Product Development	KS	1							
+10410	AGUS HARTONO	112102	Teknisi Product Development	KS	1							
+10614	DADAN SUDANI	112102	Teknisi Material Development	KS	1							
+10800	TEDI SUPRIYADI	112102	Teknisi Product Development	KS	1							
+10953	ENGKUS KUSWARI	112102	Sr Engineer Material Development	KS	1							
+11426	AGUNG BASKORO	112102	Engineer Product Development	KS	1							
+11792	YANUAR NUGRAHA	112102	Engineer Product Development (Ors)	KS	1							
+11819	LUTFI AMRULLAH	112102	Engineer Product Development (Ors)	KS	1							
+3813	DJAMALUDIN YASIN	112104	Specialist Publication & Inf Technology	KS	1							
+4572	AHMAD WAHYU IRAWAN	112104	Engineer Applied Research	KS	1							
+4966	HASANUDIN	112104	Officer Publikasi Inf Teknologi	KS	1							
+5245	SAMANHUDI	112104	Teknisi Prwt Lab	KS	1							
+5259	KUSNAEDI ROOSYANTO	112104	Teknisi Metalografi	KS	1							
+5891	AGUS BUDIONO	112104	Teknisi Pengujian & Simulasi	KS	1							
+6004	MUAENUDIN	112104	Teknisi NDT	KS	1							
+6098	WAHYU TEGUH PRASETYO	112104	Superintendent NDT	KS	1							
+6572	SURYA ERWIN	112104	Teknisi Metalografi	KS	1							
+6574	MARLAN	112104	Teknisi Metalografi	KS	1							
+7000	HERWYN JUWONO	112104	Sr Engineer Applied Research	KS	1							
+7199	AHMAD SUBADRI	112104	Supervisor Laboratorium Riset	KS	1							
+7262	DAHANA SURYA	112104	Engineer Applied Research	KS	1							
+7409	RUSTAM	112104	Supervisor NDT	KS	1							
+7427	AGUSTINE SETIAWAN	112104	Sr Engineer Applied Research	KS	1							
+7651	TAUFIK HIDAYAT	112104	Teknisi NDT	KS	1							
+8224	SUPRAPTO	112104	Teknisi Metalografi	KS	1							
+8441	MAULUD HIDAYAT	112104	Manager Applied Research	KS	1							
+9074	ACE SUPRIATNA	112104	Teknisi Pengujian & Simulasi	KS	1							
+9929	ERY MIRZAL AZIZ	112104	Sr Engineer Applied Research	KS	1							
+10033	RIZA AFRIZAL	112104	Supervisor Metalografi	KS	1							
+10059	PUJIANTO	112104	Spesialis NDT	KS	1							
+10114	IRAWAN PALGUNADI	112104	Sr Engineer Applied Research	KS	1							
+10219	ANOM PRIYANTO	112104	Superintendent Testing Mat Laboratory	KS	1							
+10408	NANA JUMHANA MUIZ	112104	Teknisi NDT	KS	1							
+10576	DAYAT SUDRAJAT	112104	Teknisi Metalografi	KS	1							
+10645	MUSAMAS HISYAM	112104	Teknisi Prwt Lab	KS	1							
+11550	FAUZUL IMAN	112104	Juru Teknik NDT (Ors)	KS	1							
+11551	GILANG SAPUTRA	112104	Juru Teknik NDT (Ors)	KS	1							
+11742	LINGGA DEWA MURTI	112104	Teknisi NDT (Ors)	KS	1							
+11761	HENDRA BAGUS PAMUNGKAS	112104	Teknisi NDT (Ors)	KS	1							
+11822	REZA JAYA WARDHANA	112104	Engineer Applied Research (Ors)	KS	1							
+3703	WINDU BASUKI	112106	Sr Specialist Technology & Process Dev	KS	1							
+5457	JOY NUGROHO	112106	Manager Technology & Process Development	KS	1							
+6510	ISTRIANTO	112106	Chief Spec Technology & Process Dev.	KS	1							
+8068	DECK RIYADI	112106	Sr Specialist Technology & Process Dev	KS	1							
+9223	SUWARTO	112106	Specialist Technology & Process Dev	KS	1							
+10051	GATOT GAYANTORO	112106	Sr Specialist Technology & Process Dev	KS	1							
+10062	ROCHADI WIDYA HARTONO	112106	Specialist Technology & Process Dev	KS	1							
+10215	PETRUS PAULUS SRIYANTA	112106	Sr Specialist Technology & Process Dev	KS	1							
+10964	RIO AROSYID PUTRA	112106	Sr Specialist Technology & Process Dev	KS	1							
+5517	DEDI SUPRIADI ABDUL JALIL	112201	Sr Specialist Business Enabler	KS	1							
+6418	SUYANTO	112201	Sr Specialist Business Enabler	KS	1							
+6443	TANJUNG PASARIBU	112201	Sr Specialist Procedure Development	KS	1							
+6823	SUGIYANTO	112201	Specialist Business Enabler	KS	1							
+7079	SRI SILVIA RAHAYU	112201	Sr Specialist Procedure Development	KS	1							
+8069	NANA SUPRIATNA	112201	Sr Specialist Business Enabler	KS	1							
+8094	JUMARNO	112201	Sr Specialist Business Enabler	KS	1							
+8246	ACHMAD HUDAYA	112201	Sr Specialist Procedure Development	KS	1							
+8978	RAMELAN	112201	Sr Specialist Business Enabler	KS	1							
+8993	F.X. TEGUH SANTOSA	112201	Sr Specialist Business Enabler	KS	1							
+9168	PAMUDJI ROCHMAT ACHMADI	112201	Specialist Procedure Development	KS	1							
+9490	HOTLAND SIRINGORINGO	112201	Manager Bus Enabler & Procedure Develop	KS	1							
+9636	BAMBANG PERMADI	112201	Sr Specialist Business Enabler	KS	1							
+9991	ASEP SAEPUDIN USMAN	112201	Specialist Application & RICEF	KS	1							
+10040	ARIEF HARYONO	112201	Sr Specialist Business Enabler	KS	1							
+10083	ABDUL HADI MUSLIM	112201	Sr Specialist Application & RICEF	KS	1							
+10112	MUHAMMAD HELMI NUR WIDIYARTO	112201	Chief Specialist Bus Enabler & Proc Dev	KS	1							
+10270	ODE PERO	112201	Sr Specialist IT/IS Compliance	KS	1	71421				2013-11-21 02:29:51		1
+10306	RENDRAYANTO	112201	Sr Specialist IT/IS QA	KS	1					2013-11-21 02:30:47		1
+10696	WENI PURWANINGRUM	112201	Sr Specialist Application & RICEF	KS	1							
+10946	ENGGAR NOVRIZA	112201	Specialist Application & RICEF	KS	1							
+4130	YUSUP BIN KATMA	112203	Sr Engineer Process Automation	KS	1							
+5638	HARI SUBAGYA	112203	Sr Specialist MES	KS	1							
+6321	TOHIRON	112203	Specialist Process Automation	KS	1							
+6605	MUHAMAD KHAIRUL MUHAJIRIN	112203	Sr Specialist MES	KS	1							
+6833	UJANG FURKON	112203	Sr Specialist MES	KS	1							
+8154	KRISNA PUTRA	112203	Manager Automation	KS	1							
+8155	SYAMSUL ANAM	112203	Chief Specialist MES & Automation	KS	1							
+8194	EDI ISMANTO	112203	Specialist MES	KS	1							
+8195	WAHID SUMARJO	112203	Engineer Basic Automation	KS	1							
+8242	MOCH MISBAKHULANAM	112203	Sr Engineer Basic Automation	KS	1							
+8493	ARIEF NURMAN HAKIM	112203	Sr Engineer Process Automation	KS	1							
+8516	TOTON FATULLOH	112203	Specialist Process Automation	KS	1							
+10011	NURJAHDI	112203	Sr Engineer Process Automation	KS	1							
+10131	SUHAIPIK	112203	Sr Engineer Basic Automation	KS	1							
+10519	EMAN SULAEMAN	112203	Engineer Basic Automation	KS	1							
+11420	JOKO RUSANDI AZHARI	112203	Officer Automation	KS	1							
+11776	MUHAMMAD AGUS SUSANTO	112203	Teknisi Otomasi (Ors) (Del)	KS	1							
+11784	PANDHU WICAKSONO	112203	Specialist MES (Ors)	KS	1							
+5171	GINTARWAN GINTING	112404	Sr Specialist Project Proposal Analysis	KS	1							
+6273	ROOS ADHY SATRIO	112404	Manager Project Development	KS	1							
+7674	ISMAIL	112404	Specialist Project Proposal Analysis	KS	1							
+8064	BAMBANG EKO SANTOSO	112404	Chief Specialist Project Development	KS	1							
+10042	HERMAN JOESTRIJONO	112404	Sr Specialist Project Integration	KS	1							
+10559	MUHAMMAD SUHADAK	112404	Specialist Project Integration	KS	1							
+10750	MAYA NOVI PUSPITASARI	112404	Sr Specialist Project Proposal Analysis	KS	1							
+10956	ARIEF DARMAWAN	112404	Superintendent Project Contract Prep	KS	1							
+5622	EDY PUTRANTO	112501	Assistant to Direktur Produksi	KS	1							
+5967	TRI DJAKA	112501	Assistant to Direktur Produksi	KS	1							
+8929	DARSYAF	112501	Assistant to Direktur Produksi	KS	1							
+KS003	HILMAN HASYIM	112501	DIREKTORAT PRODUKSI	KS	1				2013-09-18 06:35:04		KS003	
+2734	ADRIL ARFA	112502	Sr Engineer Produksi Pengolahan Bs & Bj	KS	1							
+3777	ZULFIKAR	112502	Staf Setingkat Supervisor	KS	1							
+5488	NASRUN	112502	General Manager Iron & Steel Making	KS	1							
+5598	SUYONO	112502	Staf Setingkat Foreman	KS	1							
+5813	DEDI KUSNAWAN	112502	Staf Setingkat Foreman	KS	1							
+7474	BAMBANG WIRYONO	112502	Staf Setingkat Petugas	KS	1							
+7536	BARISMAN SARAGIH	112502	Staf Setingkat Foreman	KS	1							
+10949	RUDYANTO SIHOTANG	112502	Sr Engineer Produksi Pengolahan Bs & Bj	KS	1							
+10951	JEFRY ALFIANSYAH ALLAN	112502	Sr Engineer Produksi Pengolahan Bs & Bj	KS	1							
+10966	WAHYUDI	112502	Sr Engineer Produksi Pengolahan Bs & Bj	KS	1							
+3610	UTAR SUTARYA	112504	Staf Setingkat Foreman	KS	1							
+5563	SUHENDRO TULUS WINARDI	112504	Sr Engineer Prod Pengerolan Baja	KS	1							
+5931	BAMBANG SUGIARTO	112504	Staf Setingkat Superintendent	KS	1							
+8137	BEBEN ACHMAD SUBARKARKAH	112504	Sr Staf	KS	1							
+8962	TATANG SURATMAN	112504	Sr Engineer Prod Pengerolan Baja	KS	1							
+9113	ASEP SUHARA	112504	Staf Setingkat Pelaksana	KS	1							
+9121	FATAH HIDAYAT	112504	Staf Setingkat Pelaksana	KS	1							
+98000016	RUSIMAN	112504	Staf Setingkat Pelaksana (PKWT)	KS	1							
+10291A	UTOMO NUGROHO	112504		KS	1	7.1308			2013-10-02 03:21:21		10291A	
+7659	NANANG PRIATNA	112505	General Manager Prod Planning & SCM	KS	1							
+10123	SUDIRATNA SUDIRMAN	112505	Sr Specialist Prod & Planning & SCM	KS	1							
+3620	EMAN SULAEMAN	112508	Engineer Fire Inspector & Alarm System	KS	1							
+3909	GANDHI SUSANTO	112508	Danton Safety & Disaster Prevention	KS	1							
+3934	AMRUL YASUD	112508	Engineer Safety	KS	1							
+4417	AGUS SUPARMAN	112508	Danton Safety & Disaster Prevention	KS	1							
+4534	MOCHAMMAD HIDAYAT	112508	Engineer Safety Regulation & Standard	KS	1							
+5137	M. JABAR	112508	Engineer Fire Inspector & Alarm System	KS	1							
+5323	SUNENDI	112508	Engineer Health Promotion &Occ Nutrition	KS	1							
+5331	DARWIN YANTONI	112508	Engineer Fire Inspector & Alarm System	KS	1							
+5338	HUFAESI	112508	Supervisor Fire, Safety Equipment Mtc.	KS	1							
+5543	AZIS	112508	Engineer Fire Inspector & Alarm System	KS	1							
+5544	ISNAINI	112508	Danton Safety & Disaster Prevention	KS	1							
+5550	SANTONI	112508	Danton Safety & Disaster Prevention	KS	1							
+5724	AGUS TRIBUDIONO	112508	Technician Fire, Safety Equipment mtc	KS	1							
+5848	SUPARNO	112508	Engineer Safety Radiation	KS	1							
+5982	KORNELIS	112508	Superintendent Safety	KS	1							
+6140	HABIBI	112508	Engineer Fire Inspector & Alarm System	KS	1							
+6211	KURMAN EFFENDI	112508	Danton Safety & Disaster Prevention	KS	1							
+6214	A.N ADI SUGITO	112508	Supervisor Safety & Prevention	KS	1							
+6265	SUYATNO	112508	Engineer Waste Monitoring	KS	1							
+6884	NUNUNG SUTARDI	112508	Engineer Safety	KS	1							
+7200	SUPRAPTO	112508	Engineer Safety Handling Equipment	KS	1							
+7412	HAIRUL BAKTI	112508	Engineer Safety Generator & Prod Equip	KS	1							
+7615	SUGENG MUGOLAKSONO	112508	Engineer Fire Inspector & Alarm System	KS	1							
+7736	KHASIM	112508	Danton Safety & Disaster Prevention	KS	1							
+7781	HARUN MUKTI	112508	Danton Safety & Disaster Prevention	KS	1							
+7842	PUTHUT BRATARAHARJA	112508	Superintendent Environmental Laboratory	KS	1							
+7843	AWANG YUDHA IRIANTO	112508	Superintendent Industrial Hyg&Occ Health	KS	1							
+8017	SUDI PRABOWO	112508	Engineer Rolling Mill Environmental Ctrl	KS	1							
+8039	SUNARDI	112508	Supervisor Environmental Lab & Facility	KS	1							
+8657	LEOPOLD SITOMPUL	112508	Manager Safety & Environment	KS	1							
+8747	NGUPADI	112508	Engineer Fire Inspector & Alarm System	KS	1							
+8748	GIMAN	112508	Superintendent Safety & Disaster Prevent	KS	1							
+9125	ESTI RAHAYU	112508	Supervisor Chemical Laboratory	KS	1							
+9433	WIDI KUSTRIONO	112508	Engineer Fire Inspector & Alarm System	KS	1							
+9525	SUBIYARMAN	112508	Engineer Safety Boiller & Presure Vessel	KS	1							
+9583	MOHAMAD YUSUF RAMDANI	112508	Engineer Steel Making Environmental Ctrl	KS	1							
+9619	NANDANG SUGIARNO	112508	Engineer Safety Handling Equipment	KS	1							
+9807	TRIYOSO	112508	Engineer Safety Handling Equipment	KS	1							
+9927	SUPARMAN	112508	Engineer Fire Inspector & Alarm System	KS	1							
+9932	ACHMAD BACHRI	112508	Technician Fire, Safety Equipment Mtc	KS	1							
+9979	NUGROHO BUDI SANTOSO	112508	Engineer Safety Radiation	KS	1							
+10003	NURKADI	112508	Engineer Occupational Health	KS	1							
+10152	SYARBINI	112508	Sr Engineer Safety Mgt System	KS	1							
+10209	BACHRUDDIN	112508	Sr Engineer Environment Mgt System	KS	1							
+10245	AFRIZAL	112508	Superintendent Environmental Control	KS	1							
+10473	MOKHAMAD NASKURI	112508	Engineer Plant Support Environmental Ctr	KS	1							
+10501	MASLIANDRI	112508	Engineer Fire Inspector & Alarm System	KS	1							
+10659	SUHARTONO	112508	Engineer Safety	KS	1							
+10725	ESTI WIJAYANTI	112508	Analyst Chemical Laboratory	KS	1							
+10726	FREDDY CAHYO NUGROHO	112508	Engineer Iron Making Environmental Cotrl	KS	1							
+10931	ADE RIZAL	112508	Engineer Gen & Reg Environmental Control	KS	1							
+11267	CUCU LASUBAN	112508	Technician Fire, Safety Equipment Mtc	KS	1							
+11268	HERY HERYANA	112508	Danton Safety  & Disaster Prevention	KS	1							
+11470	EKO ARIE SUBRIYANTO	112508	Technician Environmental Lab & Fac	KS	1							
+11479	RIAN BASTIAN	112508	Analyst Chemical Laboratory	KS	1							
+11484	UUS SYAUQI	112508	Technician Waste Monitoring	KS	1							
+98000031	MOHAMMAD ICHSAN	112508	Engineer Safety Boiller & PV (PKWT)	KS	1							
+4718	MAMAN RACHMAN	112511	Statistic Analysist	KS	1							
+6438	DIDI JUANDI	112511	Sr Specialist Production Plann&Control	KS	1							
+6479	ENDANG ISMAIL	112511	Supervisor Order Controlling HR & CR	KS	1							
+6724	TULUS WIDODO	112511	Manager Production Planning & Control	KS	1							
+6940	LILI SURYANA	112511	Sr Specialist Production Plann&Control	KS	1							
+7014	JAMIN SARHALI	112511	Administrator SMKS & Training Koord	KS	1							
+7580	ISHAK SOLIHIN	112511	Technician Order Controlling HR & CR	KS	1							
+8330	JOKO SRIYATNO	112511	Supervisor Interface Mon Flat Product	KS	1							
+8620	RUDI ROSJANA	112511	Technician Order Controlling HR & CR	KS	1							
+9242	MANSYUR	112511	Sr Specialist Production Plann&Control	KS	1							
+9471	SINTA NIRMALANINGSIH	112511	Supervisor Statistic Analysist	KS	1							
+9708	SITI NURUL YANI	112511	Statistic Analysist	KS	1							
+9775	JAJANG SUHERMAN	112511	Technician Order Controlling HR & CR	KS	1							
+10705	TITIS ROCHEDI ZUWONO	112511	Sr Specialist Production Plann&Control	KS	1							
+11410	EDI SURYANTO	112511	Officer Material Movement Flat Prod	KS	1							
+11413	HENDRA PRIYA KURNIAWAN	112511	Officer Interface Monitor Flat Prod	KS	1							
+11414	ADHI SAMPURNA	112511	Officer Interface Monitor Flat Prod	KS	1							
+11415	DEMAS ANDIKA PRADANA	112511	Officer Interface Monitor Flat Prod	KS	1							
+11691	NURHUDA AHDIYAT	112511	Pet Pengendalian Order BLP & BLD (Ors)	KS	1							
+11803	RENGGA	112511	Supervisor Mtrl Movement Flat Prod (Ors)	KS	1							
+5056	BUNTORO	112522	Sr Specialist Database & Integration SCI	KS	1							
+5058	BUDJONO	112522	Sr Specialist SCI Produksi	KS	1							
+7625	TOTO JUHARTO	112522	Sr Specialist SCI Produksi	KS	1							
+8572	JAMIAHARTO MALAU	112522	Sr Specialist SCI Pemasaran	KS	1							
+8753	PARTONO	112522	Officer Database & Integration SCI	KS	1							
+8832	SUMADIONO	112522	Specialist SCI Pemasaran	KS	1							
+9470	IRMA HASAN	112522	Sr Specialist SCI Logistik	KS	1							
+9476	SUKARDIN	112522	Specialist SCI Produksi**	KS	1							
+9918	SUTOPO	112522	Analyst SCI Produksi	KS	1							
+9919	SARDJONO	112522	Specialist SCI Produksi	KS	1							
+10020	M. IQBAL NOORASABAKTI	112522	Specialist SCI Produksi	KS	1							
+10021	LILI SETIAWAN	112522	Specialist SCI Logistik	KS	1							
+10089	EFFENDI ARIEF	112522	Manager Supply Chain & Improvement	KS	1							
+10118	WAHYU TRIWIDODO	112522	Sr Specialist SCI Produksi	KS	1							
+10119	TENTEN SULISTYA	112522	Sr Specialist SCI Pemasaran	KS	1							
+10120	ZUCHAL MASWAN	112522	Specialist SCI Produksi	KS	1							
+10122	R. MUMUNG TRI PAMUNGKAS	112522	Sr Specialist Database & Integration SCI	KS	1							
+10204	ASEP GURNADI	112522	Sr Specialist SCI Logistik	KS	1							
+10960	KURNIAWAN PARWANTO	112522	Specialist Database & Integration SCI	KS	1							
+10981	ENGGAR SURYANTI	112522	Specialist Database & Integration SCI	KS	1							
+11428	WIDO SUSANTO	112522	Specialist SCI Logistik	KS	1							
+11430	YOVAN HADIANSYAH	112522	Specialist SCI Pemasaran	KS	1							
+11452	SHOLIKIN	112522	Specialist SCI Produksi	KS	1							
+11809	WAHYU AJIPRABOWO	112522	Specialist SCI Produksi (Ors )	KS	1							
+3823	BAMBANG SUHARYANTO	112523	Supervisor Transportation Cost Process	KS	1							
+3933	SUPRAPTO	112523	Planner Export & Domestic Shipping	KS	1							
+4049	SUYONO KARTONO	112523	Superintendent Export&Domestic Shipping	KS	1							
+4359	TSABIT	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+4642	CAHYA KOSASIH	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+4752	AGUS SUKAMTO	112523	Analis Distribusi Kendaraan	KS	1							
+5753	TONTOWI JOHARI	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+5932	EKO RAHARJO	112523	Superintendent Transportation & Shipment	KS	1							
+6284	SUPRIADI	112523	Sr Specialist HVA & Automotive Product	KS	1							
+6879	CY. SETIAWAN	112523	Sr Specialist Finished Product & Distrib	KS	1							
+8076	SOBRI	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+8077	CECEP KHAERUDIN	112523	Analis Biaya Proses Angkutan	KS	1							
+8078	ROKTAL MUAIYAN	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+8079	BOY PRATIKTO	112523	Analis Distribusi Kendaraan	KS	1							
+8234	P RINALDI HERU SANTOSA	112523	Manager Finished Product & Distribution	KS	1							
+8912	TRIBUDI WIYONO	112523	Supervisor Transportation Execution	KS	1							
+8916	MAMAN SUSILO	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+8917	SLAMET UNTUNG	112523	Analis Distribusi Kendaraan	KS	1							
+8918	HIDAYATULLAH	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+9118	YAYAN RUHYANA	112523	Officer Export & Domestic Shipping	KS	1							
+9127	IWAN KOSWARA YAMIN	112523	Specialist Transportation & Distribution	KS	1							
+9203	SADRI FAUZAN	112523	Analis Biaya Proses Angkutan	KS	1							
+9209	SISWANTO	112523	Analis Biaya Proses Angkutan	KS	1							
+9213	SUPARMAN	112523	Pet Verifikasi Kendaraan	KS	1							
+9259	KUSMAYADI	112523	Analis Biaya Proses Angkutan	KS	1							
+9279	SUDARYANTO	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+9443	SUPANTO	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+9454	NAZORI	112523	Analis Distribusi Kendaraan	KS	1							
+9457	PAULUS S. AGUNG LAKSONO	112523	Pet Verifikasi Kendaraan	KS	1							
+9637	R. J. TUNGGUL ARI MULADI	112523	Specialist Finished Product Handling	KS	1							
+9665	MARTHEN DOTULONG MAMESAH	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+9825	KARTIKO EDDY TJAHYONO	112523	Planner Export & Domestic Shipping	KS	1							
+9835	LILI PRIHATNA	112523	Planner Export & Domestic Shipping	KS	1							
+9848	SAPEI	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+9908	MUHNI SUBANDRIO	112523	Administrator SMKS &Training Coordinator	KS	1							
+9926	ABAS SETIAWAN	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+10808	WINDRA HARDI	112523	Pet Verifikasi Kendaraan	KS	1							
+10985	JOKO PURWANTO	112523	Analis Verifikasi Pengiriman & Timbangan	KS	1							
+10315	ANDRE HOTMA TINAMBUNAN	112523		KS	1	7.1194			2013-09-25 07:19:46		10315	
+10315A	ANDRE HOTMA TINAMBUNAN	112523		KS	1				2013-09-25 11:06:57		10315A	
+4316	R. HERRY HERYANTO	112530	Analis Laboratorium Mekanik BLD	KS	1							
+6006	ASWANUL SYAMSU	112530	Sr Engineer QC Long Product	KS	1							
+6044	ONI MARZUKONI	112530	Teknisi QPD SSP & HSM	KS	1							
+6612	PAULUS DJOKO WIDODO	112530	Engineer Standard & Spec Product	KS	1							
+7007	TRI TUNJUNG WASIS SARJONO	112530	Sr Specialist maint Quality & Mgt System	KS	1							
+8065	MOHAMAD ROSUL DJAMIL	112530	Sr Engineer QC Automotive & HVA	KS	1							
+8443	DARMAWAN	112530	Sr Engineer QC Steel Making	KS	1							
+8499	AHMAD DESRIANTO	112530	Sr Engineer QC Flat Product	KS	1							
+8706	PERY ROSADI	112530	Teknisi Sertifikasi & Laporan BLD	KS	1							
+8763	SIGIT KUSDARYANTO	112530	Analis Laboratorium Mekanik BLD	KS	1							
+8764	HASANUDDIN	112530	Analis Laboratorium Mekanik BLD	KS	1							
+8877	OOP SAPARUDIN	112530	Pet Pengamat Proses & Inspeksi CPL	KS	1							
+8923	BANAR WINOWO	112530	Analis Laboratorium Kimia BLD	KS	1							
+8924	ASEP DENI KUSMAYADI	112530	Analis Laboratorium Kimia BLD	KS	1							
+8925	KAMIDA	112530	Analis Laboratorium Mekanik BLD	KS	1							
+8926	AGUS SUCIPTO	112530	Analis Laboratorium Mekanik BLD	KS	1							
+8927	SYAMSUL MA'ARIF	112530	Teknisi Sertifikasi & Laporan BLD	KS	1							
+8928	MONO SUYANTO	112530	Analis Laboratorium Kimia BLD	KS	1							
+8988	EKO SUBIANTO	112530	Superintendent Quality Control CRM	KS	1							
+9034	ANIS SULFUAD	112530	Analis Laboratorium Kimia BLD	KS	1							
+9069	SUWARYADI	112530	Pet Pengamat Proses & Inspeksi TPM	KS	1							
+9133	DARYANTO	112530	Laboran	KS	1							
+9166	NIA KURNIADI	112530	Supervisor Laboratorium Metalurgi BLD	KS	1							
+9178	HARYANA	112530	Teknisi Pengend Kualitas Produk Release	KS	1							
+9192	MAHMUDIN	112530	SF Pengendalian Kualitas Proses BLD	KS	1							
+9216	RUSDIYANTO	112530	SF Inspeksi Produk Jadi & Delivery BLD	KS	1							
+9217	MOCHAMAD AGUS DJAUHARI	112530	Shift Koordinator Pengdl Kualitas BLD	KS	1							
+9229	DADI DWI SAPUTRA	112530	Analis Laboratorium Mekanik BLD	KS	1							
+9233	ENGKUS KUSNADI	112530	Teknisi Pengend Kualitas Produk Release	KS	1							
+9241	TEDI SUHARDI	112530	Sr Engineer QC Flat Product	KS	1							
+9250	EKO TJAHYO SETIONO	112530	Shift Koordinator Pengdl Kualitas BLD	KS	1							
+9290	HASIM MOCHAMAD HUSEN	112530	Laboran	KS	1							
+9312	SUKANAN	112530	Pet Pengamat Proses & Insp ECL.1 & ECL.2	KS	1							
+9330	ADE YUSLAN	112530	SF Inspeksi Produk Jadi & Delivery BLD	KS	1							
+9331	JAKA	112530	Teknisi Pengend Kualitas Produk Release	KS	1							
+9332	FRANSISCUS X. RIASTONO	112530	SF Inspeksi Produk Jadi & Delivery BLD	KS	1							
+9333	TATANG SUPRIATNA	112530	SF Pengendalian Kualitas Proses BLD	KS	1							
+9334	AGUS SEJATI	112530	Teknisi Proses BLD	KS	1							
+9339	ACENG SUANDI	112530	Engineer QPD CRM	KS	1							
+9341	RUDY PARIDI	112530	Analis Laboratorium Mekanik BLD	KS	1							
+9342	MUHAMAD YUNUS	112530	Administrator SMKS&Training Koordinator	KS	1							
+9389	PURWADI	112530	Pet Pengamat Proses & Inspeksi CPL	KS	1							
+9394	WARSITA	112530	Teknisi Pengend Kualitas Produk Release	KS	1							
+9424	SUPARDI	112530	Pet Pengamat Proses & Inspeksi CPL	KS	1							
+9429	HIMAWAN	112530	Teknisi Sertifikasi & Laporan BLD	KS	1							
+9459	WENNEKE NOLIKE S.PANTOUW	112530	Shift Koordinator Pengdl Kualitas BLD	KS	1							
+9460	AHMAD HIDAYAT	112530	Pet Pengamat Proses & Inspeksi CPL	KS	1							
+9543	PRES PRIHONO	112530	Teknisi Pengend Kualitas Produk Release	KS	1							
+9592	JUNAEDI	112530	SF Pengendalian Kualitas Proses BLD	KS	1							
+9593	AMAT SUKEMI	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+9608	IRWAN	112530	Analis Laboratorium Mekanik BLD	KS	1							
+9617	SUPRAPTO	112530	SF Inspeksi Produk Jadi & Delivery BLD	KS	1							
+9656	MARCUS TUHEHAY	112530	SF Pengendalian Kualitas Proses BLD	KS	1							
+9657	HARIS	112530	Analis Laboratorium Mekanik BLD	KS	1							
+9659	PONIRAN	112530	Laboran	KS	1							
+9744	AGUS JATI PERMONO	112530	Pet Pengamat Proses & Inspeksi CTCM	KS	1							
+9748	KUNTO AJI SUDERAJAT	112530	Shift Koordinator Pengdl Kualitas BLD	KS	1							
+9749	SUNOTO	112530	Pet Pengamat Proses & Inspeksi CTCM	KS	1							
+9783	ACHMAD BUDI SYAFEI	112530	Analis Laboratorium Mekanik BLD	KS	1							
+9787	FERDINAND SRI HERU W.	112530	Engineer Quality Control	KS	1							
+9813	YAYAT	112530	Teknisi QPD Wire Rod	KS	1							
+9914	JANU AGUS PRIYONO	112530	Superintendent QPD	KS	1							
+9950	NANA SUDARNA	112530	Pet Pengamat Proses & Insp ECL.1 & ECL.2	KS	1							
+9967	CHOLIK ANWAR	112530	Supervisor Pengendalian Kualitas BLD	KS	1							
+9968	YUNI SUPRIYADI	112530	Pet Pengamat Proses & Insp ECL.1 & ECL.2	KS	1							
+9987	TOTONG GURNITA	112530	Engineer QPD SSP & HSM	KS	1							
+9989	ESTEPANUS	112530	Teknisi Sertifikasi & Laporan BLD	KS	1							
+10026	HASANUDDIN SAHAM	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+10233	CAHYO ANTARIKSO	112530	Manager Quality Control	KS	1					2013-09-18 06:41:32		1
+10415	JURSONO	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+10916	RAIS SAFIRULLAH	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+10917	ANGGA AGUS MERDIANA	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+10918	RUDI ROHMADI	112530	Pet Inspeksi Produk Jadi PRP & REC	KS	1							
+10919	RIYANDI AHDIYAT	112530	Pet Pengamat Proses & Inspeksi TPM	KS	1							
+11408	TEGUH HARYANTO	112530	Pet Pengamat Pros & Ins ECS.l & ECL2	KS	1							
+11565	M. DHONI DWI RAMADHAN	112530	Pet Inspeksi Incoming Proses BLD (Ors)	KS	1							
+11619	RONI PICAL	112530	Pet Pengamat Proses & Insp ECL1 &2 (Ors)	KS	1							
+11620	SHANDI RIZQI FATH'HAN	112530	Pet Inspeksi Delivery Produk BLD (Ors)	KS	1							
+11621	SUBAGYO	112530	Pet Inspeksi Delivery Produk BLD (Ors)	KS	1							
+11801	HIMAWAN SUTANTO	112530	Engineer Quality Control (Ors)	KS	1							
+11907	NOVIAN PRAYOGO	112530	Pet Pengamat Proses & Insp CTCM (Ors)	KS	1							
+11908	BAHUD TRAP JUWAN	112530	Pet Pengmt Pros&Insp ECL.1&ECL.2 (Ors)	KS	1							
+11909	THEO DANIEL	112530	Pet Pengmt Pros&Insp ECL.1&ECL.2 (Ors)	KS	1							
+11910	ADITYA DWI SETYAWAN	112530	Pet Inspeksi Produk Jadi SHR (Ors)	KS	1							
+11912	ROBBY NOVENDRA	112530	Pet Inspeksi Produk Jadi MPL (Ors)	KS	1							
+11177A	ENDANG SUPRIADI	112530		KS	1	7.1001			2013-09-25 09:59:52		11177A	
+3239	MUCHAMAD JUANDA	112536	Sr Auditor Envi Healt&Safety Mgt Sys Dev	KS	1							
+3864	ARIFIN EFFENDI	112536	Sr Auditor Quality Mgt System & Develop	KS	1							
+4483	TONI MARTIN	112536	Auditor Envi Health&Safety Mgt Sys Dev	KS	1							
+5493	JAMANI	112536	Auditor Process & Quality Prom Flat Prod	KS	1							
+5654	EFRIZAL	112536	Auditor Quality Mgt System & Development	KS	1							
+6483	BAMBANG SANTOSO	112536	Auditor Process & Quality Prom Flat Prod	KS	1							
+6517	YUS SUHADA	112536	Specialist Intelectual Prop Right Prom	KS	1							
+6563	ACHMAD AGUSCIK	112536	Sr Specialist SMKS&Prod Certific Sys Dev	KS	1							
+6947	JOKO WINARNO	112536	Manager Quality Promotor & Mgt System	KS	1							
+7803	MULYAHANI	112536	Auditor Quality Mgt System & Development	KS	1							
+8066	KEMALA BHAKTI	112536	Sr Specilaist Intelectual Prop Right Pro	KS	1							
+8325	AGUS DUDI NUGRAHA	112536	Administrator SMKS&Prod Certific Sys Dev	KS	1							
+8574	HARYENI RATNA DEWI	112536	Sr Auditor Quality Mgt System & Develop	KS	1							
+8953	DADANG SUDARISWAN	112536	Sr Auditor Proces&Quality Prom Long Prod	KS	1							
+9001	SULARMAN	112536	Sr Auditor Envi Healt&Safety Mgt Sys Dev	KS	1							
+9020	NANDANG KURNIA	112536	Supervisor Electronic& Ext Stdr Doc Cont	KS	1							
+9041	SUHARNO	112536	Auditor Quality Mgt System & Development	KS	1							
+9539	ANDI SUKARDIYANTO	112536	Sr Auditor Proces&Quality Prom Flat Prod	KS	1							
+9784	KARYA IRIAN ISMAR	112536	Sr Auditor Quality Mgt System & Develop	KS	1							
+9788	GATOT IRIANTO	112536	Superintendent Document Control	KS	1							
+9913	YUDI ROSADI	112536	Sr Auditor Envi Healt&Safety Mgt Sys Dev	KS	1							
+9970	MUHAMAD HARJONO	112536	Sr Auditor Envi Healt&Safety Mgt Sys Dev	KS	1							
+9972	NANANG GIMARON	112536	Sr Auditor Quality Mgt System & Develop	KS	1							
+9973	TB YAYAT HIDAYATULLAH	112536	Auditor Envi Health&Safety Mgt Sys Dev	KS	1							
+9978	ISWIDAL DARWIS	112536	Sr Auditor Quality Mgt System & Develop	KS	1							
+10088	SRI WIDODO JOKO SANTOSO	112536	Sr Auditor Proces&Quality Prom Flat Prod	KS	1							
+11729	TANIA ANINDITA	112536	Officer SMKS Doc Control & RS (Ors)	KS	1							
+11755	RENA MELAWATI	112536	Officer Elect &Ekt Stdr Doc Cont (Ors)	KS	1							
+5223	HERRY PURNOMO	112601	Chief Engineer Preven & Predictive Mtce	KS	1							
+5639	SUHARMANTO	112601	Chief Engineer Cost & Spare Part Mgt	KS	1							
+6292	CECE WIARSA	112601	Staf CM & F Setingkat Foreman	KS	1							
+6384	INDRA PINEM	112601	General Manager Central Maint&Facilities	KS	1							
+8906	EDWIN ASRIN	112601	Sr Engineer Maintenance Management	KS	1							
+9345	ENDAR WAHANANING DYAH	112601	Sekretaris GM	KS	1							
+9876	SUPRIYANTO	112601	Staf BE IT/IS Plann & Contrl stngkt Mgr	KS	1					2013-11-25 03:16:32		1
+4099	TJUTJUK SUDARSONO	112621	Engineer Work Shop & Field Maint.	KS	1							
+4103	SLAMET WIYONO	112621	Teknisi Perencanaan Bengkel III & IV	KS	1							
+4167	E KUSWAYA	112621	Teknisi Work Shop Quality Control	KS	1							
+4564	PARMANTO	112621	Supervisor Pengol Dt&Suprt Bkl II,III&IV	KS	1							
+4565	YUYUS SURACHMAN	112621	Teknisi Work Shop Quality Control	KS	1							
+4567	LUDIN PANJAITAN	112621	Opr Mesin 1 Bengkel IV	KS	1							
+4568	ROY GUNALI	112621	Supervisor Machine Shop III	KS	1							
+4569	ADE SUWARDI	112621	Teknisi Work Shop Quality Control	KS	1							
+5016	NANA SUPRIATNA	112621	SF Welding & Fabrikasi WS III & IV	KS	1							
+5534	BERTA IRIANA	112621	Teknisi Work Shop Quality Control	KS	1							
+5947	ACHMADI	112621	SF Welding & Fabrikasi WS III & IV	KS	1							
+5948	UBOY SABATINI	112621	Officer Pengol Dt & Supor Bkl II,III&IV	KS	1							
+5963	SLAMET SRIYANTO	112621	Superintendent Work Shop Planning&Contrl	KS	1							
+5986	WALUYO	112621	Officer Pengol Dt & Supor Bkl II,III&IV	KS	1							
+5990	HAERUL	112621	Pet Gd Perkakas Tangan Bkl 3 & 4	KS	1							
+5992	HARTOWO	112621	F Reparasi Mesin Bengkel III & IV	KS	1							
+5995	ENDANG SETIAWAN	112621	Teknisi Perencanaan Bengkel III & IV	KS	1							
+6294	DIRMAN	112621	Supervisor Welding & Repair Shop III&IV	KS	1							
+6334	SUPRIYONO	112621	F Pengendalian SC &Mtrl Bengkel III&IV	KS	1							
+6346	MARIDI IRIANTO	112621	Supervisor Work Shop Quality Control	KS	1							
+6469	JUWITO	112621	Supervisor Machine Shop IV	KS	1							
+6539	USMAN MUSTOPA	112621	Engineer Work Shop & Field Maint.	KS	1							
+7201	SUPARTIKNO	112621	SF Bkl Reprs Pompa,Valve,Tur&Kompresor	KS	1							
+7202	TARJONO	112621	SF Bengkel Reparasi HLP	KS	1							
+7203	JOKO RAHMANTO	112621	Supervisor Planning &Control Shop III&IV	KS	1							
+7205	SUYUD HERYADI	112621	F Prwt Sistem HLP	KS	1							
+7393	SARMEDI	112621	SF Welding & Fabrikasi WS III & IV	KS	1							
+7902	SUTARDI	112621	SF Mesin Bengkel IV	KS	1							
+7903	SUHERMAN	112621	SF Mesin Bengkel III	KS	1							
+7905	ABIDIN	112621	SF Mesin Bengkel III	KS	1							
+8040	MOHAMAD SUGIRI	112621	SF Bkl Reprs Pompa,Valve,Tur&Kompresor	KS	1							
+8041	SUKARDI	112621	Pet Prwt Mek Pompa,Valve,Tur&Kompresor 1	KS	1							
+8453	AGUS A MUSABIQ	112621	Manager Work Shop & Field Maintenance	KS	1					2013-09-18 07:01:40		1
+8534	BUDI HARSONO	112621	Opr Mesin 1 Bengkel III	KS	1							
+8554	DJOKO SANTOSO	112621	Sr Engineer Work Shop & Field Maint.	KS	1							
+8609	SUDIMAN	112621	Opr Mesin 1 Bengkel III	KS	1							
+8610	DENNY HERYADI	112621	Opr Mesin 1 Bengkel IV	KS	1							
+8614	HERI SUHARYANA	112621	Teknisi Perencanaan Bengkel III & IV	KS	1							
+8685	AGUS SUPRIYANTO	112621	Opr Mesin 1 Bengkel IV	KS	1							
+8688	UJANG ABDUL HAMID	112621	Opr Mesin 1 Bengkel IV	KS	1							
+8689	SUHERMAN	112621	F Gd Perkks Tgn&Perbaikan Bkl 3 & 4	KS	1							
+8691	FIRLI	112621	Teknisi Work Shop Quality Control	KS	1							
+8694	MADURIF	112621	SF Mesin Bengkel IV	KS	1							
+8697	DEDI SUNARDI	112621	Teknisi Pengol Perenc Jasa Kontrak Bkl	KS	1							
+8882	YOSAFAT MARZUKI	112621	Teknisi Perencanaan Bengkel III & IV	KS	1							
+9502	ADI SETIYONO	112621	Pet Pengendalian SC &Mtrl Bengkel III&IV	KS	1							
+9503	JAMTRIYONO	112621	SF Welding & Fabrikasi WS III & IV	KS	1							
+9527	KUSNDARSI	112621	Opr Mesin 1 Bengkel IV	KS	1							
+9570	MULYANA	112621	SF Bengkel Reparasi HLP	KS	1							
+9584	SONDANG WILMAR BS.	112621	Supervisor Perenc Jasa Kontrak Bengkel	KS	1							
+9718	ALI HAMIDI	112621	Juru Las 1	KS	1							
+9722	HANDOYO	112621	Juru Las 1	KS	1							
+9781	WARSITO	112621	Opr Mesin 1 Bengkel IV	KS	1							
+9959	VINCENTIUS WAGIMIN	112621	F Pengendalian SC &Mtrl Bengkel III&IV	KS	1							
+10125	CHUSNUL ANDI KUKUH T.	112621	Supervisor HLP & Pump	KS	1							
+10399	TUTON SUPRIYANDANI	112621	Opr Mesin 1 Bengkel IV	KS	1							
+10411	IMAM GOZALI	112621	Teknisi Pengol Perenc Jasa Kontrak Bkl	KS	1							
+10425	SLAMET	112621	Pet Prwt Mek Pompa,Valve,Tur&Kompresor 1	KS	1							
+10426	KUSNADI	112621	Opr Mesin 1 Bengkel IV	KS	1							
+10619	SAFRUDIN	112621	Juru Las 1	KS	1							
+10776	ZAENAL MUTTAQIN	112621	Pet Gd Perkakas Tangan Bkl 3 & 4	KS	1							
+10899	FRANA SUKMA JAYA	112621	Opr Mesin 2 Bengkel III	KS	1							
+10902	MUCHAMAD MUCHSIN	112621	Pet Prwt Mekanik & Hydraulic	KS	1							
+10903	AHMAD HERU SAUBIL MAULANA	112621	Pet Prwt Mekanik & HLP1	KS	1							
+10905	EBI HARYANTO	112621	Pet Prwt Mekanik & HLP1	KS	1							
+10983	AMIR HIDAYAT	112621	Teknisi Pengol Perenc Jasa Kontrak Bkl	KS	1							
+11131	TIFRONI AL SAIFUL	112621	Pet Prwt Mekanik & HLP2	KS	1							
+11132	WENDA PRADITA	112621	Pet Prwt Mek Pompa,Valve,Tur&Kompresor2	KS	1							
+11150	ANIS FAUZI	112621	Pet Gd Perkakas Tangan Bkl 3 & 4	KS	1							
+11250	FRANS TEGUH WIDIANTORO	112621	Opr Mesin 2 Bengkel III	KS	1							
+11251	KAWIT SUKAMTO	112621	Opr Mesin 2 Bengkel III	KS	1							
+11256	IKSAN	112621	Pet Prwt Mek Pompa,Valve,Tur&Komp2	KS	1							
+11257	HALIM RASYIDIN	112621	Pet Prwt Mekanik & HLP2	KS	1							
+11360	ZULKIPLI	112621	Opr Mesin 2 Bengkel IV	KS	1							
+11362	DANANG FIRMAN SUKARMAN	112621	Pet Prwt Mek Pomp,Valve,Tur&Komp	KS	1							
+11473	GALIH HANGGAR WIBOWO	112621	Officer Pengol Dt & Supor Bkl2,3,4	KS	1							
+11529	BONDAN ANGGA ANGGARA	112621	Pet Prwt Mekanik & HLP2	KS	1							
+11561	ILHAM PUTRA ERATAMA	112621	Opr Mesin 2 Bengkel III (Ors)	KS	1							
+11562	INDRA SULAIMAN	112621	Opr Mesin 2 Bengkel IV  (Ors)	KS	1							
+2939	MOHAMAD SOLEH	112631	Administrator SMKS & Training Koord	KS	1							
+5283	SUWARMAN	112631	Administrator SMKS & Training Koord	KS	1							
+6725	LANTIP PRAMONO	112631	Manager Utilities & Energy Management	KS	1							
+8145	MUHAMMAD IRBANOV	112631	Sr Engineer Metrology	KS	1							
+8232	YOHANES PANJI SETIAGUNG N	112631	Sr Engineer Industry Gas Plant	KS	1							
+11818	GIGIH RESPATI YUDISTIANTO	112631	Engineer Listrik (Ors)	KS	1							
+7178A	YAN YANYULIANA	112631		KS	1	7.1211			2013-09-25 10:36:56		7178A	
+3212	IA UDAYA	112826	SF Instrument DR Plant	KS	1							
+3970	MOH. WAHYUDIN	112826	SF Electric DR Plant	KS	1							
+4062	ADRIL PILIANG	112826	SF Instrument DR Plant	KS	1							
+4159	ABDUL MULUK	112826	SF Electric DR Plant	KS	1							
+4160	NANO SUPARNO	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+4188	YAYA TARJALI	112826	Supervisor Inst. & Comp. Proces DR Plant	KS	1							
+4461	DEDI KOESPERMADI	112826	SF Instrument DR Plant	KS	1							
+4709	MUKTI	112826	SF Electric DR Plant	KS	1							
+4720	TJATUR WAHYU WIDODO	112826	SF Electric DR Plant	KS	1							
+5131	JUHAEDI	112826	SF Instrument & Electric MH DR Plant	KS	1							
+5257	YAYAT HIDAYAT	112826	Technician Computer Process DR Plant	KS	1							
+5258	HOPINANTO	112826	Technician Computer Process DR Plant	KS	1							
+5260	TURMUDI	112826	Technician Computer Process DR Plant	KS	1							
+5263	ANGGUN HARYONO	112826	Supervisor Electric DR Plant	KS	1							
+5264	SALAM	112826	Technician Instrument & Electric	KS	1							
+5265	KUSBAGYA	112826	Technician Computer Process DR Plant	KS	1							
+5268	ISKANDAR	112826	SF Instrument & Electric MH DR Plant	KS	1							
+5269	ACHMAD MAULANA	112826	SF Instrument & Electric MH DR Plant	KS	1							
+7323	ACHMAD MULYADI	112826	SF Instrument DR Plant	KS	1							
+7339	MIMIP MIFTAH	112826	SF Instrument & Electric MH DR Plant	KS	1							
+7887	ZULKARNAEN	112826	SF Instrument & Electric MH DR Plant	KS	1							
+8048	ANNAS MUFRODI	112826	Supervisor Inst. & Electric MH DR Plant	KS	1							
+10698	BUANG NURKHOLIS	112826	Superintendent IEC Maintenance DR Plant	KS	1							
+10796	IWAN SUARNO	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+10821	JOKO SANTOSO	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11004	IBRAHIM	112826	Pet Electric DR Plant	KS	1							
+11067	AKHMAD SULAIMAN	112826	Pet Instrument DR Plant	KS	1							
+11163	HARIYOSO PUTRO	112826	Pet Electric DR Plant	KS	1							
+11192	MAKHFUD	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11292	IRWAN HENDRAWAN	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11293	AHMAD GUFRONI	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11294	SADROJI	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11295	MUHAMMAD ICHWAN	112826	Pet Instrument & Electric MH DR Plant	KS	1							
+11472	FATKHUR RAHMAN	112826	SF Instrument DR Plant	KS	1							
+11494	WILLY ARDIAN	112826	Technician Comp Process DR Plant (Ors)	KS	1							
+11780	SYAHDARI LUDFI AKBAR	112826	SF Electric DR Plant (Ors)	KS	1							
+11845	AGUS SETYAWAN	112826	Pet Instr & Electric MH DR Plant (Ors)	KS	1							
+11846	FAIZAL RIZKI	112826	Pet Instrument DR Plant (Ors)	KS	1							
+11881	ARI WINARNO	112826	Pet Instrument DR Plant (Ors)	KS	1							
+11882	DWI KURNIAWAN	112826	Pet Electric DR Plant (Ors)	KS	1							
+11883	RACHMAT NUR ISMIRA	112826	Pet Electric DR Plant (Ors)	KS	1							
+2938	FAUZI	112901	Supervisor Pengdl Mtrl Prod&Analisis Dt	KS	1							
+2959	MA'MUN HERMANSYAH	112901	F Penyiapan Data Operasi & Pelaporan	KS	1							
+2964	ENDRO SUSILO	112901	Sr Engineer Proses Sekunder	KS	1							
+2987	ZAINUDDIN	112901	Pet Proses Matching dan Data MES	KS	1							
+3368	YAN RACHMAT	112901	Koordinator Shift	KS	1							
+3466	TRI HANANTO	112901	Engineer Casting	KS	1							
+3655	GUNAWAN DJOKO RAHARDJO	112901	Koordinator Shift	KS	1							
+3672	NANA ROCHYANA	112901	Koordinator Shift	KS	1							
+6039	NANANG YAYA RUKMAYA	112901	Administrator Pemeliharaan SMKS & TK	KS	1							
+7112	ASMARDI	112901	Sr Engineer Melting	KS	1							
+7114	RWETNO FIKRI	112901	Plant Inspector	KS	1							
+7121	RASAN	112901	Pet Proses Matching dan Data MES	KS	1							
+7212	TB. ARIF SETIA DARMA	112901	Officer Analisis Data & Material Operasi	KS	1							
+7819	SUROTO RIONO	112901	Engineer Melting	KS	1							
+7988	AYI SUPRATMAN	112901	Koordinator Shift	KS	1							
+10712	ARIEF PURNOMO	112901	Manager Billet Steel Plant	KS	1							
+11435	GALIH WALANDHI	112901	Engineer Secondary Process	KS	1							
+11438	IRWAN	112901	Engineer Casting	KS	1							
+98000028	ALI HAMZAH	112901	Staf Setingkat Petugas (PKWT)	KS	1							
+98000030	EMAN SUHERMAN	112901	Staf Setingkat Pelaksana (PKWT)	KS	1							
+2929	JUDHI SISWANTO	113001	Sr Koordinator Shift PSB-I	KS	1							
+2936	DJADJANG AFGUNAWAN	113001	Material Controler	KS	1							
+5247	AGUS HENDRO	113001	Pet I Pemasangan Tundish	KS	1							
+5708	SLAMET	113001	SF Tanur, RH & Ladle	KS	1							
+5763	DIDA DASWANDA	113001	SF Tundish	KS	1							
+5769	MARSYIM	113001	SF Tundish	KS	1							
+5771	ZEIN PRIYATNA	113001	Supervisor Refractory PSB-II	KS	1							
+5775	YUSMAN	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+5779	JONI SETIAWAN	113001	Pet I Pemasangan Tundish	KS	1							
+5780	MUHYADI	113001	Pet I Pemasangan Tundish	KS	1							
+5786	JAYADI	113001	SF Tundish	KS	1							
+5793	HERI PURNAMA	113001	Pet I Perbaikan Tundish	KS	1							
+5804	CANANG	113001	Sr Koordinator Shift PSB-I	KS	1							
+5828	SURIP	113001	Sr Engineer Proses Sekunder	KS	1							
+5845	YAYAT SUMIRAT	113001	Plant Inspector	KS	1							
+5854	DAVID RICHARDO	113001	Sr Engineer Pengecoran	KS	1							
+5876	SUDRAJAT	113001	Officer Statistik Operasi	KS	1							
+5886	MUCHAMAD IDRUS	113001	SF Tanur, RH & Ladle	KS	1							
+6023	RACHMAT RIYANTO	113001	SF Tanur, RH & Ladle	KS	1							
+6033	GANDA SUKANDA	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+6050	SUSANTO	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+6113	KARTONO	113001	Pet Rekapitulasi Data	KS	1							
+6768	MATTO AKHMAD SUGANDI	113001	Sr Koordinator Shift PSB-I	KS	1							
+6772	MULATUA LUBIS	113001	Sr Koordinator Shift PSB-I	KS	1							
+7438	AGUS RACHMAT MURIANTO	113001	Officer Statistik Operasi	KS	1							
+7442	SLAMET PRAKOSO	113001	Pet Rekapitulasi Data	KS	1							
+7552	M. HUSNI ACHMAD	113001	Administrator Pemeliharaan SMKS	KS	1							
+7632	ADE SAPARI	113001	Supervisor Analisa Data & Statistik Ops	KS	1							
+8355	NURWENDA	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+8357	YAHMAN	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+8367	SUNARDI	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+8368	SAM'ARIF	113001	Pet II Pemasangan BTA Tanur,RH & Ladle	KS	1							
+8369	PURWADI	113001	Pet II Pemasangan BTA Tanur,RH & Ladle	KS	1							
+8374	TB. ARIA HASANUDIN	113001	Pet II Pemasangan Tundish	KS	1							
+8375	SUPARNO	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+8379	DIDIT RAPADI	113001	SF Tundish	KS	1							
+8386	NASIRIN	113001	Pet I Pemasangan Tundish	KS	1							
+8387	ADE SUHENDAR	113001	Pet II Pemasangan Tundish	KS	1							
+8400	NUR ANSORI	113001	SF Tanur, RH & Ladle	KS	1							
+8413	JANJAN JOHARI	113001	Pet II Pemasangan BTA Tanur,RH & Ladle	KS	1							
+8414	DIDIN SAEFUDIN	113001	Pet I Pemasangan BTA Tanur, RH & Ladle	KS	1							
+8421	ABDUL LATIF	113001	Pet II Pemasangan BTA Tanur,RH & Ladle	KS	1							
+8440	BAMBANG SETYOTOMO	113001	Manager Pabrik Slab Baja I	KS	1					2013-09-18 06:43:17		1
+10213	HEDI MULYATMA	113001	Chief Engineer Pabrik Slab Baja I	KS	1							
+10952	TUMPAL HAMONANGAN SIMATUPANG	113001	Sr Engineer Refraktory	KS	1							
+11449	OGGIE PRIMA DITA PUTRA	113001	Engineer Proses Sekunder	KS	1							
+11457	VICKRI NOFIYAN	113001	Engineer Pengecoran	KS	1							
+11493	FIKSI SASTRAKENCANA	113001	Engineer Peleburan (Ors)	KS	1							
+11600	AJAD WIDATHA PANA	113001	Pet II Pemas BTA Tanur,RH & Ladle (Ors)	KS	1							
+11614	IRFAN MUSTHAFA	113001	Pet Perbaikan Alat Kerja (Ors)	KS	1							
+11638	ARIE BUDIAWAN	113001	Pet II Pemasangan Tundish (Ors)	KS	1							
+11684	MUHAMAD FIRDAUS	113001	Pet II Pemasangan Tundish (Ors)	KS	1							
+11781	HIDAYATHUL AKHMAL	113001	Engineer Refractory (Ors)	KS	1							
+11889	BHENI HARTANTO	113001	Pet Penyediaan Mat & Prog Refr (Ors)	KS	1							
+7445A	WUNDI KUSYANTO	113001		KS	1	7.1768			2013-10-18 05:33:04		7445A	
+3337	YAYAT SUBEKTI HIDAYAT	113101	Sr Engineer Listrik BSP&SSP	KS	1							
+3341	NASIR YACHYA	113101	Engineer Inspeksi Prwt PPB	KS	1							
+3765	MUCHTADIN ASQAR	113101	Superintendent PP Prwt Pab Pengolahan Bj	KS	1							
+3787	SUPRIADI	113101	Teknisi Perencanaan Prwt BSP	KS	1							
+3789	ANAK AGUNG KRISNA	113101	Engineer Mekanik BSP&SSP	KS	1							
+3791	SURYA TRISNIWANTARA	113101	Engineer Mekanik BSP&SSP	KS	1							
+3794	ANANG DARJAT	113101	Teknisi Penjadwalan Prwt BSP	KS	1							
+3797	SUPARNO	113101	Engineer Mekanik BSP&SSP	KS	1							
+3810	LPI. BOETJE SAMALLO	113101	Teknisi Inspeksi & Diagnostik Mek PPB	KS	1							
+4110	MANANGAR MARPAUNG	113101	Teknisi Listrik SSP-I	KS	1							
+4172	SISTIAWAN	113101	Supervisor Perenc & Pengdl Prwt SSP-II	KS	1							
+4431	ISTIYONO	113101	Engineer Fluid Centre	KS	1							
+4559	NAZAMUDIN	113101	Engineer Mekanik BSP&SSP	KS	1							
+5110	MISA	113101	Teknisi Mekanik BSP	KS	1							
+5113	AMRIZAL	113101	Supervisor Perenc & Pengdl Prwt BSP	KS	1							
+5595	MARUTO	113101	Teknisi Penjadwalan Prwt SSP-2	KS	1							
+5603	SUCIPTO	113101	Teknisi Inspeksi & Diagnostik Mek PPB	KS	1							
+5605	JOKO LESTARI	113101	Engineer Mekanik BSP&SSP	KS	1							
+5611	AGUS WIDODO	113101	Engineer Inspeksi Prwt PPB	KS	1							
+5612	SYARIFUDDIN	113101	Supervisor Perenc & Pengdl Prwt SSP-I	KS	1							
+5613	SUDIBYO	113101	Supervisor Adm Teknik Prwt SSP-I	KS	1							
+5656	KODRAT	113101	Pet Inspeksi Listrik PPB	KS	1							
+5665	JERHAN B M YUSUF	113101	Teknisi Perencanaan Prwt SSP-2	KS	1							
+5674	KRISTONI	113101	Teknisi Penjadwalan Prwt SSP-2	KS	1							
+5689	JOKO SUGIANTO	113101	Teknisi Perencanaan Prwt SSP-2	KS	1							
+5692	MOCHAMAD SHODIQ	113101	Sr Engineer Mekanik BSP&SSP	KS	1							
+5694	APUNG MAHPUDIN	113101	Supervisor Adm Teknik Prwt SSP-II	KS	1							
+5702	SAMSUKI	113101	Teknisi Perencanaan Prwt SSP-I	KS	1							
+5719	ASEP SAHAL	113101	Engineer Inspeksi Prwt PPB	KS	1							
+5738	AFENDI	113101	Engineer Inspeksi Prwt PPB	KS	1							
+5914	ACHMAD MULYAWAN	113101	Engineer Inspeksi Prwt PPB	KS	1							
+5972	HENRY PALYAMA	113101	Chief Engineer Prwt Pab Pengolahan Baja	KS	1							
+6072	USUP SUKARDI	113101	Teknisi Mekanik SSP-II	KS	1							
+6313	IVAN HENDARIN	113101	Teknisi Perencanaan Prwt BSP	KS	1							
+6347	BUDIANTO	113101	Teknisi Mekanik SSP-I	KS	1							
+6369	EDISON	113101	Pet Pelayanan Material SSP-II	KS	1							
+7145	SOSON ICHSAN FUAD	113101	Teknisi Penjadwalan Prwt BSP	KS	1							
+7637	SUHARTONO	113101	Teknisi Perenc & Penjad Prwt WTP-123	KS	1							
+7688	SULARTO	113101	Administrator Trainning Koord & Lap Mjn	KS	1							
+7695	PUTUT IRIANTO	113101	Pet Dokumentasi & Juru Gambar SSP-I	KS	1							
+7701	KUNTO HADI RAMELAN	113101	Pet Dokumentasi & Juru Gambar SSP-II	KS	1							
+7706	SUHARDI	113101	Teknisi Perencanaan Prwt SSP-2	KS	1							
+7718	JAHIDIN	113101	Pet Administrasi Order SSP-I	KS	1							
+7721	EDI BIN MAYAD	113101	Pet Administrasi Order SSP-II	KS	1							
+7726	DIDIK ROCHDIANTO	113101	Teknisi Perencanaan Prwt SSP-I	KS	1							
+7827	ONI BIN NATA	113101	Teknisi Listrik BSP	KS	1							
+8006	ISMATULLAH	113101	Teknisi Inspeksi & Diagnostik Mek PPB	KS	1							
+8239	MOCH SUN'AN	113101	Manager Prwt Pabrik Pengolahan Baja	KS	1					2013-09-18 06:56:21		1
+8305	R. TRIKORYADI	113101	Teknisi Perenc & Penjad Prwt WTP-123	KS	1							
+8307	IWAN PRAMAWIRA	113101	Teknisi Perencanaan Prwt SSP-2	KS	1							
+8611	KELIK SAPTO SUDARMANTO	113101	Teknisi Listrik SSP-II	KS	1							
+10453	TEGUH SUTOPO	113101	Engineer Instr&Komp Proses BSP&SSP	KS	1							
+10532	BUDI SUYATNO	113101	Pet Pelayanan Material BSP	KS	1							
+10612	ERDI YUZHAR	113101	Pet Pelayanan Material SSP-I	KS	1							
+10615	ENDONG SOPANDI	113101	Teknisi Perencanaan Prwt BSP	KS	1							
+10657	ASEP JUNIARTO	113101	Teknisi Perencanaan Prwt SSP-I	KS	1							
+10666	AAN ISA ANSORI	113101	Teknisi Penjadwalan Prwt SSP-I	KS	1							
+10680	L.PUPUT CANDRA BR.	113101	Teknisi Inspeksi & Diagnostik List PPB	KS	1							
+11086	RIZAL FAHLEVI	113101	Pet Inspeksi Listrik PPB	KS	1							
+11212	KUSNANDAR	113101	Pet Inspeksi Mekanik PPB	KS	1							
+11417	SYAM ABDIRRIZAL	113101	Teknisi Penjadwalan Prwt SSP-I	KS	1							
+11429	ARSY AZAVI BASYA	113101	Supervisor Prwt Predictive PPB	KS	1							
+11453	SHOLIKIN	113101	Engineer Listrik BSP & SSP	KS	1							
+11461	ANTO NOBERTUS TIMBANG	113101	Teknisi Perencanaan Prwt BSP	KS	1							
+11495	SIGIT PURNAMA	113101	Teknisi Insp & Diagnostik List PPB (Ors)	KS	1							
+11709	TUBAGUS PAKSI ARYAWINATA	113101	Pet Administrasi Order BSP (Hold12)	KS	1							
+11779	SANDA FILLOL FIRMANSYAH	113101	Teknisi Insp & Diagnostik List PPB (Ors)	KS	1							
+11820	MEDIAN HARYASEPTA PRAKASA	113101	Engineer Listrik BSP & SSP (Ors)	KS	1							
+3855	ZULKIFLI BIN HASAN BASRI	113201	Plant Inspector	KS	1							
+3878	IMAM NUGROHO	113201	Administrator Mjn SMKS, Controller	KS	1							
+3879	JOHNY ARIFIN	113201	Sr Engineer Rolling Mill	KS	1							
+4116	SUPRIYADI	113201	Teknisi Officer	KS	1							
+6395	ACHYUDIN	113201	Teknisi Officer	KS	1							
+7246	SUHARTANTO SOEDOMO	113201	Manager Pabrik Batang Kawat	KS	1							
+7967	MUHTARUDIN	113201	Teknisi Officer	KS	1							
+8444	SINGGIH FAJARDI	113201	Sr Engineer Pabrik Batang Kawat	KS	1							
+10129	SUTRISNO	113201	Sr Engineer Rolling Mill	KS	1							
+11482	RIFKI RINDRAYANTO ATMOJO	113201	Teknisi	KS	1							
+3627	HERRY PURWANTO	113301	Engineer Hot Skin Pass Mill	KS	1							
+5168	WAHYU DJOKO PRAMONO	113301	Sr Engineer Proses Rolling	KS	1							
+5217	KANDUNG USMAN	113301	Supervisor Penanganan Roll SL & HSPM	KS	1							
+5370	MULKI ABDULLAH	113301	Supervisor Penanganan Roll Mill	KS	1							
+5564	JANUARDI	113301	Supervisor Analisis Peningkatan Kualitas	KS	1							
+5568	JOHAN ARIFIN	113301	Engineer Shearing Line	KS	1							
+5571	WAWAN JUTAWAN	113301	Sr Engineer Proses Rolling	KS	1							
+5573	SUMARDI HUTAHURUK	113301	Sr Engineer Shearing Line & HSPM	KS	1							
+5574	ENDANG DARSONO	113301	Teknisi QC WR & BUR Mill,SL & HSPM	KS	1							
+5899	TOTO MULYA ATMAJA	113301	Administrator Pemel SMKS & Training Koor	KS	1							
+5903	FIRDAUS	113301	Teknisi Pemotongan	KS	1							
+5953	EDY JUBAEDI	113301	SF Prwt Chock & Bantalan	KS	1							
+6237	SUDARWANTO	113301	Superintendent Rolling& Cut Strategy HSM	KS	1							
+6389	EDI RAFIUDIN	113301	Teknisi QC WR & BUR Mill,SL & HSPM	KS	1							
+6513	MAILUDIN	113301	Sr Engineer Reheating Furnace	KS	1							
+6518	MOHAMMAD MAKSUM	113301	Supervisor Prwt Chock & Bantalan	KS	1							
+6554	MOH. ROIFIN	113301	Superintendent Roll & Bearing Prep HSM	KS	1							
+6604	AKHMADI	113301	Sr Engineer Shearing Line & HSPM	KS	1							
+6663	ENTUS SUHERMAN	113301	Teknisi Mill	KS	1							
+6681	SUDRAJAT	113301	SF Prwt Chock & Bantalan	KS	1							
+6688	JUANDI	113301	Supervisor Strategi Operasi Pengerolan	KS	1							
+6700	ABDUL RO'UF	113301	Teknisi Mill	KS	1							
+6706	PRASETYO ATMOJO	113301	SF Penggerindaan	KS	1							
+6707	EKO SUPONO	113301	SF Penggerindaan	KS	1							
+6708	LAMIRAN	113301	SF Penggerindaan	KS	1							
+6709	SUNARTO	113301	Plant Inspector	KS	1							
+6710	NUSAEFUDIN	113301	SF Prwt Chock & Bantalan	KS	1							
+6711	AJAT SUDRAJAT	113301	Teknisi Roll, Chock & Bearing	KS	1							
+6806	EDY SRI KUSPRIYONO	113301	Teknisi Komputer Proses FM & DC	KS	1							
+6811	YUDIATNA EFENDI	113301	Teknisi Roll, Chock & Bearing	KS	1							
+6814	ZULKIFLI SIKUMBANG	113301	Teknisi Penyediaan Roll Mill	KS	1							
+6815	SARTONO	113301	SF Penggerindaan	KS	1							
+6817	WURYANTO	113301	Engineer Bearing & Lubrication	KS	1							
+6818	EKO PURWANTO	113301	Opr Mesin Gerinda	KS	1							
+6819	CECEP SUPRIATNA	113301	SF Prwt Chock & Bantalan	KS	1							
+6820	HERIYONO	113301	Supervisor Pengdl Roll Mill,SL & HSPM	KS	1							
+6821	IRIANTO WAHYU HIDAYAT	113301	F Prwt Mesin Gerinda	KS	1							
+6822	JUKI LUKITO	113301	Teknisi QC WR & BUR Mill,SL & HSPM	KS	1							
+6824	BAMBANG WIDANARSO	113301	Teknisi Reparation Roll Mill,SL & HSPM	KS	1							
+6828	CECEP YUSUF	113301	Teknisi QC WR & BUR Mill,SL & HSPM	KS	1							
+6830	SUPOMO	113301	Teknisi Peningk Kualt Pengerl & Pemot.	KS	1							
+7088	PEPEN SUKMANA	113301	Teknisi Penyediaan Roll SL & HSPM	KS	1							
+7089	AGUNG YUNIANTO	113301	Pet Prwt Chock & Bantalan & Assbly Chock	KS	1							
+7091	WIDODO	113301	Opr Utama Mesin Gerinda	KS	1							
+7096	LUKMAN	113301	Pet Utama Prwt Chock&Bantalan& Ass Chock	KS	1							
+7097	SUGIYONO	113301	Pet Utama Prwt Chock&Bantalan& Ass Chock	KS	1							
+7342	SYAFEI MATIN	113301	Pet Utama Prwt Chock&Bantalan& Ass Chock	KS	1							
+8032	HAMAMI	113301	Teknisi Perenc SC Roll Mill,SL & HSPM	KS	1							
+8302	R. ADI TJAHYONO H.	113301	Teknisi Peningk Kualt Pengerl & Pemot.	KS	1							
+8304	MAWARDI	113301	Opr Utama Mesin Gerinda	KS	1							
+8558	ERWIN BATUBARA	113301	Sr Engineer Proses Rolling	KS	1							
+9750	SANIN DARNOTO	113301	Pet Utama Prwt Chock&Bantalan& Ass Chock	KS	1							
+10291	UTOMO NUGROHO	113301	Manager Hot Strip Mill Plant	KS	1							
+10438	WALUYO	113301	Opr Mesin Gerinda	KS	1							
+10440	WAGITO	113301	Opr Mesin Gerinda	KS	1							
+10630	YOPI NURVIANTO	113301	Opr Utama Mesin Gerinda	KS	1							
+10634	SUDIRMAN	113301	Teknisi Mill	KS	1							
+10643	KARMAT	113301	Opr Utama Mesin Gerinda	KS	1							
+10709	DICKY MARDIANA	113301	Chief Engineer HSM Plant	KS	1							
+10948	NICKY ANDRA FEBRIAN	113301	Sr Engineer Proses Rolling	KS	1							
+10973	RIMATUPA	113301	Engineer Finishing Mill & DC	KS	1							
+11015	AHMADI	113301	Pet Prwt Chock & Bantalan & Assbly Chock	KS	1							
+11041	NAHWARDI	113301	Pet Prwt Chock & Bantalan & Assbly Chock	KS	1							
+11076	MUJIRIYADI	113301	Opr Mesin Gerinda	KS	1							
+11083	TEGUH MULYAWAN	113301	Opr Mesin Gerinda	KS	1							
+11231	HARIJI	113301	Pet Prwt Chock & Bantalan & Assbly Chock	KS	1							
+11331	WAWAN SUHENDRA	113301	Opr Mesin Gerinda	KS	1							
+11348	DEDE HARIMUKTI	113301	Opr Mesin Gerinda	KS	1							
+11349	ADE FIKRI	113301	Opr Mesin Gerinda	KS	1							
+11370	RIZKY USMAN	113301	Supervisor Strategi Komputer Proses	KS	1							
+11371	MOCHAMAD IBNU SINA	113301	Supervisor Penggerindaan Roll	KS	1							
+11422	BAYU HERMAWAN	113301	Opr Mesin Gerinda	KS	1							
+11423	GIDEON OKTAVIANUS GUNAWAN	113301	Pet Prwt Chock & Bantalan & AC	KS	1							
+11518	AHMAD NURROHMAN	113301	Opr Mesin Gerinda (Ors)	KS	1							
+11519	AHMAD SOLEH	113301	Opr Mesin Gerinda (Ors)	KS	1							
+11524	ANGGA HARFIAN	113301	Pet Prwt Chock & Bantalan & AC (Ors)	KS	1							
+11548	FAHRUL IMAM	113301	Pet Prwt Chock&Bantalan&As Chock (Ors)	KS	1							
+11593	TUBAGUS AHMAD NUGRAHA	113301	Pet Prwt Chock & Bantalan & AC (Ors)	KS	1							
+11726	ANGGOLA KRISNA PATI	113301	Teknisi Perakitan Roll Mill (Ors)	KS	1							
+11772	DANY HENDRIANTO	113301	Teknisi Perakitan Roll SL & HSPM (Ors)	KS	1							
+11856	ADRI IZZATUR RAHMAN	113301	Pet Prwt Chock & Bantalan & AC (Ors)	KS	1							
+11857	DIDIK KURNIAWAN	113301	Pet Prwt Chock & Bantalan & AC (Ors)	KS	1							
+11860	SAIFUL ANAS	113301	Opr Mesin Gerinda (Ors)	KS	1							
+11862	RIYAN RIZKIYANTO	113301	Pet Prwt Chock & Bantalan & AC (Ors)	KS	1							
+4537	YUYUS YUSRON	113341	Pet PP Prwt Mek WTP,Aux,Furnace PBK	KS	1							
+4745	TURSINO	113341	SF Prwt Listrik SL & HSPM	KS	1							
+4747	TOHARI	113341	Supervisor Prwt Listrik SL & HSPM	KS	1							
+4750	WASSI HERU PRAMASTO	113341	Pet Prwt Listrik SL & HSPM	KS	1							
+4751	SUPRATMAN	113341	Teknisi PP Prwt List SL.1,SL.2 &HSPM	KS	1							
+4907	MULYADI	113341	SF Prwt Mekanik SL & HSPM	KS	1							
+4938	NAZARUDIN	113341	Engineer Perencanaan Spare Pab BLP	KS	1							
+5117	AHMAD DIMYATI	113341	Sr Engineer Perencanaan Prwt PBK	KS	1							
+5211	DENI SUHERWANKURYANA	113341	SF Prwt Listrik SL & HSPM	KS	1							
+5219	PARLAN SURYOTO	113341	F Preparation SL & HSPM	KS	1							
+5222	SUGENG RAHARJO	113341	SF Prwt Mekanik SL & HSPM	KS	1							
+5371	AKHMAD ROYANI	113341	Supervisor Prwt Mekanik SL & HSPM	KS	1							
+5374	EDY SUMANTRI	113341	Teknisi PP Prwt Mekanik CS,FM,DC,CT	KS	1							
+5377	ANANG SUPRIYANTO	113341	Sr Engineer Perencanaan Prwt Pab BLP	KS	1							
+5378	YAYAT HIKAYAT	113341	Engineer Perencanaan Prwt Pab BLP	KS	1							
+5426	PC. SUHARYANTO	113341	Administrator SMKS & Training Koord	KS	1							
+5577	HAERUDIN	113341	Teknisi Prwt Listrik SL & HSPM	KS	1							
+5582	SUMAEJI	113341	SF Prwt Mekanik SL & HSPM	KS	1							
+5589	SYARIFUDIN	113341	Teknisi Inspeksi & Pred Mek PBLP	KS	1							
+5597	GAGUK HERSANDOYO	113341	Teknisi PP Prwt Komputer&Instrument PBLP	KS	1							
+5604	AGUS BUNYAMIN	113341	Supervisor Perenc & Pengend Prwt PBK	KS	1							
+5621	MUKSIN	113341	Teknisi PP Prwt List CS,FM,DC,CT	KS	1							
+6132	EKO DONDIT KOESMARIJANTO	113341	Sr Engineer Perencanaan Prwt Pab BLP	KS	1							
+6133	SATRIO DWI WIBOWO	113341	Manager Prwt Pabrik PBLP & PBK	KS	1							
+6235	AGUS MUHAMMAD ARSYAD	113341	SF Prwt Mekanik SL & HSPM	KS	1							
+6246	TATA SUTANUDIN	113341	Teknisi Adm Prwt Fab Rep HSPM,WTP,Cr,Aux	KS	1							
+6248	M. DARWIN	113341	Supervisor Adm Teknik PBLP	KS	1							
+6387	SUGENG BUDIRIANTO	113341	Teknisi PP Prwt Mek WTP,Aux,Furnace PBK	KS	1							
+6410	KUSNADI	113341	Teknisi Adm Prwt AEI PBK	KS	1							
+6467	BUDIONO	113341	Teknisi PP Prwt List Mill,RHF,SSP,RM,RTS	KS	1							
+6472	EKO WIDIYANTO	113341	SF Prwt Listrik SL & HSPM	KS	1							
+6548	AMIR	113341	SF Prwt Listrik SL & HSPM	KS	1							
+6549	ERLY	113341	SF Prwt Listrik SL & HSPM	KS	1							
+6682	IMAM WAHYUDI	113341	Pet Prwt Mekanik SL & HSPM	KS	1							
+6686	SANUSI	113341	Teknisi Prwt Mekanik SL & HSPM	KS	1							
+6746	HAMONANGAN PANJAITAN	113341	Teknisi Prwt Mekanik SL & HSPM	KS	1							
+6876	RUDI HASAN BASRI	113341	Teknisi Prwt Mekanik SL & HSPM	KS	1							
+7208	SUPRI KARNO	113341	Teknisi PP Prwt Listrik PBK	KS	1							
+7224	MOH DADANG SETIAWAN	113341	Engineer Perencanaan Prwt PBK	KS	1							
+7361	HANUNG KUNCORO TRIWIBOWO	113341	Supervisor Perenc & Pengd Prwt Mek PBLP	KS	1							
+7365	KUSHARTO	113341	SF Prwt Mekanik SL & HSPM	KS	1							
+7369	KASID	113341	Teknisi Prwt Mekanik SL & HSPM	KS	1							
+7371	EDY WALUYO	113341	Teknisi Prwt Listrik SL & HSPM	KS	1							
+7833	SUPARDI	113341	Pet Prwt Mekanik SL & HSPM	KS	1							
+7837	ABDULLAH RUMAIN	113341	Teknisi Adm Prwt Komp, Instr, List	KS	1							
+8050	YAKUP SUHARDI	113341	Teknisi PP Prwt Mek SL.1,SL.2&HSPM	KS	1							
+8127	SUNDORO	113341	Superintendent Perenc&Pengdl Prwt PBK	KS	1							
+8146	INDRA BUWANAPRIJA	113341	Superintendent PP Prwt Pabrik BLP	KS	1							
+8306	RUDI KUSWANDI	113341	Teknisi PP Prwt Mek Kontr,WCA	KS	1							
+8487	AMIN BUSRO	113341	Pet Penyedia Material & Tools (Del)	KS	1							
+8980	SOPYAN AMBAS	113341	Teknisi Inspeksi& Prediktiv Listrik PBK	KS	1							
+9073	DWIYANTOKO HENDRO	113341	Teknisi Inspeksi & Prediktiv Mek PBK	KS	1							
+9458	PENDI SURAHMAN	113341	Teknisi Penyedia Material & Tools	KS	1							
+9549	PRIH NURKOLIS	113341	Teknisi PP Prwt Listr WTP,Crn,Aux	KS	1							
+9573	MARDI ISWANTO	113341	Engineer Perencanaan Spare PBK	KS	1							
+9877	TJUTJUK SULISTYONO	113341	Supervisor Adm Teknik PBK	KS	1							
+10623	ATANG JUHARA	113341	Teknisi Adm Prwt Fab Rep RHF,SSP,RM,RTS	KS	1							
+10727	IRHASNUDIN	113341	Teknisi Adm Prwt Fab Repair CS,FM,DC,CT	KS	1							
+10865	FERI WIDIYANTO	113341	Pet Prwt Mekanik SL & HSPM	KS	1							
+10867	LINGGAR FERGISHA	113341	Pet Prwt Listrik SL & HSPM	KS	1							
+10874	VICKY ARENO	113341	Pet Prwt Mekanik SL & HSPM	KS	1							
+11069	ARIP HIDAYATULLAH	113341	Pet Prwt Listrik SL & HSPM	KS	1							
+11104	DEDI MUKTAR	113341	Pet PP Prwt Mekanik RHF,SSP,RTS,RM	KS	1							
+11105	DIKDIK FIRMANSYAH	113341	Pet PP Prwt Mekanik HLP Mill	KS	1							
+11106	DONNY GUMAY	113341	Pet PP Prwt Mekanik CS,FM,DC,CT	KS	1							
+11107	EKA FAHAMSYAH	113341	Pet Penyedia Material & Tools	KS	1							
+11339	AGUS MUNADI	113341	Pet Prwt Listrik SL & HSPM	KS	1							
+11372	TEGUH IMAN HENDRIYANTO	113341	Engineer Perencanaan Prwt Pab BLP	KS	1							
+11535	CECEP SAMBUDI	113341	Pet Prwt Mekanik SL & HSPM (Hold12)	KS	1							
+11537	DICKY REZA	113341	Pet Prwt Mekanik SL & HSPM  (Hold12)	KS	1							
+11649	FAISAL	113341	Pet PP Prwt Inst & Komp PBK (Ors)	KS	1							
+11651	FANDY THOMAS	113341	Pet PP Prwt Listrik PBK (Ors)	KS	1							
+11667	HERWANSYAH	113341	Pet Prwt Mekanik SL & HSPM (Ors)	KS	1							
+11669	IHSAN MAULANA	113341	Pet PP Prwt HLP PBK (Ors)	KS	1							
+11704	SUHENDI	113341	Pet PP Prwt Mekanik Mill PBK (Ors)	KS	1							
+11715	YOVA YOWINARNO HARISMA	113341	Pet Prwt Mekanik SL & HSPM (Ors)	KS	1							
+11773	DARMAWANSYAH	113341	Teknisi PP Prwt HLP PBK (Ors)	KS	1							
+11838	AGUNG BASKORO	113341	Pet Prwt Listrik SL & HSPM (Ors)	KS	1							
+6601A	ADI NUGROHO	113341		KS	1	7.1689			2013-09-20 05:50:48		6601A	
+7094	SUBARKAH	113401	Sekretaris	KS	1							
+8860	NUGRAHANTO	113401	Plant Inspector	KS	1							
+8935	MARMONO	113401	Sr Engineer Rolling Process	KS	1							
+8944	AZWAR AHMAD	113401	Koordinator Shift  CPL-ARP-RC-TCM-RS-RP	KS	1							
+8947	HERU MARYONO	113401	Sr Engineer Annealing & Cleaning	KS	1							
+8950	PUJI RININTYANTONO	113401	Koordiantor Shift ECL-CAL-BAF-TPM-CRF-AM	KS	1							
+8955	HERIYANA	113401	Sr Engineer Rolling Process	KS	1							
+8959	SUWATNO	113401	Koordinator Shift  CPL-ARP-RC-TCM-RS-RP	KS	1							
+8974	MOCHAMAD SYAFRUDIN	113401	Administrator Pemel SMKS & TK	KS	1							
+8989	MARGONO BUDIPRAKOSO	113401	SF Operasi Aliran Material	KS	1							
+8995	STANILAUS DALPRIYANTO	113401	Sr Engineer Prod & Quality	KS	1							
+8996	JAKA WALUYA	113401	Koordiantor Shift ECL-CAL-BAF-TPM-CRF-AM	KS	1							
+9032	WIDIHARTO	113401	Sr Engineer Prod & Quality	KS	1	7.1651				2013-09-19 07:27:48		1
+9040	JHON CHARLES PARDOSI	113401	Sr Engineer Annealing & Cleaning	KS	1							
+9049	SUGIARTO	113401	Supervisor Operasi Aliran Material	KS	1							
+9054	HENDI SUBARYONO	113401	Sr Engineer Annealing & Cleaning	KS	1							
+9092	SYAHRONI ALI	113401	SF Operasi Aliran Material	KS	1							
+9260	HASAN SUTISNA	113401	SF Operasi Aliran Material	KS	1							
+9293	HASANUDDIN	113401	Koordinator Shift CPL-ARP-RC-TCM-RS-RP	KS	1							
+9467	ZAINAL ARIFIN	113401	SF Operasi Aliran Material	KS	1							
+9557	DAYAT BUDI HERMAWAN	113401	SF Operasi Aliran Material	KS	1							
+9562	ISTIANTO TRI PRIYONO	113401	Plant Inspector	KS	1							
+9563	TAUFIK WALHIDAYAH	113401	Superintendent CPL-ARP-TCM	KS	1							
+9582	EFRI	113401	Teknisi	KS	1							
+9595	BENNY BERNADIE	113401	Pet Penyedia Material	KS	1							
+9611	IWAN MULIAWAN	113401	Sr Engineer Rolling Process	KS	1							
+9726	AGUNG RAYANTO	113401	Engineer ECL / CAL / BAF	KS	1							
+9794	TRI HERU SUKARNO	113401	Chief Engineer Pab Pengerolan BLD	KS	1							
+9888	IRWAN SYAHRIAL	113401	Koordiantor Shift ECL-CAL-BAF-TPM-CRF-AM	KS	1							
+9891	K M S A YANI	113401	Engineer CPL / TCM / RS	KS	1							
+9911	SUSILO ISMONO	113401	Sr Engineer Prod & Quality	KS	1							
+9997	TAKDIRUL ALAM	113401	Koordiantor Shift ECL-CAL-BAF-TPM-CRF-AM	KS	1							
+10008	MOHAMMAD HUSNUL YAKIN	113401	Superintendent Operasi TPM-CRF-AM	KS	1							
+10038	ARIEF DWI RACHMANTO	113401	Engineer TPM / CRF	KS	1							
+10045	AGUS HARI PURWANTO	113401	Koordinator Shift CPL-ARP-RC-TCM-RS-RP	KS	1							
+10308	HARRY HARIYAWAN DJ	113401	Superintendent ECL 1&2-CAL-BAF	KS	1							
+10319	WAHYU WIRAWAN	113401	MANAGER PABRIK PENGEROLAN BLP	KS	1	7.1313				2013-09-19 07:45:12		1
+11378	VIDI RAHMAN ALMA'I	113401	Engineer CPL / TCM / RS	KS	1							
+5253	IING IRAWAN	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+7164	DEDY JUNAEDI	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+7319	SANA ASRIA	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+8128	SUHARJO	113441	Administrator SMKS & Training Koord	KS	1							
+8632	MURADI	113441	Supervisor Prwt Mekanik BR-HLP-Flying	KS	1							
+8792	RADI SURYADI	113441	Engineer Mech Maint CPL-ARP-CTCM-RC	KS	1							
+9027	SUKARNO	113441	SF Prwt Mekanik TCM-RC	KS	1							
+9115	HENHEN SUHENDI	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+9188	EDDI KURNIA	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+9198	AHMAD	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9210	SUKMANA	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9306	HERMANTIO	113441	Inspektor Plant Maint CRM	KS	1							
+9370	A RAMALI	113441	SF Prwt Mekanik TCM-RC	KS	1							
+9420	AGUS WARASTOMO	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+9421	BAMBANG SARDJOKO	113441	F Prwt Mekanik BR-HLP-Flying	KS	1							
+9474	SUNARDI	113441	Sr Engineer Electric Plant Maint CRM	KS	1							
+9486	NANA SUJANA	113441	Sr Engineer Electric Plant Maint CRM	KS	1							
+9489	BUDHY WINARTO	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+9509	ANANG EDI ANTORO	113441	SF Prwt Mekanik TCM-RC	KS	1							
+9523	AGUS SUDARYANTO	113441	SF Prwt Mekanik TCM-RC	KS	1							
+9560	MUHENI	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+9565	HARIS EFFENDI	113441	Chief Engineer Plant Maintenance CRM	KS	1							
+9574	EKO SUSILO	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+9575	IRIANTO	113441	F Prwt Mekanik BR-HLP-Flying	KS	1							
+9578	TOHARI	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9581	SLAMET WATON SAPTONO	113441	Pet Perwt Mekanik HLP & Flying Maint	KS	1							
+9743	SUDARMAN	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9752	LINTANG SINURAT	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9763	CHATO SUWARTO	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+9774	SUKAMTO	113441	SF Prwt Mekanik CPL-ARP	KS	1							
+9780	ZULKARNAIN	113441	Supervisor Prwt Mekanik CPL-ARP	KS	1							
+9802	SUMARDI	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+9893	MOCH. AMIN HARI SUBAGYO	113441	Sr Engineer Utility Plant Maint CRM	KS	1							
+9934	IRSAL	113441	Sr Engineer Comp Process Plant Maint CRM	KS	1							
+9952	ADI PARDIONO	113441	Sr Engineer Planning & Control PM CRM	KS	1							
+9953	BUDI HARYANTO	113441	Engineer Hydroulic CPL-ARP-CTCM-RC	KS	1							
+9963	IMAM NURHADI	113441	Supervisor Prwt Mekanik TCM-RC	KS	1							
+10036	AGUS SUWARTO	113441	Manager Plant Maintenance CRM	KS	1							
+10037	PUGUH YUWONO	113441	Sr Engineer Instrument Plant Maint CRM	KS	1							
+10041	MARTIN HERMAN	113441	Superintendent Mech Mtce CPL-ARP-CTCM-RC	KS	1							
+10389	DADANG NURSUSANTO	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+10390	ADI KUSUMAH	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+10391	TEGUH HADIYANTO	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+10392	ASEP SUNARYA	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+10395	ZAINAL SIATAN	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+10397	DWI PRIHATIN	113441	SF Prwt Mekanik TCM-RC	KS	1							
+10421	DEDI ISKANDAR	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+10779	KARDI	113441	Pet Perwt Mekanik HLP & Flying Maint	KS	1							
+10877	MUHAMMAD PANGERANG	113441	Pet Prwt Mekanik CPL-ARP	KS	1							
+10878	SALMIN MAKMUR	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+11095	ADE HARYADI	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+11118	MUHAMMAD DANI	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+11144	ASEP SUPRIYATNA	113441	Pet Prwt Mekanik TCM-RC	KS	1							
+11471	FAJAR WAHYU NUGROHO	113441	F Prwt Mekanik BR-HLP-Flying	KS	1							
+11590	SENO SUMADI	113441	Pet Perwt Mekanik HLP&Flying Maint (Ors)	KS	1							
+11666	HENDRO WIBOWO	113441	Pet Prwt Mekanik CPL-ARP (Ors)	KS	1							
+11683	MUCHLISON	113441	Pet Perwt Mekanik HLP&Flying Maint (Ors)	KS	1							
+11834	ANDIKA ARIF SAPUTRA	113441	Pet Prwt Mekanik TCM-RC (Ors)	KS	1							
+11835	ANDIKA ARIAWAN	113441	Pet Prwt Mekanik TCM-RC (Ors)	KS	1							
+11836	FAKHRI BURHANUDDIN	113441	Pet Perwt Mekanik HLP&Flying Maint (Ors)	KS	1							
+11837	NOVANDRA SONY PRADANA	113441	Pet Prwt Mekanik TCM-RC (Ors)	KS	1							
+9964A	SULIMAN	113441		KS	1	7.1522			2013-09-27 07:45:09		9964A	
+7990A	OTONG	117990		KS	1	7.2182			2013-10-02 11:21:32		7990A	

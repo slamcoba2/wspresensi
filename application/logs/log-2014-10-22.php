@@ -1,0 +1,17 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-22 20:56:20 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Invalid object name 'tblkaryawan'. (severity 16) D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:20 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:20 --> Severity: Notice  --> Trying to get property of non-object D:\xampp\htdocs\rstgrj2014\rstgrj-application\modules\home\models\model_home.php 22
+ERROR - 2014-10-22 20:56:22 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Invalid object name 'tblkaryawan'. (severity 16) D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:22 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:22 --> Severity: Notice  --> Trying to get property of non-object D:\xampp\htdocs\rstgrj2014\rstgrj-application\modules\home\models\model_home.php 22
+ERROR - 2014-10-22 20:56:24 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Invalid object name 'tblkaryawan'. (severity 16) D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:24 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:24 --> Severity: Notice  --> Trying to get property of non-object D:\xampp\htdocs\rstgrj2014\rstgrj-application\modules\home\models\model_home.php 22
+ERROR - 2014-10-22 20:56:31 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Invalid object name 'tblkaryawan'. (severity 16) D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:31 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:56:31 --> Severity: Notice  --> Trying to get property of non-object D:\xampp\htdocs\rstgrj2014\rstgrj-application\modules\home\models\model_home.php 22
+ERROR - 2014-10-22 20:58:13 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Invalid object name 'tblkaryawan'. (severity 16) D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:58:13 --> Severity: Warning  --> mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed D:\xampp\htdocs\rstgrj2014\rstgrj-system\database\drivers\mssql\mssql_driver.php 143
+ERROR - 2014-10-22 20:58:13 --> Severity: Notice  --> Trying to get property of non-object D:\xampp\htdocs\rstgrj2014\rstgrj-application\modules\home\models\model_home.php 22

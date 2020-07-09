@@ -1,0 +1,85 @@
+UPDATE tblunit as a SET a.nik_pejabat=(SELECT idKaryawan FROM tblkaryawan as b WHERE b.nik=a.nik_pejabat)
+
+UPDATE tblunit as a SET a.CC=(SELECT idCc FROM cost_center as b WHERE b.kodeCC=a.CC)
+
+# Update Tabel poksi
+DELETE FROM tblpoksi WHERE idPerusahaan='KIT'
+UPDATE tblpoksi as a SET a.idUnit=(SELECT idUnit FROM tblunit as b WHERE b.kodeunit=a.idUnit)
+------------------------------------------
+# Update Tabel aktifitas
+UPDATE tblaktifitas as a 
+SET a.idPoksi=(SELECT idPoksi FROM tblpoksi as b WHERE b.kodepoksi=a.kodepoksi),
+    a.idUnit=(SELECT idUnit FROM tblunit as c WHERE c.kodeunit=a.kodeunit),
+    a.idProcedure=(SELECT idProcedure FROM tblprosedur as d WHERE a.kodefungsi=d.kodeprocedure),
+    a.idPerusahaan=9
+where a.kodeperusahaan='KS'    
+
+
+UPDATE tblaktifitasdetil as a SET a.idAktifitas=(SELECT idAktifitas FROM tblaktifitas as b WHERE b.kode_aktifitas=a.kode_aktifitas)
+UPDATE tblaktifitasdetil as a SET a.idKategori=(SELECT b.idKategori FROM tblkategori as b WHERE b.kodekategori=a.kodekategori)
+
+-------------------------------------------
+################## tblsumberresiko ################
+#UPDATE tblsumberresiko as a SET a.idResiko=(SELECT b.idResiko FROM tblaktifitasdetil as b WHERE b.koderesiko=a.koderesiko)
+
+UPDATE tblsumberresiko as a SET a.idResiko=(SELECT b.idResiko FROM tblaktifitasdetil_periode as b
+                                            INNER JOIN  tblaktifitasdetil AS c ON(B.idResiko=c.idResiko) 
+                                            WHERE c.koderesiko=a.koderesiko) 
+                                            
+
+INSERT INTO tblsumberresiko_periode(idSumberResiko,idResiko,idPeriode)
+(SELECT idSumberResiko,idResiko,3 FROM tblsumberresiko WHERE idResiko is not null)
+
+
+INSERT INTO tblsumberresiko(sumberresiko,idPeriode,koderesiko,kodesumberresiko)
+(SELECT b.sumberresiko,3,b.koderesiko,b.kodesumberresiko FROM risk_new.tblsumberresiko as b WHERE b.koderesiko in (SELECT DISTINCT c.koderesiko FROM tblaktifitasdetil AS c))
+
+----------------------------------------
+#################### tblalternatif ##################
+
+INSERT INTO tblalternatif(alternatif,respon,estimasi,nik,kelemahan,idPeriode,kodealternatif,kodesumberresiko)
+(SELECT b.alternatif,b.respon,b.estimasi,b.nik,b.kelemahan,3,b.kodealternatif,b.kodesumberresiko FROM risk_new.tblalternatif as b WHERE b.kodesumberresiko in (SELECT DISTINCT c.kodesumberresiko FROM tblsumberresiko AS c))
+
+UPDATE tblalternatif as a SET a.idSumberResiko=(SELECT c.idSumberResiko FROM tblsumberresiko_periode as b 
+                                                INNER JOIN tblsumberresiko AS c ON(c.idSumberResiko=b.idSumberResiko)
+                                                WHERE c.kodesumberresiko=a.kodesumberresiko);
+
+INSERT INTO tblalternatif_periode(idAlternatif,idSumberResiko,idPeriode)
+(SELECT idAlternatif,idSumberResiko,3 FROM tblalternatif WHERE idSumberResiko is not null)
+
+INSERT INTO tblalternatif_periode(idAlternatif,idSumberResiko,idPeriode)
+(SELECT idAlternatif,idSumberResiko,3 FROM tblalternatif WHERE idSumberResiko is not null)
+
+UPDATE tblsumberresiko as a SET a.respon = (SELECT DISTINCT b.respon FROM tblalternatif as b WHERE a.idSumberResiko=b.idSumberResiko)
+
+-----------------------------------------------
+##################### tblrencana ######################################
+
+SELECT b.idAlternatif,b.kodealternatif,count(b.idAlternatif) FROM tblalternatif as b
+group by b.kodealternatif
+having count(b.idAlternatif)>1
+
+UPDATE tblrencana as a SET a.idAlternatif=(SELECT c.idAlternatif FROM tblalternatif_periode as b 
+                                                INNER JOIN tblalternatif AS c ON(c.idAlternatif=b.idAlternatif)
+                                                WHERE c.kodealternatif=a.kodealternatif);
+                                                
+
+INSERT INTO tblrencana_periode(idRencana,idAlternatif,idPeriode,status,target)
+(SELECT idRencana,idAlternatif,3,status,target FROM tblrencana WHERE idAlternatif is not null)
+
+INSERT INTO tblrencana(koderencana,kodealternatif,rencana,nik,kodekontrol,status,target,target_persen,idPeriode)
+(SELECT b.koderencana,b.kodealternatif,b.rencana,b.nik,b.kodekontrol,b.status,b.target,b.target_persen,3 FROM risk_new.tblrencana as b WHERE b.kodealternatif in(SELECT c.kodealternatif FROM tblalternatif AS c))
+
+SELECT b.idSumberResiko,b.kodeSumberResiko,count(b.idSumberResiko) FROM tblsumberresiko as b
+group by b.kodeSumberResiko
+having count(b.idSumberResiko)>1
+
+
+# Update Tabel Karyawan
+UPDATE tblkaryawan as a SET a.idCC=(SELECT idCc FROM cost_center as b WHERE b.kodeCC=a.CC)
+
+# Update Tabel Sys User
+UPDATE sys_user as a SET a.idKaryawan=(SELECT idKaryawan FROM tblkaryawan as b WHERE b.nik=a.nik),
+a.idUnit=(SELECT idUnit FROM tblunit as b WHERE b.kodeunit=a.kodeunit),
+a.idPerusahaan=9
+

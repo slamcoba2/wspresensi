@@ -1,0 +1,5 @@
+#COPY tblaktifitasdetil_periode 
+
+INSERT INTO tblaktifitasdetil_periode (idResiko,idPeriode,idAktifitas,idPeluang,idDampak,approveBy,approvedate)
+(SELECT b.idResiko,4,b.idAktifitas,b.idPeluang,b.idDampak,b.approveBy,b.approvedate FROM tblaktifitasdetil_periode as b WHERE b.idPeriode=3)
+

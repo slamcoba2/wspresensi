@@ -1,0 +1,685 @@
+
+/****************************************** Sheet ke 2 *********************************************/
+    $objPHPExcel->createSheet();
+    
+    $F2_Profil_Risiko = $objPHPExcel->setActiveSheetIndex(1);
+    
+/** Atur Lebar Coloumn Sheet 2**/ 
+    $F2_Profil_Risiko->getColumnDimension('A')->setWidth(2);
+    $F2_Profil_Risiko->getColumnDimension('B')->setWidth(5);
+    $F2_Profil_Risiko->getColumnDimension('C')->setWidth(44);
+    $F2_Profil_Risiko->getColumnDimension('D')->setWidth(10);
+    $F2_Profil_Risiko->getColumnDimension('E')->setWidth(35);
+    $F2_Profil_Risiko->getColumnDimension('F')->setWidth(12);
+    $F2_Profil_Risiko->getColumnDimension('G')->setWidth(4);
+    $F2_Profil_Risiko->getColumnDimension('H')->setWidth(15);
+    $F2_Profil_Risiko->getColumnDimension('I')->setWidth(4);
+    $F2_Profil_Risiko->getColumnDimension('J')->setWidth(15);
+/** End Lebar Coloumn **/
+
+/** Menambahkan file gambar pada document excel pada kolom D4 **/
+$objDrawing = new PHPExcel_Worksheet_Drawing();
+$objDrawing->setPath('asset/images/logo_ks/KS_old.png');
+$objDrawing->setCoordinates('E1');
+$objDrawing->setWorksheet($F2_Profil_Risiko);                
+                
+/** Header **/         
+    
+    
+    $F2_Profil_Risiko ->setCellValue('A5', 'VI. PROFIL DAN PENGENDALIAN RISIKO')
+                      ->setCellValue('B7', '4.2 Daftar Profil Risiko')    
+                      ->setCellValue('B9', 'Unit Kerja :'.$row_a['unitkerja'])
+                      ->setCellValue('B10', 'Periode: '.$this->session->userdata('tri'))
+                      ->mergeCells('B10:C10')
+                      ->setCellValue('D9', 'DAFTAR PROFIL RESIKO')
+                      ->mergeCells('D9:E10')
+                      ->setCellValue('F9', 'Tujuan Pokok & Fungsi :')
+                      ->mergeCells('F9:J9')
+                      ->setCellValue('F10', $row_a['namapoksi'])
+                     ->mergeCells('F10:J10')
+                     
+                      ->setCellValue('B12', 'NO')
+                      ->setCellValue('C12', 'JENIS RISIKO')
+                      ->setCellValue('D12', 'Klasifikasi')
+                      ->setCellValue('E12', 'SUMBER RISIKO')
+                      ->setCellValue('F12', 'PELUANG')
+                      ->mergeCells('F12:G12')
+                      ->setCellValue('H12', 'DAMPAK')
+                      ->mergeCells('H12:I12')
+                      ->setCellValue('J12', 'TKT. RESIKO');
+                      
+/** Format Cell **/                 
+    $F2_Profil_Risiko ->getStyle('D9')->getFont()->setSize(14);
+    $F2_Profil_Risiko ->getStyle('D9')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('A5')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('B7')->getFont()->setBold(true);
+    
+    $F2_Profil_Risiko ->getStyle('D9:D10')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('B9:C10')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('E9:E10')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('B9:J10')->applyFromArray($border_all);
+    
+    $F2_Profil_Risiko ->getStyle('B12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('C12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('D12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('E12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('F12:G12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('H12:I12')->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('J12')->applyFromArray($border_all);
+
+    
+    $F2_Profil_Risiko ->getStyle('D9:D10')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('B12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('C12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('D12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('E12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('F12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('H12')->applyFromArray($vertical_center);
+    $F2_Profil_Risiko ->getStyle('J12')->applyFromArray($vertical_center);
+    
+    $F2_Profil_Risiko ->getStyle('E9')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('B12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('C12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('D12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('E12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('F12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('H12')->getFont()->setBold(true);
+    $F2_Profil_Risiko ->getStyle('J12')->getFont()->setBold(true);
+
+    $F2_Profil_Risiko ->getRowDimension(8)->setRowHeight(5);
+    $F2_Profil_Risiko ->getRowDimension(11)->setRowHeight(5);
+    
+    $F2_Profil_Risiko->getStyle('F10')->getAlignment()->setWrapText(true);    
+    $F2_Profil_Risiko ->getStyle('B10')->applyFromArray($vertical_top);
+
+/** end cell **/
+    
+    $data = $this->model_eksport_xls->getJenisResikoDanProfil($row_a['idAktifitas'],$tgl);   
+    
+    $no = 0;
+    $brs = 13;
+    
+    foreach($data->result() as $row)
+    {
+        $no++;
+        
+        $F2_Profil_Risiko ->setCellValue('B'.$brs, $no);    
+        $F2_Profil_Risiko ->setCellValue('C'.$brs, $row->jenisresiko);
+        $F2_Profil_Risiko ->setCellValue('D'.$brs, $row->profilresiko);
+        $F2_Profil_Risiko ->setCellValue('F'.$brs, $row->peluang);
+        $F2_Profil_Risiko ->setCellValue('G'.$brs, $row->kodepeluang);
+        $F2_Profil_Risiko ->setCellValue('H'.$brs, $row->dampakresiko);
+        $F2_Profil_Risiko ->setCellValue('I'.$brs, $row->kodedampak);
+        $F2_Profil_Risiko ->setCellValue('J'.$brs, $row->klasifikasi_resiko);
+        
+        $F2_Profil_Risiko->getStyle('C'.$brs)->getAlignment()->setWrapText(true);
+        $F2_Profil_Risiko ->getStyle('B'.$brs)->applyFromArray($vertical_top);
+        
+        /** Looping Sumber Resiko **/
+        $data2 = $this->model_eksport_xls->getSumberResiko($row->koderesiko);
+        $j = $brs;
+        
+        foreach($data2->result() as $row2)
+        {
+            $F2_Profil_Risiko ->setCellValue('E'.$j, $row2->sumberresiko);
+            $F2_Profil_Risiko->getStyle('E'.$j)->getAlignment()->setWrapText(true);
+            $F2_Profil_Risiko ->getStyle('E'.$j)->applyFromArray($border_all);
+            $j++;    
+        }
+        
+        $F2_Profil_Risiko ->getStyle('B'.$brs.':B'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('C'.$brs.':C'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('D'.$brs.':D'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('E'.$brs.':E'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('F'.$brs.':F'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('G'.$brs.':G'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('H'.$brs.':H'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('I'.$brs.':I'.$j)->applyFromArray($border_all);
+        $F2_Profil_Risiko ->getStyle('J'.$brs.':J'.$j)->applyFromArray($border_all);
+        
+    
+        $brs=$j+1;    
+    }        
+    $k =$brs+1;         
+    $x = $brs+4;
+    $y = $x+1;
+    
+    $F2_Profil_Risiko ->setCellValue('B'.$k, 'Catatan :')
+                      ->mergeCells('B'.$k.':D'.$y)
+                      ->setCellValue('E'.$k, 'MANAJEMEN RESIKO')
+                      ->setCellValue('E'.$x, $pejabatGCG['fullname'] )  #$unit_pengelola['fullname']
+                      ->setCellValue('F'.$x,$row_a['fullname'])
+                      
+                     ->setCellValue('F'.$k, 'Key Person')
+                     ->mergeCells('F'.$k.':G'.$k)    
+                     ->setCellValue('H'.$k, 'Unit Kerja: '.$row_a['unitkerja'])
+                     ->mergeCells('H'.$k.':J'.$k)
+                     
+                     ->setCellValue('F'.$x,$row_a['fullname'])
+                     ->mergeCells('f'.$x.':G'.$x)
+                     
+                     ->setCellValue('H'.$x,$row_a['pejabat'])
+                     ->mergeCells('H'.$x.':J'.$x)
+                     
+                     ->setCellValue('E'.$y,'Tanggal :')
+                     ->setCellValue('F'.$y,'Tanggal :')
+                     ->mergeCells('F'.$y.':G'.$y)
+                     ->setCellValue('H'.$y,'Tanggal :')
+                     ->mergeCells('H'.$y.':J'.$y)
+                     ;
+    
+    
+    $F2_Profil_Risiko ->getStyle('B'.$k.':D'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('E'.$k.':E'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('E'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('F'.$k.':G'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('F'.$y.':G'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('H'.$k.':J'.$y)->applyFromArray($border_all);
+    $F2_Profil_Risiko ->getStyle('H'.$y.':J'.$y)->applyFromArray($border_all);
+    
+    $F2_Profil_Risiko ->getStyle('E'.$k.':E'.$x)->applyFromArray($vertical_center);
+    
+    $F2_Profil_Risiko ->getStyle('B'.$k)->applyFromArray($vertical_top);
+    $F2_Profil_Risiko ->getRowDimension($brs)->setRowHeight(5);
+    
+    $objPHPExcel->getActiveSheet()->setTitle('F2_Profil Risiko');
+
+
+    
+    if($this->session->userdata('group_id')==4)
+    {
+        $objPHPExcel->getActiveSheet()->protectCells('A1:J'.$y,$idUnit);
+        $objPHPExcel->getActiveSheet()->getProtection()->setSheet(true);
+    }
+    
+/** End Sheet 2 **/
+
+/** **************************** ******************* Sheet ke 3 *******************************************/    
+    $objPHPExcel->createSheet();
+    
+    //$objPHPExcel->setActiveSheetIndex(2);
+    $F3_Respon = $objPHPExcel->setActiveSheetIndex(2);
+    
+        /** Atur Lebar Coloumn Sheet 2**/ 
+    $F3_Respon->getColumnDimension('A')->setWidth(2);
+    $F3_Respon->getColumnDimension('B')->setWidth(5);
+    $F3_Respon->getColumnDimension('C')->setWidth(44);
+    $F3_Respon->getColumnDimension('D')->setWidth(6);
+    $F3_Respon->getColumnDimension('E')->setWidth(6);
+    $F3_Respon->getColumnDimension('F')->setWidth(35);
+    $F3_Respon->getColumnDimension('G')->setWidth(26);
+    $F3_Respon->getColumnDimension('H')->setWidth(12);
+    $F3_Respon->getColumnDimension('I')->setWidth(22);
+    $F3_Respon->getColumnDimension('J')->setWidth(15);
+/** End Lebar Coloumn **/
+
+/** Menambahkan file gambar pada document excel pada kolom D4 **/
+$objDrawing = new PHPExcel_Worksheet_Drawing();
+$objDrawing->setPath('asset/images/logo_ks/KS_old.png');
+$objDrawing->setCoordinates('E1');
+$objDrawing->setWorksheet($F3_Respon);                
+                
+/** Header **/         
+    
+    
+    $F3_Respon ->setCellValue('A5', 'VI. PROFIL DAN PENGENDALIAN RISIKO')
+                      ->setCellValue('B7', '4.3 Daftar Respon Risiko')    
+                      ->setCellValue('B9', 'Unit Kerja :'.$row_a['unitkerja'])
+                      ->setCellValue('B10', 'Periode: '.$this->session->userdata('tri'))
+                      ->mergeCells('B10:D10')
+                      ->setCellValue('E9', 'DAFTAR RESPON RESIKO')
+                      ->mergeCells('E9:G10')
+                      ->setCellValue('H9', 'Tujuan Pokok & Fungsi :')
+                      ->mergeCells('H9:J9')
+                      ->setCellValue('H10', $row_a['namapoksi'])
+                     ->mergeCells('H10:J10')
+                     
+                      ->setCellValue('B12', 'NO')
+                      ->setCellValue('C12', 'JENIS RISIKO')
+                      ->setCellValue('D12', 'Klasifikasi')
+                      ->mergeCells('D12:E12')
+                      ->setCellValue('F12', 'SUMBER RISIKO')
+                      ->setCellValue('G12', 'ALT. RESPON YG MEMUNGKINKAN')
+                      ->setCellValue('H12', 'ESTIMASI BIAYA (Rp)')
+                      ->setCellValue('I12', 'RESPON YG DIPILIH')
+                      ->setCellValue('J12', 'PIC');
+                      
+/** Format Cell **/                 
+    $F3_Respon ->getStyle('D9')->getFont()->setSize(14);
+    $F3_Respon ->getStyle('D9')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('A5')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('B7')->getFont()->setBold(true);
+    
+    
+    $F3_Respon ->getStyle('B9:D10')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('E9:G10')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('H9:J10')->applyFromArray($border_all);
+    
+    
+    $F3_Respon ->getStyle('B12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('C12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('D12:E12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('F12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('H12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('I12')->applyFromArray($border_all);
+    $F3_Respon ->getStyle('J12')->applyFromArray($border_all);
+
+    
+    $F3_Respon ->getStyle('E9:G10')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('B12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('C12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('D12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('E12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('F12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('H12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('I12')->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('J12')->applyFromArray($vertical_center);
+    
+    $F3_Respon ->getStyle('E9')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('B12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('C12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('D12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('F12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('G12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('H12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('I12')->getFont()->setBold(true);
+    $F3_Respon ->getStyle('J12')->getFont()->setBold(true);
+
+    $F3_Respon ->getRowDimension(8)->setRowHeight(5);
+    $F3_Respon ->getRowDimension(9)->setRowHeight(20);
+    $F3_Respon ->getRowDimension(10)->setRowHeight(40);
+    $F3_Respon ->getRowDimension(11)->setRowHeight(5);
+    
+    $F3_Respon->getStyle('H10')->getAlignment()->setWrapText(true);    
+    $F3_Respon->getStyle('G12')->getAlignment()->setWrapText(true);
+    $F3_Respon->getStyle('H12')->getAlignment()->setWrapText(true);
+    $F3_Respon->getStyle('I12')->getAlignment()->setWrapText(true);
+    $F3_Respon ->getStyle('B10')->applyFromArray($vertical_top);
+    $F3_Respon ->getStyle('H9')->applyFromArray($vertical_top);
+
+/** end cell **/
+    
+    $data = $this->model_eksport_xls->getJenisResikoDanProfil($row_a['idAktifitas'],$tgl);   
+    
+    $no = 0;
+    $brs = 13;
+    
+    foreach($data->result() as $row)
+    {
+        $no++;
+        
+        $F3_Respon ->setCellValue('B'.$brs, $no);    
+        $F3_Respon ->setCellValue('C'.$brs, $row->jenisresiko);
+        
+        $F3_Respon->getStyle('C'.$brs)->getAlignment()->setWrapText(true);
+        
+        $F3_Respon ->getStyle('B'.$brs)->applyFromArray($vertical_top);
+        $F3_Respon ->getStyle('C'.$brs)->applyFromArray($vertical_top);
+        $F3_Respon ->getStyle('D'.$brs)->applyFromArray($vertical_top);
+        
+        
+        /** Looping Sumber Resiko **/
+        $data2 = $this->model_eksport_xls->getSumberResiko($row->koderesiko);
+        $j = $brs;
+        
+        foreach($data2->result() as $row2)
+        {
+            $F3_Respon ->setCellValue('F'.$j, $row2->sumberresiko);
+            $F3_Respon->getStyle('F'.$j)->getAlignment()->setWrapText(true);
+            $F3_Respon ->getStyle('F'.$j)->applyFromArray($vertical_top);
+            $F3_Respon ->getStyle('F'.$j)->applyFromArray($border_all);
+            
+            
+            
+            /** Looping Alternetif Respon **/
+            
+            $data3 = $this->model_eksport_xls->getAlternatifRespon($row2->kodesumberresiko);
+            $l = $j;
+            foreach($data3->result() as $row3)
+            {
+                $F3_Respon ->setCellValue('G'.$l, $row3->alternatif);
+                $F3_Respon->getStyle('G'.$l)->getAlignment()->setWrapText(true);
+                
+                $F3_Respon ->setCellValue('H'.$l, $row3->estimasi);
+                $F3_Respon->getStyle('H'.$l)->getAlignment()->setWrapText(true);
+                
+                $F3_Respon ->setCellValue('I'.$l, $row3->respon);
+                $F3_Respon->getStyle('I'.$l)->getAlignment()->setWrapText(true);
+                
+                $F3_Respon ->setCellValue('J'.$l, $row3->nik);
+                $F3_Respon->getStyle('J'.$l)->getAlignment()->setWrapText(true);
+                
+                $l++;
+            }
+            $F3_Respon ->getStyle('G'.$j)->applyFromArray($border_all);
+            $F3_Respon ->getStyle('H'.$j)->applyFromArray($border_all);
+            $F3_Respon ->getStyle('I'.$j)->applyFromArray($border_all);
+            $F3_Respon ->getStyle('J'.$j)->applyFromArray($border_all);
+            
+            $j++;    
+        }
+        
+        $F3_Respon ->setCellValue('D'.$brs, $row->profilresiko)
+                    ->mergeCells('D'.$brs.':E'.$j);
+                    
+        $F3_Respon ->getStyle('B'.$brs.':B'.$j)->applyFromArray($border_all);
+        $F3_Respon ->getStyle('C'.$brs.':C'.$j)->applyFromArray($border_all);
+        $F3_Respon ->getStyle('D'.$brs.':E'.$j)->applyFromArray($border_all);
+        $F3_Respon ->getStyle('G'.$brs.':J'.$j)->applyFromArray($border_all);
+        
+    
+        $brs=$j+1;    
+    }        
+    $k =$brs+1;         
+    $x = $brs+4;
+    $y = $x+1;
+    
+    $F3_Respon ->setCellValue('B'.$k, 'Catatan :')
+                      ->mergeCells('B'.$k.':E'.$y)
+                      ->setCellValue('F'.$k, 'MANAJEMEN RESIKO')
+                      
+                     ->setCellValue('G'.$k, 'Key Person')
+                         
+                     ->setCellValue('H'.$k, 'Unit Kerja: '.$row_a['unitkerja'])
+                     ->mergeCells('H'.$k.':J'.$k)
+                     
+                     ->setCellValue('F'.$x, $pejabatGCG['fullname'])  #$unit_pengelola['fullname']
+                     ->setCellValue('G'.$x,$row_a['fullname'])
+                     ->setCellValue('H'.$x,$row_a['pejabat'])
+                     ->mergeCells('H'.$x.':J'.$x)
+                     
+                     ->setCellValue('F'.$y,'Tanggal :')
+                     ->setCellValue('G'.$y,'Tanggal :')
+                     ->setCellValue('H'.$y,'Tanggal :')
+                     ->mergeCells('H'.$y.':J'.$y)
+                     ;
+    
+    $F3_Respon ->getRowDimension($brs)->setRowHeight(5);
+    
+    $F3_Respon ->getStyle('B'.$k.':E'.$y)->applyFromArray($border_all);
+    $F3_Respon ->getStyle('F'.$k.':F'.$y)->applyFromArray($border_all);
+    $F3_Respon ->getStyle('G'.$k.':G'.$y)->applyFromArray($border_all);
+    $F3_Respon ->getStyle('H'.$k.':J'.$y)->applyFromArray($border_all);
+    
+    $F3_Respon ->getStyle('F'.$y)->applyFromArray($border_all);
+    $F3_Respon ->getStyle('G'.$y)->applyFromArray($border_all);
+    $F3_Respon ->getStyle('H'.$y.':J'.$y)->applyFromArray($border_all);
+    
+    $F3_Respon ->getStyle('B'.$k)->applyFromArray($vertical_top);
+    $F3_Respon ->getStyle('F'.$k)->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('G'.$k)->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('H'.$k)->applyFromArray($vertical_center);
+    
+    $F3_Respon ->getStyle('F'.$x)->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('G'.$x)->applyFromArray($vertical_center);
+    $F3_Respon ->getStyle('H'.$x)->applyFromArray($vertical_center);
+    
+    $objPHPExcel->getActiveSheet()->setTitle('F3_Respon');
+    
+    if($this->session->userdata('group_id')==4)
+    {
+        $objPHPExcel->getActiveSheet()->protectCells('A1:J'.$y,$idUnit);
+        $objPHPExcel->getActiveSheet()->getProtection()->setSheet(true);
+    }
+    
+/** *********************************************** End Sheet 3 **********************************************/
+
+/** *********************************************** Sheet ke 4 *******************************************/    
+    $objPHPExcel->createSheet();
+    
+    $F4_RencanaTL = $objPHPExcel->setActiveSheetIndex(3);
+     
+            /** Atur Lebar Coloumn Sheet 4**/ 
+    $F4_RencanaTL->getColumnDimension('A')->setWidth(2);
+    $F4_RencanaTL->getColumnDimension('B')->setWidth(5);
+    $F4_RencanaTL->getColumnDimension('C')->setWidth(44);
+    $F4_RencanaTL->getColumnDimension('D')->setWidth(15);
+    $F4_RencanaTL->getColumnDimension('E')->setWidth(24);
+    $F4_RencanaTL->getColumnDimension('F')->setWidth(17);
+    $F4_RencanaTL->getColumnDimension('G')->setWidth(17);
+    $F4_RencanaTL->getColumnDimension('H')->setWidth(20);
+    $F4_RencanaTL->getColumnDimension('I')->setWidth(12);
+    $F4_RencanaTL->getColumnDimension('J')->setWidth(15);
+/** End Lebar Coloumn **/
+
+/** Menambahkan file gambar pada document excel pada kolom E1 **/
+$objDrawing = new PHPExcel_Worksheet_Drawing();
+$objDrawing->setPath('asset/images/logo_ks/KS_old.png');
+$objDrawing->setCoordinates('E1');
+$objDrawing->setWorksheet($F4_RencanaTL);                
+                
+/** Header **/         
+    
+    
+    $F4_RencanaTL ->setCellValue('A5', 'VI. PROFIL DAN PENGENDALIAN RISIKO')
+    
+                      ->setCellValue('B7', '4.4 Rencana Tindak Lanjut')    
+                      ->setCellValue('B9', 'Unit Kerja :'.$row_a['unitkerja'])
+                      ->setCellValue('B10', 'Periode: '.$this->session->userdata('tri'))
+                      ->mergeCells('B10:C10')
+                      ->setCellValue('D9', 'DAFTAR RENCANA TINDAK LANJUT')
+                      ->mergeCells('D9:F10')
+                      ->setCellValue('G9', 'Tujuan Pokok & Fungsi :')
+                      ->mergeCells('G9:J9')
+                      ->setCellValue('G10', $row_a['namapoksi'])
+                     ->mergeCells('G10:J10')
+                     
+                      ->setCellValue('B12', 'NO')
+                      ->setCellValue('C12', 'JENIS RISIKO')
+                      ->setCellValue('D12', 'Klasifikasi Resiko')
+                      ->setCellValue('E12', 'RESPON TERPILIH')
+                      ->setCellValue('F12', 'STATUS RISIKO (HASIL MONITORING)')
+                      ->setCellValue('G12', 'KELEMAHAN')
+                      ->setCellValue('H12', 'RENCANA      T. LANJUT')
+                      ->setCellValue('I12', 'TARGET')
+                      ->setCellValue('J12', 'PIC');
+                      
+/** Format Cell Header **/                 
+    $F4_RencanaTL ->getStyle('D9')->getFont()->setSize(14);
+    $F4_RencanaTL ->getStyle('D9')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('A5')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('B7')->getFont()->setBold(true);
+    
+    $F4_RencanaTL ->getStyle('B9:C10')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('D9:F10')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('G9:J10')->applyFromArray($border_all);
+    
+    $F4_RencanaTL ->getStyle('B12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('C12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('D12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('E12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('F12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('H12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('I12')->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('J12')->applyFromArray($border_all);
+    
+    $F4_RencanaTL ->getStyle('D9:F10')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('B12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('C12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('D12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('E12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('F12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('G12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('H12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('I12')->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('J12')->applyFromArray($vertical_center);
+    
+    $F4_RencanaTL ->getStyle('E9')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('B12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('C12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('D12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('E12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('F12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('G12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('H12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('I12')->getFont()->setBold(true);
+    $F4_RencanaTL ->getStyle('J12')->getFont()->setBold(true);
+
+    $F4_RencanaTL ->getRowDimension(8)->setRowHeight(5);
+    $F4_RencanaTL ->getRowDimension(9)->setRowHeight(20);
+    $F4_RencanaTL ->getRowDimension(10)->setRowHeight(40);
+    $F4_RencanaTL ->getRowDimension(11)->setRowHeight(5);
+    
+    $F4_RencanaTL->getStyle('G10')->getAlignment()->setWrapText(true);    
+    $F4_RencanaTL->getStyle('F12')->getAlignment()->setWrapText(true);
+    $F4_RencanaTL->getStyle('G12')->getAlignment()->setWrapText(true);
+    $F4_RencanaTL->getStyle('H12')->getAlignment()->setWrapText(true);
+    $F4_RencanaTL->getStyle('I12')->getAlignment()->setWrapText(true);
+    
+    
+    $F4_RencanaTL ->getStyle('B10')->applyFromArray($vertical_top);
+    $F4_RencanaTL ->getStyle('G9')->applyFromArray($vertical_top);
+    $F4_RencanaTL ->getStyle('G10')->applyFromArray($vertical_top);
+
+/** end cell Header**/
+    
+    $data = $this->model_eksport_xls->getJenisResikoDanProfil($row_a['idAktifitas'],$tgl);   
+    
+    $no = 0;
+    $brs = 13;
+    
+    foreach($data->result() as $row)
+    {
+        $no++;
+        
+        $F4_RencanaTL ->setCellValue('B'.$brs, $no);    
+        $F4_RencanaTL ->setCellValue('C'.$brs, $row->jenisresiko);
+        
+        $F4_RencanaTL->getStyle('C'.$brs)->getAlignment()->setWrapText(true);
+        
+        $F4_RencanaTL ->getStyle('B'.$brs)->applyFromArray($vertical_top);
+        $F4_RencanaTL ->getStyle('C'.$brs)->applyFromArray($vertical_top);
+        
+        /** Looping Sumber Resiko Join Alternatif **/
+        $data2 = $this->model_eksport_xls->getSumberResikoAlternatif($row->koderesiko);
+        $j = $brs;
+        
+        foreach($data2->result() as $row2)
+        {
+            $F4_RencanaTL ->setCellValue('E'.$j, $row2->respon);
+            
+            $F4_RencanaTL->getStyle('E'.$j)->getAlignment()->setWrapText(true);
+            $F4_RencanaTL ->getStyle('E'.$j)->applyFromArray($vertical_top);
+            $F4_RencanaTL ->getStyle('E'.$j)->applyFromArray($border_all);
+            
+            $F4_RencanaTL ->setCellValue('G'.$j, $row2->kelemahan);
+            
+            $F4_RencanaTL->getStyle('G'.$j)->getAlignment()->setWrapText(true);
+            $F4_RencanaTL ->getStyle('G'.$j)->applyFromArray($vertical_top);
+            $F4_RencanaTL ->getStyle('G'.$j)->applyFromArray($border_all);
+            
+            /** Looping Rencana Tindak Lanjut **/
+            
+            $data3 = $this->model_eksport_xls->getRencanaTL($row2->kodealternatif);
+            $l = $j;
+            if($data3->num_rows()>0){
+               foreach($data3->result() as $row3)
+                {
+    
+                    $F4_RencanaTL ->setCellValue('F'.$l, $row3->status);
+                    $F4_RencanaTL->getStyle('F'.$l)->getAlignment()->setWrapText(true);
+                    $F4_RencanaTL ->getStyle('F'.$j)->applyFromArray($vertical_top);
+                    
+                    $F4_RencanaTL ->setCellValue('H'.$l, $row3->rencana);
+                    $F4_RencanaTL->getStyle('H'.$l)->getAlignment()->setWrapText(true);
+                    $F4_RencanaTL ->getStyle('H'.$j)->applyFromArray($vertical_top);
+                    
+                    $F4_RencanaTL ->setCellValue('I'.$l, $row3->target);
+                    $F4_RencanaTL->getStyle('I'.$l)->getAlignment()->setWrapText(true);
+                    $F4_RencanaTL ->getStyle('I'.$j)->applyFromArray($vertical_top);
+                    
+                    $F4_RencanaTL ->setCellValue('J'.$l, $row3->nik);
+                    $F4_RencanaTL->getStyle('J'.$l)->getAlignment()->setWrapText(true);
+                    $F4_RencanaTL ->getStyle('J'.$j)->applyFromArray($vertical_top);
+                    
+                    $l++;
+                } 
+            }
+            
+            
+            $F4_RencanaTL ->getStyle('F'.$j)->applyFromArray($border_all);
+            $F4_RencanaTL ->getStyle('G'.$j)->applyFromArray($border_all);
+            $F4_RencanaTL ->getStyle('H'.$j)->applyFromArray($border_all);
+            $F4_RencanaTL ->getStyle('I'.$j)->applyFromArray($border_all);
+            $F4_RencanaTL ->getStyle('J'.$j)->applyFromArray($border_all);
+            
+            $j++;    
+        }
+        $m = $j-1;
+        $F4_RencanaTL ->setCellValue('D'.$brs, $row->profilresiko);
+//                        ->mergeCells('D'.$brs.':D'.$m);
+        $F4_RencanaTL ->getStyle('E'.$m)->applyFromArray($border_all);                        
+        $F4_RencanaTL ->getStyle('F'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('G'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('H'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('I'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('J'.$m)->applyFromArray($border_all);                        
+                    
+        $F4_RencanaTL ->getStyle('B'.$brs.':B'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('C'.$brs.':C'.$m)->applyFromArray($border_all);
+        $F4_RencanaTL ->getStyle('D'.$brs)->applyFromArray($border_all);
+        
+        $F4_RencanaTL ->getStyle('D'.$brs)->applyFromArray($vertical_top);
+        
+    
+        $brs=$j;    
+    }        
+    $k =$brs+1;         
+    $x = $brs+4;
+    $y = $x+1;
+    
+    $F4_RencanaTL ->setCellValue('B'.$k, 'Catatan :')
+                      ->mergeCells('B'.$k.':D'.$y)
+                      ->setCellValue('E'.$k, 'MANAJEMEN RESIKO')
+                      ->mergeCells('E'.$k.':F'.$k)
+                      
+                     ->setCellValue('G'.$k, 'Key Person')
+                         
+                     ->setCellValue('H'.$k, 'Unit Kerja: '.$row_a['unitkerja'])
+                     ->mergeCells('H'.$k.':J'.$k)
+                     
+                     ->setCellValue('E'.$x, $pejabatGCG['fullname'])  #$unit_pengelola['fullname']
+                     ->mergeCells('E'.$x.':F'.$x)
+                     
+                     ->setCellValue('G'.$x,$row_a['fullname'])
+                     ->setCellValue('H'.$x,$row_a['pejabat'])
+                     ->mergeCells('H'.$x.':J'.$x)
+                     
+                     ->setCellValue('E'.$y,'Tanggal :')
+                     ->mergeCells('E'.$y.':F'.$y)
+                     ->setCellValue('G'.$y,'Tanggal :')
+                     ->setCellValue('H'.$y,'Tanggal :')
+                     ->mergeCells('H'.$y.':J'.$y)
+                     ;
+    
+    $F4_RencanaTL ->getRowDimension($brs)->setRowHeight(5);
+    
+    $F4_RencanaTL ->getStyle('B'.$k.':D'.$y)->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('E'.$k.':F'.$y)->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('G'.$k.':G'.$y)->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('H'.$k.':J'.$y)->applyFromArray($border_all);
+    
+    $F4_RencanaTL ->getStyle('E'.$y.":F".$y)->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('G'.$y)->applyFromArray($border_all);
+    $F4_RencanaTL ->getStyle('H'.$y.':J'.$y)->applyFromArray($border_all);
+    
+    $F4_RencanaTL ->getStyle('B'.$k)->applyFromArray($vertical_top);
+    $F4_RencanaTL ->getStyle('E'.$k)->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('G'.$k)->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('H'.$k)->applyFromArray($vertical_center);
+    
+    $F4_RencanaTL ->getStyle('E'.$x)->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('G'.$x)->applyFromArray($vertical_center);
+    $F4_RencanaTL ->getStyle('H'.$x)->applyFromArray($vertical_center); 
+        
+     
+    $objPHPExcel->getActiveSheet()->setTitle('F4_RencanaTL');
+    
+    if($this->session->userdata('group_id')==4)
+    {
+        $objPHPExcel->getActiveSheet()->protectCells('A1:J'.$y,$idUnit);
+        $objPHPExcel->getActiveSheet()->getProtection()->setSheet(true);
+    }
+
+/** End Sheet 4 **/
+
