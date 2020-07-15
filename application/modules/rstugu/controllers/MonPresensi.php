@@ -39,6 +39,16 @@ class MonPresensi extends CI_Controller {
         
     }
 	
+	function dashboard(){
+		$now = date("Y-m-d");
+		$thn = substr($now,0,4);
+		$bln = substr($now,5,2);
+		$waktu = $thn.''.$bln;
+		//print_r($waktu);exit;
+		$data = $this->MonPresensi_model->dashboard($waktu);
+		$this->output->set_content_type('application/json')->set_output(json_encode($data));
+	}
+	
 	function get_hirarki_pegawai(){
 		$nip = $this->input->get_request_header('X-nip', TRUE);
 		$data = $this->MonPresensi_model->get_hirarki_pegawai($nip);
@@ -251,7 +261,7 @@ class MonPresensi extends CI_Controller {
 		$data = $this->MonPresensi_model->get_akses_menu($tipe);
 		$this->output->set_content_type('application/json')->set_output(json_encode($data));
 	}	
-	
+
 	function get_auth_menu(){
 		$menu = $this->input->get_request_header('X-menu', TRUE);
 		$tipe = $this->input->get_request_header('X-tipe', TRUE);
@@ -306,4 +316,47 @@ class MonPresensi extends CI_Controller {
 			$this->output->set_content_type('application/json')->set_output(json_encode($response));
 		}
 	}
+	
+	function get_akses_menu_by_role(){
+		$tipe = $this->input->get_request_header('X-tipe', TRUE);
+		$data = $this->MonPresensi_model->get_akses_menu_by_role($tipe);
+		$this->output->set_content_type('application/json')->set_output(json_encode($data));
+	}
+	
+	function ubah_akses_menu(){
+		if($_SERVER['REQUEST_METHOD'] == 'POST'){
+			$headers['Authorization'] = $this->input->post('private_key');
+			if($headers['Authorization'] != null ){
+				$decodedToken = AUTHORIZATION::TimeExpiredToken($headers['Authorization']);
+					if($decodedToken != FALSE){
+						$menu = urldecode($this->input->post('menu'));
+						$tipe = urldecode($this->input->post('tipe'));
+						$jam = urldecode($this->input->post('jam'));
+						$komp = urldecode($this->input->post('komp'));
+						
+						$data = $this->MonPresensi_model->ubah_akses_menu($menu, $tipe, $komp, $jam);
+						
+						$this->output->set_content_type('application/json')->set_output(json_encode($data));	
+					}else{
+						$response = array('message' => 'Expired token', 
+										  'status' => false, 
+										  'code'=>403);
+						$this->output->set_content_type('application/json')->set_output(json_encode($response));
+					}
+			}else{
+				$response = array('status' => false, 
+								  'message' => 'Unauthorised',
+								  'code' => 403 
+								  );
+				$this->output->set_content_type('application/json')->set_output(json_encode($response));
+			}	
+		} else {
+			$response = array('status' => false,
+							  'message' => 'method not allowed',
+							  'code' => 503
+			);
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
+		}
+	}
+	
 }

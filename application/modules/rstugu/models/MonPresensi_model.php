@@ -2,6 +2,11 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class MonPresensi_model extends CI_Model {
+	function dashboard($waktu){
+		$data = $this->db->query('EXEC SP_ABSENOL_DASHBOARD @PERIODE="'.$waktu.'"')->result();
+		return $data;
+	}
+	
 	function get_hirarki_pegawai($nip){
 		$data = $this->db->query('EXEC SP_ABSENOL_HIRARKIPEGAWAI @NIPATASAN="'.$nip.'"')->result();
 		return $data;
@@ -91,6 +96,27 @@ class MonPresensi_model extends CI_Model {
 		$sp_post = "EXEC SP_ABSENOL_INSMENU ?,?,?,?,?";
        
 		$simpan = $this->db->query($sp_post,array('TITLE' => $judul, 'CONTROLLER' => $controller, 'URL' => $url, 'ICON' => $icon, 'ACTIVE' => $active));
+		
+		return $simpan->result();
+	}
+	
+	function get_akses_menu_by_role($tipe){
+		$data = $this->db->query("SELECT * FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."'")-> result();
+		
+		return $data;
+	}
+	function ubah_akses_menu($menu, $tipe, $komp, $jam){
+		$cek = $this->db->query("SELECT count(ID_ACCESS) as jum FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."' AND MENU='".$menu."'")->result();
+		//print_r($cek);exit;
+		if(empty($cek)){
+			$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
+		}else{
+			$cek = $this->db->query("DELETE FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."' AND MENU='".$menu."'");
+			$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
+		}
+		//$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
+       
+		$simpan = $this->db->query($sp_post,array('role' => $tipe, 'menu' => $menu, 'komp' => $komp, 'time' => $jam));
 		
 		return $simpan->result();
 	}
