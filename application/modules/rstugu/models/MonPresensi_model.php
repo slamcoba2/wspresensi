@@ -43,8 +43,23 @@ class MonPresensi_model extends CI_Model {
 		return $data;
 	}
 	
+	function get_lokasi(){
+		$data = $this->db->query("SELECT * FROM BAGIAN") ->result();
+		return $data;
+	}
+	
 	function get_absen_by_bulannip($nip,$bln){
 		$data = $this->db->query('EXEC SP_ABSENOL_PRESENSI @PERIODE="'.$bln.'",  @NIP="'.$nip.'"')->result();
+		return $data;
+	}
+	
+	function get_pegawai_by_lokasi($bag){
+		$data = $this->db->query("SELECT * FROM PEGAWAI2 WHERE KD_LOK_KERJA = '".$bag."' ORDER BY NAMA ASC")->result();
+		return $data;
+	}
+	
+	function get_absen_by_bulanbagian($bag,$bln){
+		$data = $this->db->query('EXEC SP_ABSENOL_PRESENSI_BY_LOKKER @KDLOKKER="'.$bag.'", @PERIODE="'.$bln.'"');
 		return $data;
 	}
 	
@@ -83,7 +98,7 @@ class MonPresensi_model extends CI_Model {
 	}
 	
 	function get_akses_menu($tipe){
-		$data = $this->db->query("SELECT * FROM ABSEN_USERSUBMENU JOIN ABSEN_AKSESMENU ON ABSEN_AKSESMENU.MENU=ABSEN_USERSUBMENU.ID WHERE ABSEN_AKSESMENU.ROLE_ID='".$tipe."' ORDER BY ABSEN_AKSESMENU.MENU ASC")->result();
+		$data = $this->db->query("SELECT * FROM ABSEN_USERSUBMENU JOIN ABSEN_AKSESMENU ON ABSEN_AKSESMENU.MENU=ABSEN_USERSUBMENU.ID WHERE ABSEN_AKSESMENU.ROLE_ID='".$tipe."' ORDER BY ABSEN_USERSUBMENU.CONTROLLER ASC")->result();
 		return $data;
 	}
 	
@@ -101,21 +116,20 @@ class MonPresensi_model extends CI_Model {
 	}
 	
 	function get_akses_menu_by_role($tipe){
-		$data = $this->db->query("SELECT * FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."'")-> result();
+		$data = $this->db->query("SELECT * FROM ABSEN_USERSUBMENU LEFT JOIN ABSEN_AKSESMENU ON ABSEN_USERSUBMENU.ID = ABSEN_AKSESMENU.MENU AND ABSEN_AKSESMENU.ROLE_ID='".$tipe."' WHERE ABSEN_USERSUBMENU.ID != 5")-> result();
 		
 		return $data;
 	}
+	
 	function ubah_akses_menu($menu, $tipe, $komp, $jam){
-		$cek = $this->db->query("SELECT count(ID_ACCESS) as jum FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."' AND MENU='".$menu."'")->result();
-		//print_r($cek);exit;
-		if(empty($cek)){
+		$cek = $this->db->query("SELECT * FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."' AND MENU='".$menu."'");
+		//print_r($cek->num_rows());exit;
+		if($cek->num_rows()<1){
 			$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
 		}else{
-			$cek = $this->db->query("DELETE FROM ABSEN_AKSESMENU WHERE ROLE_ID='".$tipe."' AND MENU='".$menu."'");
-			$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
+			$sp_post = "EXEC SP_ABSENOL_DELAKSESMENU ?,?,?,?";
 		}
-		//$sp_post = "EXEC SP_ABSENOL_INSAKSESMENU ?,?,?,?";
-       
+		       
 		$simpan = $this->db->query($sp_post,array('role' => $tipe, 'menu' => $menu, 'komp' => $komp, 'time' => $jam));
 		
 		return $simpan->result();
