@@ -7,6 +7,16 @@ class MonPresensi_model extends CI_Model {
 		return $data;
 	}
 	
+	function dashboard_pemakaian_apollo($bln,$thn){
+		$data = $this->db->query('EXEC SP_ABSENOL_PEMAKAIAN_APOLLO @BULAN="'.$bln.'", @TAHUN="'.$thn.'"')->result();
+		return $data;
+	}
+	
+	function dashboard_detail_pegawai_nonapollo($waktu,$status){
+		$data = $this->db->query('EXEC SP_ABSENOL_DASHBOARD_DTLNONAPOLLO @PERIODE="'.$waktu.'", @STSPEG="'.$status.'"')->result();
+		return $data;
+	}
+	
 	function get_hirarki_pegawai($nip){
 		$data = $this->db->query('EXEC SP_ABSENOL_HIRARKIPEGAWAI @NIPATASAN="'.$nip.'"')->result();
 		return $data;

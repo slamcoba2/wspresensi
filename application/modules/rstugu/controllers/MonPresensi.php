@@ -49,6 +49,35 @@ class MonPresensi extends CI_Controller {
 		$this->output->set_content_type('application/json')->set_output(json_encode($data));
 	}
 	
+	function dashboard_pemakaian_apollo(){
+		$bln = $this->input->get_request_header('X-bln', TRUE);
+		$thn = $this->input->get_request_header('X-thn', TRUE);
+		$data = $this->MonPresensi_model->dashboard_pemakaian_apollo($bln,$thn);
+		if(empty($data)){
+			$response = array('message' => 'Data tidak ditemukan', 
+							'status' 	=> false, 
+							'code'		=> 404);
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
+		}else{
+			$response = array('message' => 'Data ditemukan', 
+							'status' 	=> TRUE, 
+							'code'		=> 200,
+							'data'		=> $data);
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
+		}
+		//$this->output->set_content_type('application/json')->set_output(json_encode($data));
+	}
+	
+	function dashboard_detail_pegawai_nonapollo(){
+		$now = date("Y-m-d");
+		$thn = substr($now,0,4);
+		$bln = substr($now,5,2);
+		$waktu = $thn.''.$bln;
+		$status = $this->input->get_request_header('X-status', TRUE);
+		$data = $this->MonPresensi_model->dashboard_detail_pegawai_nonapollo($waktu,$status);
+		$this->output->set_content_type('application/json')->set_output(json_encode($data));
+	}
+	
 	function get_hirarki_pegawai(){
 		$nip = $this->input->get_request_header('X-nip', TRUE);
 		$data = $this->MonPresensi_model->get_hirarki_pegawai($nip);
@@ -224,7 +253,7 @@ class MonPresensi extends CI_Controller {
 		}
 	}
 	
-	function get_pegawai_by_lokasi(){
+	/*function get_pegawai_by_lokasi(){
 		$bag = $this->input->get_request_header('X-bag', TRUE);
 		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
 		foreach($data as  $result){
@@ -246,10 +275,9 @@ class MonPresensi extends CI_Controller {
 							'data'		=> $response);
 			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 		}
-	}
+	}*/
 	
 	function get_pegawai_by_bagian($bag){
-		//$bag = $this->input->get_request_header('X-bag', TRUE);
 		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
 		foreach($data as  $result){
 			$response[] = array(
@@ -257,6 +285,7 @@ class MonPresensi extends CI_Controller {
 				'NAMA' => $result->NAMA,			
 				'BAG' => $result->KD_LOK_KERJA			
 			);
+			//print_r($response[0]['NIP']);exit;
 		}
 		if(empty($response)){
 			$dataa = array('message' => 'Data Tidak Ditemukan', 
@@ -264,11 +293,54 @@ class MonPresensi extends CI_Controller {
 							'code'		=> 404);
 			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 		}else{
-			$dataa = array('message' => 'Data Ditemukan', 
+			/*$dataa = array('message' => 'Data Ditemukan', 
 							'status' 	=> TRUE, 
 							'code'		=> 200,
-							'data'		=> $response);
+							'data'		=> $response);*/
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
+		}
+	}
+	
+	function get_presensi_excel($nip,$bln){
+		$data = $this->MonPresensi_model->get_absen_by_bulannip($nip,$bln);
+		foreach($data as  $result){
+			$response[] = array(
+				'NIP' => $result->NIP,
+				'NAMA' => $result->NAMA,
+				'TANGGAL' => date_format(date_create($result->TANGGAL),"Y-m-d H:i:s"),
+				'KEGIATAN' => $result->KEGIATAN,
+				'CHECKIN' => $result->CHECKIN,				
+				'CHECKOUT' => $result->CHECKOUT,				
+				'MASUK' => $result->MASUK,				
+				'PULANG' => $result->PULANG,				
+				'DURASI' => $result->DURASI,				
+				'TERLAMBAT' => $result->TERLAMBAT,				
+				'PULANGCEPAT' => $result->PULANGCEPAT,				
+				'LEMBUR' => $result->LEMBUR,				
+				'TOTDURASI' => $result->TOTDURASI,				
+				'TOTTERLAMBAT' => $result->TOTTERLAMBAT,				
+				'TOTPULANGCEPAT' => $result->TOTPULANGCEPAT,				
+				'TOTLEMBUR' => $result->TOTLEMBUR,				
+				'KET' => $result->KET			
+			);
+			
+		}
+		if(empty($response)){
+			$dataa = array('message' => 'Data Tidak Ditemukan', 
+							'status' 	=> false, 
+							'code'		=> 404);
 			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}else if($response[0]['TOTDURASI']==''){
+			$dataa = array('message' => 'Data Tidak Ditemukan', 
+							'status' 	=> false, 
+							'code'		=> 404);
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}else{
+			/*$dataa = array('message' => 'Data Ditemukan', 
+							'status' 	=> TRUE, 
+							'code'		=> 200,
+							'data'		=> $response);*/
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
 		}
 	}
 	
