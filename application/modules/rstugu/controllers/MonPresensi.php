@@ -53,20 +53,15 @@ class MonPresensi extends CI_Controller {
 		$bln = $this->input->get_request_header('X-bln', TRUE);
 		$thn = $this->input->get_request_header('X-thn', TRUE);
 		$data = $this->MonPresensi_model->dashboard_pemakaian_apollo($bln,$thn);
-		if(empty($data)){
-			$response = array('message' => 'Data tidak ditemukan', 
-							'status' 	=> false, 
-							'code'		=> 404);
-			$this->output->set_content_type('application/json')->set_output(json_encode($response));
-		}else{
-			$response = array('message' => 'Data ditemukan', 
-							'status' 	=> TRUE, 
-							'code'		=> 200,
-							'data'		=> $data);
-			$this->output->set_content_type('application/json')->set_output(json_encode($response));
-		}
-		//$this->output->set_content_type('application/json')->set_output(json_encode($data));
+		$this->output->set_content_type('application/json')->set_output(json_encode($data));
 	}
+	
+	function excel_detail_pegawai_nonapollo($waktu,$status){
+		//$status = $this->input->get_request_header('X-status', TRUE);
+		$data = $this->MonPresensi_model->dashboard_detail_pegawai_nonapollo($waktu,$status);
+		$this->output->set_content_type('application/json')->set_output(json_encode($data));
+	}
+	
 	
 	function dashboard_detail_pegawai_nonapollo(){
 		$now = date("Y-m-d");
@@ -105,7 +100,8 @@ class MonPresensi extends CI_Controller {
 			'CHECKIN' => date_format(date_create($result->CHECKIN),"Y-m-d H:i:s"),
 			'CHECKOUT' => date_format(date_create($result->CHECKOUT),"Y-m-d H:i:s"),
 			'STATUS' => $result->STATUS,
-			'DURASI' => $result->DURATION				
+			'DURASI' => $result->DURATION,
+			'NOTE' => $result->NOTE
 		);
 		$this->output->set_content_type('application/json')->set_output(json_encode($response));
 	}
@@ -217,7 +213,6 @@ class MonPresensi extends CI_Controller {
 				'NIP' => $result->NIP,
 				'NAMA' => $result->NAMA,
 				'TANGGAL' => date_format(date_create($result->TANGGAL),"Y-m-d H:i:s"),
-				//'TANGGAL' => $result->TANGGAL,
 				'KEGIATAN' => $result->KEGIATAN,
 				'CHECKIN' => $result->CHECKIN,				
 				'CHECKOUT' => $result->CHECKOUT,				
@@ -238,45 +233,20 @@ class MonPresensi extends CI_Controller {
 			$dataa = array('message' => 'Data Tidak Ditemukan', 
 							'status' 	=> false, 
 							'code'		=> 404);
-			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 		}else if($response[0]['TOTDURASI']==''){
 			$dataa = array('message' => 'Data Tidak Ditemukan', 
 							'status' 	=> false, 
 							'code'		=> 404);
-			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 		}else{
 			$dataa = array('message' => 'Data Ditemukan', 
 							'status' 	=> TRUE, 
 							'code'		=> 200,
 							'data'		=> $response);
-			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 		}
+		
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 	}
-	
-	/*function get_pegawai_by_lokasi(){
-		$bag = $this->input->get_request_header('X-bag', TRUE);
-		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
-		foreach($data as  $result){
-			$response[] = array(
-				'NIP' => trim($result->NIP2),
-				'NAMA' => $result->NAMA,			
-				'BAG' => $result->KD_LOK_KERJA			
-			);
-		}
-		if(empty($response)){
-			$dataa = array('message' => 'Data Tidak Ditemukan', 
-							'status' 	=> false, 
-							'code'		=> 404);
-			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
-		}else{
-			$dataa = array('message' => 'Data Ditemukan', 
-							'status' 	=> TRUE, 
-							'code'		=> 200,
-							'data'		=> $response);
-			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
-		}
-	}*/
-	
+		
 	function get_pegawai_by_bagian($bag){
 		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
 		foreach($data as  $result){
@@ -285,7 +255,6 @@ class MonPresensi extends CI_Controller {
 				'NAMA' => $result->NAMA,			
 				'BAG' => $result->KD_LOK_KERJA			
 			);
-			//print_r($response[0]['NIP']);exit;
 		}
 		if(empty($response)){
 			$dataa = array('message' => 'Data Tidak Ditemukan', 
