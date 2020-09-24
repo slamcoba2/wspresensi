@@ -1,7 +1,14 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class MonPresensi_model extends CI_Model {
+	function __construct()
+    {
+        parent::__construct();
+		$this->db2 = $this->load->database('db2', TRUE);
+
+    } 
+	
 	function dashboard($waktu){
 		$data = $this->db->query('EXEC SP_ABSENOL_DASHBOARD @PERIODE="'.$waktu.'"')->result();
 		return $data;
@@ -22,6 +29,11 @@ class MonPresensi_model extends CI_Model {
 		return $data;
 	}
 	
+	function get_list_pegawai($bag){
+		$data = $this->db->query("SELECT a.NIP2, a.NAMA, a.KD_LOK_KERJA, b.NAMABAGIAN FROM PEGAWAI2 a JOIN BAGIAN b ON a.KD_LOK_KERJA=b.KODEBAGIAN WHERE a.KD_LOK_KERJA IN (".$bag.")  ORDER BY a.KD_LOK_KERJA ASC, a.NIP2 ASC")->result();
+		return $data;
+	}
+	
 	function get_jadwal(){
 		$data = $this->db->query('SELECT * FROM JNSWKTKRJ')->result();
 		return $data;
@@ -32,7 +44,7 @@ class MonPresensi_model extends CI_Model {
 		return $data;
 	}
 	
-	function simpan_jadwal($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout,$durasi, $USER_INPUT, $JAM_INPUT, $KOMP_INPUT){
+	function simpan_waktu_kerja($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout,$durasi, $USER_INPUT, $JAM_INPUT, $KOMP_INPUT){
 		$sp_post = "EXEC SP_ABSENOL_INSJNSWKTKRJ ?,?,?,?,?,?,?,?";
        
 		$simpan = $this->db->query($sp_post,array('IDWKTKERJA' => $JNS_SHIFT, 'KETJNSWKTKERJA' => $KET_SHIFT, 'CHECKIN' => $checkin, 'CHECKOUT' => $checkout, 'DURASI' => $durasi, 'USERINPUT' => $USER_INPUT, 'TGLINPUT' => $JAM_INPUT, 'KOMPINPUT' => $KOMP_INPUT));
@@ -40,7 +52,7 @@ class MonPresensi_model extends CI_Model {
 		return $simpan->result();
 	}
 	
-	function ubah_jadwal($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout,$durasi, $USER_UBAH, $JAM_UBAH, $KOMP_UBAH){
+	function ubah_waktu_kerja($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout,$durasi, $USER_UBAH, $JAM_UBAH, $KOMP_UBAH){
 		$sp_post = "EXEC SP_ABSENOL_UPDJNSWKTKRJ ?,?,?,?,?,?,?,?";
        
 		$ubah = $this->db->query($sp_post,array('IDWKTKERJA' => $JNS_SHIFT, 'KETJNSWKTKERJA' => $KET_SHIFT, 'CHECKIN' => $checkin, 'CHECKOUT' => $checkout, 'DURASI' => $durasi, 'USEREDIT' => $USER_UBAH, 'TGLEDIT' => $JAM_UBAH, 'KOMPEDIT' => $KOMP_UBAH));
@@ -121,6 +133,14 @@ class MonPresensi_model extends CI_Model {
 		$sp_post = "EXEC SP_ABSENOL_INSMENU ?,?,?,?,?";
        
 		$simpan = $this->db->query($sp_post,array('TITLE' => $judul, 'CONTROLLER' => $controller, 'URL' => $url, 'ICON' => $icon, 'ACTIVE' => $active));
+		
+		return $simpan->result();
+	}
+	
+	function ubah_menu($id, $judul, $controller, $url, $icon){
+		$sp_post = "EXEC SP_ABSENOL_UPDMENU ?,?,?,?,?";
+       
+		$simpan = $this->db->query($sp_post,array('ID' => $id, 'TITLE' => $judul, 'CONTROLLER' => $controller, 'URL' => $url, 'ICON' => $icon));
 		
 		return $simpan->result();
 	}

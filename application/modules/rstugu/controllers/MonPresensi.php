@@ -44,7 +44,6 @@ class MonPresensi extends CI_Controller {
 		$thn = substr($now,0,4);
 		$bln = substr($now,5,2);
 		$waktu = $thn.''.$bln;
-		//print_r($waktu);exit;
 		$data = $this->MonPresensi_model->dashboard($waktu);
 		$this->output->set_content_type('application/json')->set_output(json_encode($data));
 	}
@@ -57,7 +56,6 @@ class MonPresensi extends CI_Controller {
 	}
 	
 	function excel_detail_pegawai_nonapollo($waktu,$status){
-		//$status = $this->input->get_request_header('X-status', TRUE);
 		$data = $this->MonPresensi_model->dashboard_detail_pegawai_nonapollo($waktu,$status);
 		$this->output->set_content_type('application/json')->set_output(json_encode($data));
 	}
@@ -106,7 +104,7 @@ class MonPresensi extends CI_Controller {
 		$this->output->set_content_type('application/json')->set_output(json_encode($response));
 	}
 	
-	function simpan_jadwal(){
+	function simpan_waktu_kerja(){
 		if($_SERVER['REQUEST_METHOD'] == 'POST'){
 			$headers['Authorization'] = $this->input->post('private_key');
 			if($headers['Authorization'] != null ){
@@ -125,7 +123,7 @@ class MonPresensi extends CI_Controller {
 						$JAM_INPUT = urldecode($this->input->post('JAM_INPUT'));
 						$KOMP_INPUT = urldecode($this->input->post('KOMP_INPUT'));
 						
-						$data = $this->MonPresensi_model->simpan_jadwal($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout, $durasi, $USER_INPUT, $JAM_INPUT, $KOMP_INPUT);
+						$data = $this->MonPresensi_model->simpan_waktu_kerja($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout, $durasi, $USER_INPUT, $JAM_INPUT, $KOMP_INPUT);
 						$this->output->set_content_type('application/json')->set_output(json_encode($data));	
 					}else{
 						$response = array('message' => 'Expired token', 
@@ -149,7 +147,7 @@ class MonPresensi extends CI_Controller {
 		}
 	}
 	
-	function ubah_jadwal(){
+	function ubah_waktu_kerja(){
 		if($_SERVER['REQUEST_METHOD'] == 'POST'){
 			$headers['Authorization'] = $this->input->post('private_key');
 			if($headers['Authorization'] != null ){
@@ -168,7 +166,7 @@ class MonPresensi extends CI_Controller {
 						$JAM_UBAH = urldecode($this->input->post('JAM_UBAH'));
 						$KOMP_UBAH = urldecode($this->input->post('KOMP_UBAH'));
 						
-						$data = $this->MonPresensi_model->ubah_jadwal($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout, $durasi, $USER_UBAH, $JAM_UBAH, $KOMP_UBAH);
+						$data = $this->MonPresensi_model->ubah_waktu_kerja($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout, $durasi, $USER_UBAH, $JAM_UBAH, $KOMP_UBAH);
 						
 						$this->output->set_content_type('application/json')->set_output(json_encode($data));	
 					}else{
@@ -246,7 +244,56 @@ class MonPresensi extends CI_Controller {
 		
 			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
 	}
-		
+	
+	function get_pegawai_by_lokasi(){
+		$bag = $this->input->get_request_header('X-bag', TRUE);
+		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
+		foreach($data as  $result){
+			$response[] = array(
+				'NIP' => trim($result->NIP2),
+				'NAMA' => $result->NAMA,			
+				'BAG' => $result->KD_LOK_KERJA			
+			);
+		}
+		if(empty($response)){
+			$dataa = array('message' => 'Data Tidak Ditemukan', 
+							'status' 	=> false, 
+							'code'		=> 404);
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}else{
+			$dataa = array('message' => 'Data Ditemukan', 
+							'status' 	=> TRUE, 
+							'code'		=> 200,
+							'data'		=> $response);
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}
+	}
+	
+	function get_list_pegawai(){
+		$bag = $this->input->get_request_header('X-bag', TRUE);
+		$data = $this->MonPresensi_model->get_list_pegawai($bag);
+		foreach($data as  $result){
+			$response[] = array(
+				'NIP' => trim($result->NIP2),
+				'NAMA' => $result->NAMA,			
+				'KDBAG' => $result->KD_LOK_KERJA,			
+				'BAG' => $result->NAMABAGIAN			
+			);
+		}
+		if(empty($response)){
+			$dataa = array('message' => 'Data Tidak Ditemukan', 
+							'status' 	=> false, 
+							'code'		=> 404);
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}else{
+			$dataa = array('message' => 'Data Ditemukan', 
+							'status' 	=> TRUE, 
+							'code'		=> 200,
+							'data'		=> $response);
+			$this->output->set_content_type('application/json')->set_output(json_encode($dataa));
+		}
+	}
+	
 	function get_pegawai_by_bagian($bag){
 		$data = $this->MonPresensi_model->get_pegawai_by_lokasi($bag);
 		foreach($data as  $result){
@@ -408,6 +455,50 @@ class MonPresensi extends CI_Controller {
 						$active = $this->input->post('active');
 						
 						$data = $this->MonPresensi_model->simpan_menu($judul, $controller, $url, $icon, $active);
+						$this->output->set_content_type('application/json')->set_output(json_encode($data));	
+					}else{
+						$response = array('message' => 'Expired token', 
+										  'status' => false, 
+										  'code'=>403);
+						$this->output->set_content_type('application/json')->set_output(json_encode($response));
+					}
+			}else{
+				$response = array('status' => false, 
+								  'message' => 'Unauthorised',
+								  'code' => 403 
+								  );
+				$this->output->set_content_type('application/json')->set_output(json_encode($response));
+			}	
+		} else {
+			$response = array('status' => false,
+							  'message' => 'method not allowed',
+							  'code' => 503
+			);
+			$this->output->set_content_type('application/json')->set_output(json_encode($response));
+		}
+	}
+	
+	function ubah_menu(){
+		if($_SERVER['REQUEST_METHOD'] == 'POST'){
+			$headers['Authorization'] = $this->input->post('private_key');
+			if($headers['Authorization'] != null ){
+				$decodedToken = AUTHORIZATION::TimeExpiredToken($headers['Authorization']);
+					if($decodedToken != FALSE){
+						$JNS_SHIFT = urldecode($this->input->post('JNS_SHIFT'));
+						$KET_SHIFT = urldecode($this->input->post('KET_SHIFT'));
+						$jammasuk = $this->input->post('JAM_MASUK');
+						$menitmasuk = $this->input->post('MENIT_MASUK');
+						$jampulang = $this->input->post('JAM_PULANG');
+						$menitpulang = $this->input->post('MENIT_PULANG');
+						$durasi = $this->input->post('DURASI');
+						$checkin='1900-01-01 '.$jammasuk.':'.$menitmasuk.':00.000';
+						$checkout='1900-01-01 '.$jampulang.':'.$menitpulang.':00.000';
+						$USER_UBAH = urldecode($this->input->post('USER_UBAH'));
+						$JAM_UBAH = urldecode($this->input->post('JAM_UBAH'));
+						$KOMP_UBAH = urldecode($this->input->post('KOMP_UBAH'));
+						
+						$data = $this->MonPresensi_model->ubah_menu($JNS_SHIFT, $KET_SHIFT, $checkin, $checkout, $durasi, $USER_UBAH, $JAM_UBAH, $KOMP_UBAH);
+						
 						$this->output->set_content_type('application/json')->set_output(json_encode($data));	
 					}else{
 						$response = array('message' => 'Expired token', 
